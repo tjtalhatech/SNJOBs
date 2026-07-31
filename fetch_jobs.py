@@ -104,7 +104,8 @@ def fetch_adzuna():
                     "posted": r.get("created", ""),
                     "salary": r.get("salary_min"),
                     "country": country.upper(),
-                    "is_remote": is_remote
+                    "is_remote": is_remote,
+                    "description": r.get("description", "")
                 })
     print(f"Adzuna: {len(jobs)} jobs")
     return jobs
@@ -154,7 +155,8 @@ def fetch_jsearch():
             "posted": r.get("job_posted_at_datetime_utc", ""),
             "salary": r.get("job_min_salary"),
             "country": job_country,
-            "is_remote": is_remote
+            "is_remote": is_remote,
+            "description": r.get("job_description", "")
         })
     print(f"JSearch: {len(jobs)} jobs")
     return jobs
@@ -192,7 +194,8 @@ def fetch_remoteok():
             "posted": r.get("date", ""),
             "salary": r.get("salary_min"),
             "country": "Remote",
-            "is_remote": True
+            "is_remote": True,
+            "description": r.get("description", "")
         })
     print(f"RemoteOK: {len(jobs)} jobs")
     return jobs
@@ -228,15 +231,123 @@ def fetch_arbeitnow():
             "posted": str(r.get("created_at", "")),
             "salary": None,
             "country": "DE" if "germany" in location.lower() else "",
-            "is_remote": is_remote
+            "is_remote": is_remote,
+            "description": r.get("description", "")
         })
     print(f"Arbeitnow: {len(jobs)} jobs")
     return jobs
 
 
+def fetch_remotive():
+    """Free, no API key required. https://remotive.com/api/remote-jobs"""
+    jobs = []
+    try:
+        data = http_get_json(
+            "https://remotive.com/api/remote-jobs?search=servicenow",
+            headers={"User-Agent": "Mozilla/5.0 (servicenow-leads-bot)"},
+        )
+    except Exception as e:
+        print(f"Remotive error: {e}")
+        return jobs
+
+    for r in data.get("jobs", []):
+        title = r.get("title", "")
+        desc = (r.get("description") or "")
+        tags = " ".join(r.get("tags", [])).lower()
+        if "servicenow" not in title.lower() and "servicenow" not in tags and "servicenow" not in desc.lower():
+            continue
+        company = r.get("company_name", "Unknown")
+        link = r.get("url", "")
+        location = r.get("candidate_required_location", "Worldwide")
+        
+        jobs.append({
+            "id": job_id(title, company, link),
+            "title": title,
+            "company": company,
+            "location": location,
+            "link": link,
+            "source": "Remotive",
+            "posted": r.get("publication_date", ""),
+            "salary": r.get("salary"),
+            "country": "Remote",
+            "is_remote": True,
+            "description": desc
+        })
+    print(f"Remotive: {len(jobs)} jobs")
+    return jobs
+
+
+def fetch_jobicy():
+    """Free, no API key required. https://jobicy.com/api/v2/remote-jobs"""
+    jobs = []
+    try:
+        data = http_get_json("https://jobicy.com/api/v2/remote-jobs?count=50")
+    except Exception as e:
+        print(f"Jobicy error: {e}")
+        return jobs
+
+    for r in data.get("data", []):
+        title = r.get("jobTitle", "")
+        desc = (r.get("jobDescription") or "")
+        if "servicenow" not in title.lower() and "servicenow" not in desc.lower():
+            continue
+        company = r.get("companyName", "Unknown")
+        link = r.get("url", "")
+        location = r.get("jobGeo", "Remote")
+        
+        jobs.append({
+            "id": job_id(title, company, link),
+            "title": title,
+            "company": company,
+            "location": location,
+            "link": link,
+            "source": "Jobicy",
+            "posted": r.get("pubDate", ""),
+            "salary": None,
+            "country": "Remote",
+            "is_remote": True,
+            "description": desc
+        })
+    print(f"Jobicy: {len(jobs)} jobs")
+    return jobs
+
+
+def classify_servicenow_role(title, desc=""):
+    t = (title or "").lower()
+    d = (desc or "").lower()
+
+    # 1. Platform Owner / Product Owner / Manager
+    if any(x in t for x in ["platform owner", "product owner", "servicenow owner", "platform manager", "servicenow manager", "platform lead", "servicenow lead owner", "head of servicenow"]):
+        return "Platform Owner"
+
+    # 2. Developer (any level: jr, sr, lead, principal, staff, engineer, dev)
+    if any(x in t for x in ["developer", "dev ", "dev,", "engineer", "programmer", "coder", "technical lead", "software engineer", "solution developer"]):
+        return "Developer"
+
+    # 3. Consultant (functional, technical, solution consultant, advisory)
+    if any(x in t for x in ["consultant", "consulting", "advisory", "implementation"]):
+        return "Consultant"
+
+    # 4. Administrator (admin, system admin, platform admin)
+    if any(x in t for x in ["admin", "administrator"]):
+        return "Administrator"
+
+    # Fallback checking description
+    if "platform owner" in d or "product owner" in d or "servicenow manager" in d:
+        return "Platform Owner"
+    if "developer" in d or "software engineer" in d:
+        return "Developer"
+    if "consultant" in d:
+        return "Consultant"
+    if "admin" in d or "administrator" in d:
+        return "Administrator"
+
+    return "Other"
+
+
 def main():
     all_jobs = (
-        fetch_adzuna() + fetch_jsearch() + fetch_remoteok() + fetch_arbeitnow()
+        fetch_adzuna() + fetch_jsearch() + fetch_remoteok() + fetch_arbeitnow() + fetch_remotive() + fetch_jobicy()
     )
 
     # de-dupe by id, keep newest data first
@@ -274,19 +385,9 @@ def main():
             elif ".adzuna.com" in link: j["country"] = "US"
         
         # 1. Categorization
-        title_lower = j.get("title", "").lower()
-        if any(x in title_lower for x in ["developer", "dev ", "engineer"]):
-            j["category"] = "Development"
-        elif "admin" in title_lower:
-            j["category"] = "Administration"
-        elif "architect" in title_lower:
-            j["category"] = "Architecture"
-        elif any(x in title_lower for x in ["consultant", "consulting"]):
-            j["category"] = "Consultancy"
-        elif "implementation" in title_lower:
-            j["category"] = "Implementation"
-        else:
-            j["category"] = "General"
+        role_cat = classify_servicenow_role(j.get("title"), j.get("description"))
+        j["category"] = role_cat
+        j["role_category"] = role_cat
 
         # 2. Archiving Logic (30 days)
         try:

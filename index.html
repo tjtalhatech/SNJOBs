@@ -216,62 +216,56 @@
     width: 100%;
   }
 
-  @media (min-width: 768px) { #list { grid-template-columns: repeat(3, 1fr); gap: 12px; } }
-  @media (min-width: 1280px) { #list { grid-template-columns: repeat(4, 1fr); } }
+  @media (min-width: 640px) { #list { grid-template-columns: repeat(3, 1fr); gap: 12px; } }
+  @media (min-width: 1024px) { #list { grid-template-columns: repeat(4, 1fr); gap: 14px; } }
 
   .card{
     background:var(--panel);
     border:1px solid var(--line);
     border-radius:10px;
-    padding:10px;
+    padding:12px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: all 0.3s ease;
     position: relative;
-    min-height: 130px;
+    min-height: 125px;
     width: 100%;
-    transform-origin: center center;
     overflow: hidden;
   }
   .card:hover{
     border-color:var(--accent);
-    transform: scale(1.02) translateY(-2px);
-    box-shadow: 0 15px 30px -10px rgba(0,0,0,0.5);
-    z-index: 10;
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px -10px rgba(0,0,0,0.5);
     background: #151C18;
   }
   .card a.title{
     color:var(--text);
     text-decoration:none;
-    font-size:12px;
+    font-size:13px;
     font-weight:700;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    line-height: 1.25;
-    margin-bottom: 4px;
+    line-height: 1.3;
+    margin-bottom: 6px;
     letter-spacing: -0.01em;
     transition: color .2s;
-  }
-  .card:hover a.title {
-    -webkit-line-clamp: initial;
-    display: block;
   }
   .card a.title:hover{color:var(--accent);}
   .company{
     color:var(--muted);
-    font-size:10px;
-    line-height: 1.2;
+    font-size:11px;
+    line-height: 1.25;
     font-weight: 500;
     display: flex;
     flex-direction: column;
-    gap: 1px;
+    gap: 2px;
   }
   .location {
-    font-size: 9px;
-    opacity: 0.6;
+    font-size: 10px;
+    opacity: 0.7;
     font-weight: 400;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -288,7 +282,7 @@
     border: 1px solid transparent;
   }
   .source{
-    font-size: 7px;
+    font-size: 8px;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     color: var(--accent);
@@ -296,15 +290,20 @@
     opacity: 0.9;
   }
   .category-badge {
-    font-size: 7px;
+    font-size: 8px;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    padding: 2px 5px;
-    border-radius: 3px;
+    padding: 2px 6px;
+    border-radius: 4px;
     background: var(--accent-dim);
     color: var(--accent);
   }
+  .category-badge.dev { background: rgba(16, 185, 129, 0.18); color: #10b981; }
+  .category-badge.admin { background: rgba(245, 158, 11, 0.18); color: #f59e0b; }
+  .category-badge.consult { background: rgba(6, 182, 212, 0.18); color: #06b6d4; }
+  .category-badge.owner { background: rgba(139, 92, 246, 0.18); color: #8b5cf6; }
+  .category-badge.other { background: var(--line); color: var(--muted); }
   .empty{
     text-align:center;color:var(--muted);padding:100px 20px;font-size:15px;
     background: var(--panel);
@@ -314,46 +313,18 @@
   footer{
     background: var(--panel);
     border-top: 1px solid var(--line);
-    padding: 60px 20px;
+    padding: 24px 20px;
     color: var(--muted);
   }
-  .footer-content {
-    max-width: 1400px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 40px;
-  }
-  .footer-col h4 {
-    color: var(--text);
-    margin: 0 0 16px;
-    font-size: 14px;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-  }
-  .footer-col ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  .footer-col li {
-    margin-bottom: 10px;
-    font-size: 14px;
-  }
-  .footer-col a {
-    color: var(--muted);
-    text-decoration: none;
-    transition: color .2s;
-  }
-  .footer-col a:hover { color: var(--accent); }
   .footer-bottom {
     max-width: 1400px;
-    margin: 40px auto 0;
-    padding-top: 24px;
-    border-top: 1px solid var(--line);
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     font-size: 12px;
+    gap: 8px;
+    flex-wrap: wrap;
   }
 </style>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -381,14 +352,14 @@
         <select id="countryFilter">
           <option value="">Country</option>
         </select>
-        <select id="categoryFilter">
-          <option value="">Category</option>
-          <option value="Development">Dev</option>
-          <option value="Administration">Admin</option>
-          <option value="Architecture">Arch</option>
-          <option value="Consultancy">Consult</option>
-          <option value="Implementation">Impl</option>
-          <option value="General">Gen</option>
+        <select id="roleFilter" aria-label="Filter by ServiceNow Role">
+          <option value="core">Target Roles (Dev, Consult, Admin, Owner)</option>
+          <option value="all">All ServiceNow Roles</option>
+          <option value="Developer">Developer (Any Level)</option>
+          <option value="Consultant">Consultant</option>
+          <option value="Administrator">Administrator</option>
+          <option value="Platform Owner">Platform Owner</option>
+          <option value="Other">Other Roles</option>
         </select>
         <select id="sortFilter" aria-label="Sort jobs by posted date">
           <option value="newest">Newest</option>
@@ -419,42 +390,6 @@
 </main>
 
 <footer>
-  <div class="footer-content">
-    <div class="footer-col">
-      <h4>Platform</h4>
-      <ul>
-        <li><a href="#">About Hub</a></li>
-        <li><a href="#">How it works</a></li>
-        <li><a href="#">Job Verification</a></li>
-        <li><a href="#">Privacy Policy</a></li>
-      </ul>
-    </div>
-    <div class="footer-col">
-      <h4>Ecosystem</h4>
-      <ul>
-        <li><a href="https://www.servicenow.com" target="_blank">ServiceNow.com</a></li>
-        <li><a href="https://developer.servicenow.com" target="_blank">Developer Portal</a></li>
-        <li><a href="https://community.servicenow.com" target="_blank">SN Community</a></li>
-      </ul>
-    </div>
-    <div class="footer-col">
-      <h4>Data Sources</h4>
-      <ul>
-        <li><a href="https://www.adzuna.com" target="_blank">Adzuna API</a></li>
-        <li><a href="https://rapidapi.com/jsearch/api/jsearch" target="_blank">JSearch API</a></li>
-        <li><a href="https://remoteok.com" target="_blank">RemoteOK</a></li>
-        <li><a href="https://www.arbeitnow.com" target="_blank">Arbeitnow</a></li>
-      </ul>
-    </div>
-    <div class="footer-col">
-      <h4>Newsletter</h4>
-      <p style="font-size: 13px; line-height: 1.5;">Get weekly ServiceNow job alerts delivered to your inbox.</p>
-      <div style="display:flex; gap:8px; margin-top:12px;">
-        <input type="email" placeholder="Email address" style="background:var(--bg); border:1px solid var(--line); color:var(--text); padding:8px 12px; border-radius:6px; font-size:13px; flex:1;">
-        <button style="background:var(--line); color:var(--text); border:none; padding:8px 12px; border-radius:6px; font-size:13px; cursor:pointer;">Join</button>
-      </div>
-    </div>
-  </div>
   <div class="footer-bottom">
     <div>&copy; 2026 ServiceNow Career Hub. All rights reserved.</div>
     <div>Auto-synchronized every 12 hours.</div>
@@ -549,25 +484,76 @@ function loadJobs() {
 
 loadJobs();
 
+function getRoleCategory(j) {
+  if (j.role_category && j.role_category !== 'Other' && j.role_category !== 'General') return j.role_category;
+  
+  const title = (j.title || '').toLowerCase();
+  const desc = (j.description || '').toLowerCase();
+
+  // Platform Owner
+  if (title.includes('platform owner') || title.includes('product owner') || title.includes('servicenow owner') || title.includes('platform manager') || title.includes('servicenow manager') || title.includes('platform lead') || title.includes('head of servicenow')) {
+    return 'Platform Owner';
+  }
+  // Developer (any level: jr, sr, lead, principal, staff, engineer, dev)
+  if (title.includes('developer') || title.includes('dev ') || title.includes('dev,') || title.endsWith('dev') || title.includes('engineer') || title.includes('programmer') || title.includes('coder') || j.category === 'Development' || j.category === 'Developer') {
+    return 'Developer';
+  }
+  // Consultant
+  if (title.includes('consultant') || title.includes('consulting') || title.includes('advisory') || j.category === 'Consultancy' || j.category === 'Consultant') {
+    return 'Consultant';
+  }
+  // Administrator
+  if (title.includes('admin') || title.includes('administrator') || j.category === 'Administration' || j.category === 'Administrator') {
+    return 'Administrator';
+  }
+
+  // Fallback checking description
+  if (desc.includes('platform owner') || desc.includes('product owner') || desc.includes('servicenow manager')) {
+    return 'Platform Owner';
+  }
+  if (desc.includes('developer') || desc.includes('software engineer')) {
+    return 'Developer';
+  }
+  if (desc.includes('consultant')) {
+    return 'Consultant';
+  }
+  if (desc.includes('admin') || desc.includes('administrator')) {
+    return 'Administrator';
+  }
+
+  return 'Other';
+}
+
 function render(){
   const q = document.getElementById('search').value.toLowerCase();
-  const cat = document.getElementById('categoryFilter').value;
+  const roleFilterEl = document.getElementById('roleFilter') || document.getElementById('categoryFilter');
+  const roleVal = roleFilterEl ? roleFilterEl.value : 'core';
   const country = document.getElementById('countryFilter').value;
   const remoteOnly = document.getElementById('remoteOnly').checked;
   const sortBy = document.getElementById('sortFilter').value;
 
   const filtered = allJobs.filter(j => {
     const matchesQ = !q || (j.title + ' ' + j.company).toLowerCase().includes(q);
-    const matchesCat = !cat || j.category === cat;
+    
+    const roleCat = getRoleCategory(j);
+    let matchesRole = true;
+    if (roleVal === 'core') {
+      matchesRole = ['Developer', 'Consultant', 'Administrator', 'Platform Owner'].includes(roleCat);
+    } else if (roleVal === 'all' || !roleVal) {
+      matchesRole = true;
+    } else {
+      matchesRole = (roleCat === roleVal);
+    }
+
     const matchesCountry = !country || (j.country || '').toLowerCase() === country.toLowerCase();
     const matchesRemote = !remoteOnly || j.is_remote;
     
     if (currentStatus === 'saved') {
-      return matchesQ && matchesCat && matchesCountry && matchesRemote && isSaved(j.id);
+      return matchesQ && matchesRole && matchesCountry && matchesRemote && isSaved(j.id);
     }
     
     const matchesStatus = (j.status || 'active') === currentStatus;
-    return matchesQ && matchesCat && matchesCountry && matchesRemote && matchesStatus;
+    return matchesQ && matchesRole && matchesCountry && matchesRemote && matchesStatus;
   });
 
   filtered.sort((a, b) => {
@@ -600,12 +586,16 @@ function render(){
     return;
   }
 
-  list.innerHTML = pageItems.map(j => `
+  list.innerHTML = pageItems.map(j => {
+    const roleCat = getRoleCategory(j);
+    const roleBadgeClass = roleCat === 'Developer' ? 'dev' : roleCat === 'Administrator' ? 'admin' : roleCat === 'Consultant' ? 'consult' : roleCat === 'Platform Owner' ? 'owner' : 'other';
+
+    return `
     <div class="card">
       <div class="card-body">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 12px;">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 8px;">
           <span class="source">${j.source}</span>
-          ${j.category ? `<span class="category-badge">${j.category}</span>` : ''}
+          <span class="category-badge ${roleBadgeClass}">${roleCat}</span>
         </div>
         <a href="${j.url || j.link}" target="_blank" class="title">${escapeHtml(j.title)}</a>
         <div class="company">
@@ -614,18 +604,18 @@ function render(){
         </div>
       </div>
       
-      <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-top:16px;">
+      <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-top:12px;">
         <div class="tags">
           ${j.posted ? `<span class="tag">${new Date(j.posted).toLocaleDateString(undefined, {month:'short', day:'numeric', year:'numeric'})}</span>` : ''}
           ${j.salary ? `<span class="tag" style="border-color:var(--accent); color:var(--accent); background:transparent;">$${Number(j.salary).toLocaleString()}+</span>` : ''}
           ${j.is_remote ? `<span class="tag" style="background:var(--accent); color:var(--bg);">Remote</span>` : ''}
         </div>
-        <button onclick="toggleSave('${j.id}', event)" style="background:none; border:none; cursor:pointer; color:${isSaved(j.id) ? 'var(--accent)' : 'var(--muted)'}; padding:8px; display:flex; transition:all .2s; transform:${isSaved(j.id) ? 'scale(1.1)' : 'scale(1)'};" title="${isSaved(j.id) ? 'Remove from saved' : 'Save job'}">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="${isSaved(j.id) ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+        <button onclick="toggleSave('${j.id}', event)" style="background:none; border:none; cursor:pointer; color:${isSaved(j.id) ? 'var(--accent)' : 'var(--muted)'}; padding:4px; display:flex; transition:all .2s;" title="${isSaved(j.id) ? 'Remove from saved' : 'Save job'}">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="${isSaved(j.id) ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
         </button>
       </div>
     </div>
-  `).join('');
+  `}).join('');
 
   renderPagination(totalPages);
 }
@@ -682,7 +672,8 @@ searchInput.addEventListener('keypress', (e) => {
   if (e.key === 'Enter') resetAndRender();
 });
 
-document.getElementById('categoryFilter').addEventListener('change', resetAndRender);
+const roleFilterElem = document.getElementById('roleFilter') || document.getElementById('categoryFilter');
+if (roleFilterElem) roleFilterElem.addEventListener('change', resetAndRender);
 document.getElementById('countryFilter').addEventListener('change', resetAndRender);
 document.getElementById('remoteOnly').addEventListener('change', resetAndRender);
 document.getElementById('sortFilter').addEventListener('change', resetAndRender);
