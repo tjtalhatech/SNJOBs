@@ -3,17 +3,19 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ServiceNow Leads</title>
+<title>SNListings! — ServiceNow Career & Job Hub</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%232563EB'/><rect x='1' y='1' width='30' height='30' rx='7' fill='%23FFFFFF' stroke='%232563EB' stroke-width='2'/><path d='M7.5 10.5C7.5 9 8.7 8 10.2 8H12.5C14 8 15 9 15 10.5C15 12 14 13 12.5 13H10.2V17H15' stroke='%232563EB' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round' fill='none'/><path d='M18 8V17M18 17L22.5 8V17' stroke='%230F172A' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='24.5' cy='9' r='1.5' fill='%232563EB'/></svg>">
 <style>
   :root{
-    --bg:#0E1411;
-    --panel:#151D19;
-    --line:#23302A;
-    --text:#E7EFE9;
-    --muted:#86988E;
-    --accent:#4BD68A;
-    --accent-dim:#1E3B2C;
-    --shadow: 0 4px 20px rgba(0,0,0,0.4);
+    --bg:#F4F7FC;
+    --panel:#FFFFFF;
+    --line:#E2E8F0;
+    --text:#0F172A;
+    --muted:#64748B;
+    --accent:#00875F;
+    --accent-hover:#00704F;
+    --accent-dim:#E6F4F0;
+    --shadow: 0 4px 20px -2px rgba(0, 135, 95, 0.08);
   }
   html, body {
     overflow-x: hidden;
@@ -30,18 +32,19 @@
     line-height: 1.6;
   }
   header{
-    padding:24px 20px 0;
+    padding:20px 24px 0;
     border-bottom:1px solid var(--line);
     position:sticky;top:0;
-    background:rgba(14, 20, 17, 0.9);
+    background:rgba(255, 255, 255, 0.92);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     z-index:100;
     width: 100%;
     box-sizing: border-box;
+    box-shadow: 0 2px 12px rgba(15, 23, 42, 0.03);
   }
   @media (max-width: 640px) {
-    header { padding: 20px 16px 0; }
+    header { padding: 16px 16px 0; }
   }
   .header-content {
     max-width: 1400px;
@@ -50,28 +53,301 @@
   .branding {
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
-    margin-bottom: 24px;
+    align-items: center;
+    margin-bottom: 16px;
     gap: 16px;
   }
+  .logo-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .logo-icon {
+    width: 40px;
+    height: 40px;
+    background: var(--accent-dim);
+    border: 1.5px solid rgba(37, 99, 235, 0.3);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
+    flex-shrink: 0;
+  }
   .logo-group .eyebrow {
-    font-size: 10px;
-    letter-spacing: .2em;
+    font-size: 9px;
+    letter-spacing: .18em;
     text-transform: uppercase;
     color: var(--accent);
     font-weight: 700;
-    margin-bottom: 2px;
+    margin-bottom: 1px;
   }
   .logo-group h1 {
-    font-size: clamp(24px, 5vw, 32px);
+    font-size: clamp(22px, 4vw, 28px);
     font-weight: 800;
     margin: 0;
     letter-spacing: -0.03em;
-    background: linear-gradient(135deg, #E7EFE9 0%, #4BD68A 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: var(--text);
+    line-height: 1.1;
+  }
+  .logo-group h1 span.brand-accent {
+    color: var(--accent);
   }
   .meta{color:var(--muted);font-size:11px; font-weight: 500; text-align: right; line-height: 1.4;}
+
+  /* JobAplic-Style Hero Container & Banner */
+  .hero-container {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .hero-main-card {
+    background: linear-gradient(135deg, #ECFDF5 0%, #FFFFFF 55%, #F0FDF4 100%);
+    border: 1px solid #D1FAE5;
+    border-radius: 24px;
+    padding: 56px 48px;
+    min-height: 440px;
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 40px;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 12px 36px -8px rgba(0, 135, 95, 0.08);
+  }
+
+  @media (max-width: 960px) {
+    .hero-main-card {
+      grid-template-columns: 1fr;
+      padding: 36px 28px;
+      min-height: auto;
+      gap: 32px;
+    }
+  }
+  @media (max-width: 640px) {
+    .hero-main-card {
+      padding: 26px 20px;
+      border-radius: 18px;
+    }
+  }
+
+  .hero-left {
+    display: flex;
+    flex-direction: column;
+    z-index: 2;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: #E6F4F0;
+    padding: 4px 12px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+    width: fit-content;
+  }
+  .hero-pulse {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px var(--accent);
+    display: inline-block;
+    animation: heroPulse 2s infinite ease-in-out;
+  }
+  @keyframes heroPulse {
+    0%, 100% { opacity: 0.5; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.3); }
+  }
+
+  .hero-headline {
+    font-size: clamp(30px, 4.2vw, 46px);
+    font-weight: 800;
+    color: #0F172A;
+    letter-spacing: -0.035em;
+    line-height: 1.16;
+    margin: 0 0 16px;
+  }
+  .hero-headline span {
+    color: #00875F;
+  }
+
+  .hero-subtext {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #64748B;
+    margin: 0 0 28px;
+    max-width: 540px;
+  }
+
+  /* Integrated Search Box in Hero without button */
+  .hero-search-box {
+    background: #FFFFFF;
+    border: 1.5px solid #CBD5E1;
+    border-radius: 14px;
+    padding: 12px 18px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    box-shadow: 0 10px 25px -5px rgba(37, 99, 235, 0.12);
+    transition: border-color 0.2s, box-shadow 0.2s;
+    max-width: 520px;
+  }
+  .hero-search-box:focus-within {
+    border-color: #2563EB;
+    box-shadow: 0 12px 30px -4px rgba(37, 99, 235, 0.2);
+  }
+  .hero-search-box input {
+    border: none;
+    outline: none;
+    font-size: 14px;
+    color: #0F172A;
+    flex: 1;
+    background: transparent;
+    font-family: inherit;
+  }
+  .hero-search-box input::placeholder {
+    color: #94A3B8;
+  }
+
+  /* Right Column Floating Portrait & Icon Badges */
+  .hero-right {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+  }
+  .hero-portrait-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 420px;
+    display: flex;
+    justify-content: center;
+  }
+  .hero-portrait-img {
+    width: 100%;
+    max-width: 380px;
+    height: auto;
+    border-radius: 20px;
+    object-fit: contain;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    filter: drop-shadow(0 12px 24px rgba(37, 99, 235, 0.12));
+    transition: transform 0.3s ease;
+  }
+  .hero-portrait-wrapper:hover .hero-portrait-img {
+    transform: scale(1.02);
+  }
+
+  /* Floating SVG doodle icons around right illustration */
+  .float-icon {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    background: #FFFFFF;
+    border: 1px solid #E2E8F0;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+    color: #2563EB;
+    animation: floatAnim 4s infinite ease-in-out;
+    pointer-events: none;
+  }
+  .float-icon-1 { top: -10px; left: -10px; animation-delay: 0s; }
+  .float-icon-2 { top: 20%; right: -15px; animation-delay: 1s; }
+  .float-icon-3 { bottom: 10px; left: 0px; animation-delay: 2s; }
+  .float-icon-4 { bottom: 30px; right: -10px; animation-delay: 1.5s; }
+
+  @keyframes floatAnim {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-8px); }
+  }
+
+  /* Bottom Hero Stats Card (Matching reference design) */
+  .hero-stats-card {
+    background: #FFFFFF;
+    border: 1px solid #E2E8F0;
+    border-radius: 20px;
+    padding: 24px 32px;
+    box-shadow: 0 10px 30px -4px rgba(15, 23, 42, 0.05);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+  }
+  @media (max-width: 860px) {
+    .hero-stats-card {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 20px 24px;
+      gap: 20px;
+    }
+  }
+  .hero-stats-trust-text {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1E293B;
+    line-height: 1.55;
+    max-width: 440px;
+  }
+  .hero-stats-trust-text span {
+    color: #00875F;
+    font-weight: 800;
+  }
+  .hero-stats-columns {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    flex-wrap: wrap;
+  }
+  @media (max-width: 640px) {
+    .hero-stats-columns {
+      width: 100%;
+      justify-content: space-between;
+      gap: 16px;
+    }
+  }
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    padding-right: 24px;
+    border-right: 1px solid #E2E8F0;
+  }
+  .stat-item:last-child {
+    padding-right: 0;
+    border-right: none;
+  }
+  @media (max-width: 640px) {
+    .stat-item {
+      padding-right: 12px;
+    }
+  }
+  .stat-number-big {
+    font-size: 26px;
+    font-weight: 800;
+    color: #0F172A;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+  .stat-desc {
+    font-size: 11px;
+    color: #64748B;
+    font-weight: 500;
+    margin-top: 3px;
+    max-width: 110px;
+    line-height: 1.35;
+  }
   
   .tabs {
     display:flex; gap:24px; border-bottom:1px solid var(--line);
@@ -86,22 +362,22 @@
     white-space: nowrap;
     position: relative;
   }
-  .tab.active { color: var(--accent); }
+  .tab.active { color: var(--accent); font-weight: 700; }
   .tab.active::after {
     content: '';
     position: absolute;
     bottom: -1px;
     left: 0;
     width: 100%;
-    height: 2px;
+    height: 2.5px;
     background: var(--accent);
-    box-shadow: 0 0 10px var(--accent-dim);
+    border-radius: 2px;
   }
 
   .controls{
     display:flex;
-    gap:8px;
-    margin:12px 0;
+    gap:10px;
+    margin:14px 0;
     width: 100%;
     align-items: center;
     justify-content: space-between;
@@ -118,7 +394,7 @@
   .filter-bar {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 6px;
+    gap: 8px;
     flex: 1;
     align-items: center;
     order: 1;
@@ -149,12 +425,13 @@
     color: var(--text);
     font-size: 12px;
     z-index: -1;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.04);
   }
   .controls.search-mode input[type=search] {
     position: static;
     width: 100%;
     opacity: 1;
-    padding: 8px 12px;
+    padding: 9px 14px;
     border-color: var(--line);
     pointer-events: all;
     margin-right: 8px;
@@ -168,8 +445,8 @@
     background: var(--panel);
     color: var(--muted);
     border: 1px solid var(--line);
-    width: 36px;
-    height: 36px;
+    width: 38px;
+    height: 38px;
     border-radius: 10px;
     cursor: pointer;
     transition: all .2s;
@@ -177,13 +454,14 @@
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.03);
   }
-  .search-btn:hover { border-color: var(--accent); color: var(--accent); }
-  .search-btn.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+  .search-btn:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+  .search-btn.active { background: var(--accent); color: #FFFFFF; border-color: var(--accent); }
   
   select, .remote-label{
     background:var(--panel);border:1px solid var(--line);color:var(--text);
-    padding:8px 10px;border-radius:10px;font-size:11px;
+    padding:8px 12px;border-radius:10px;font-size:12px; font-weight: 500;
     cursor: pointer;
     transition: all .2s;
     display: flex;
@@ -193,51 +471,54 @@
     white-space: nowrap;
     min-width: 0;
     width: 100%;
-    height: 36px;
+    height: 38px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.03);
   }
-  .remote-label { justify-content: center; padding: 0 8px; font-weight: 600; }
+  .remote-label { justify-content: center; padding: 0 10px; font-weight: 600; }
   
   select {
     appearance: none;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 24 24' fill='none' stroke='%2386988E' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 24 24' fill='none' stroke='%2364748B' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
-    background-position: right 8px center;
-    padding-right: 24px;
+    background-position: right 10px center;
+    padding-right: 26px;
   }
   select:hover, .remote-label:hover { border-color: var(--accent); background: var(--accent-dim); }
   
-  main{padding:8px 16px 80px;max-width:1400px;margin:0 auto;}
-  .count-row{color:var(--muted);font-size:9px;margin-bottom:10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.7;}
+  main{padding:12px 20px 80px;max-width:1400px;margin:0 auto;}
+  .count-row{color:var(--muted);font-size:10px;margin-bottom:12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;}
   
   #list {
     display: grid;
-    gap: 10px;
+    gap: 12px;
     grid-template-columns: repeat(2, 1fr);
     width: 100%;
   }
 
-  @media (min-width: 640px) { #list { grid-template-columns: repeat(3, 1fr); gap: 12px; } }
-  @media (min-width: 1024px) { #list { grid-template-columns: repeat(4, 1fr); gap: 14px; } }
+  @media (min-width: 640px) { #list { grid-template-columns: repeat(3, 1fr); gap: 14px; } }
+  @media (min-width: 1024px) { #list { grid-template-columns: repeat(4, 1fr); gap: 16px; } }
 
   .card{
     background:var(--panel);
     border:1px solid var(--line);
-    border-radius:10px;
-    padding:12px;
+    border-radius:14px;
+    padding:14px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    transition: all 0.3s ease;
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
     position: relative;
-    min-height: 125px;
+    min-height: 130px;
     width: 100%;
     overflow: hidden;
+    box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
+    will-change: transform, background;
   }
   .card:hover{
-    border-color:var(--accent);
-    transform: translateY(-2px);
-    box-shadow: 0 10px 25px -10px rgba(0,0,0,0.5);
-    background: #151C18;
+    border-color:#A7F3D0;
+    transform: translateY(-4px) scale(1.025);
+    box-shadow: 0 14px 30px -6px rgba(0, 135, 95, 0.16);
+    background: linear-gradient(135deg, #ECFDF5 0%, #D1FAE5 100%);
   }
   .card a.title{
     color:var(--text);
@@ -248,7 +529,7 @@
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    line-height: 1.3;
+    line-height: 1.35;
     margin-bottom: 6px;
     letter-spacing: -0.01em;
     transition: color .2s;
@@ -257,7 +538,7 @@
   .company{
     color:var(--muted);
     font-size:11px;
-    line-height: 1.25;
+    line-height: 1.3;
     font-weight: 500;
     display: flex;
     flex-direction: column;
@@ -265,7 +546,7 @@
   }
   .location {
     font-size: 10px;
-    opacity: 0.7;
+    opacity: 0.85;
     font-weight: 400;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -273,21 +554,31 @@
   }
   .tags{display:flex;gap:4px;margin-top:10px;flex-wrap:wrap;}
   .tag{
-    font-size:8px;
-    padding:2px 6px;
-    border-radius:4px;
-    background: var(--line);
+    font-size:9px;
+    padding:2px 7px;
+    border-radius:5px;
+    background: #F1F5F9;
     color: var(--muted);
-    font-weight: 700;
-    border: 1px solid transparent;
+    font-weight: 600;
+    border: 1px solid #E2E8F0;
   }
   .source{
-    font-size: 8px;
+    font-size: 9px;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.08em;
     color: var(--accent);
     font-weight: 800;
-    opacity: 0.9;
+  }
+  .new-badge {
+    font-size: 8px;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    padding: 1px 6px;
+    border-radius: 4px;
+    background: #DCFCE7;
+    color: #15803D;
+    border: 1px solid #BBF7D0;
+    line-height: 1.2;
   }
   .category-badge {
     font-size: 8px;
@@ -295,25 +586,25 @@
     text-transform: uppercase;
     letter-spacing: 0.05em;
     padding: 2px 6px;
-    border-radius: 4px;
+    border-radius: 5px;
     background: var(--accent-dim);
     color: var(--accent);
   }
-  .category-badge.dev { background: rgba(16, 185, 129, 0.18); color: #10b981; }
-  .category-badge.admin { background: rgba(245, 158, 11, 0.18); color: #f59e0b; }
-  .category-badge.consult { background: rgba(6, 182, 212, 0.18); color: #06b6d4; }
-  .category-badge.owner { background: rgba(139, 92, 246, 0.18); color: #8b5cf6; }
-  .category-badge.other { background: var(--line); color: var(--muted); }
+  .category-badge.dev { background: #DBEAFE; color: #1D4ED8; }
+  .category-badge.admin { background: #FEF3C7; color: #D97706; }
+  .category-badge.consult { background: #CFFAFE; color: #0891B2; }
+  .category-badge.owner { background: #F3E8FF; color: #7E22CE; }
+  .category-badge.other { background: #F1F5F9; color: #64748B; }
   .empty{
-    text-align:center;color:var(--muted);padding:100px 20px;font-size:15px;
+    text-align:center;color:var(--muted);padding:90px 20px;font-size:14px;
     background: var(--panel);
-    border-radius: 12px;
+    border-radius: 14px;
     border: 1px dashed var(--line);
   }
   footer{
     background: var(--panel);
     border-top: 1px solid var(--line);
-    padding: 24px 20px;
+    padding: 20px 24px;
     color: var(--muted);
   }
   .footer-bottom {
@@ -325,22 +616,70 @@
     font-size: 12px;
     gap: 8px;
     flex-wrap: wrap;
+    font-weight: 500;
   }
 </style>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
 
 <header>
   <div class="header-content">
     <div class="branding">
-      <div class="logo-group">
-        <div class="eyebrow">ServiceNow Professional Network</div>
-        <h1>Career Hub</h1>
+      <div class="logo-wrapper">
+        <div class="logo-icon">
+          <svg width="24" height="24" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M7.5 10.5C7.5 9 8.7 8 10.2 8H12.5C14 8 15 9 15 10.5C15 12 14 13 12.5 13H10.2V17H15" stroke="#2563EB" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M18 8V17M18 17L22.5 8V17" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+            <circle cx="24.5" cy="9" r="1.5" fill="#2563EB"/>
+          </svg>
+        </div>
+        <div class="logo-group">
+          <div class="eyebrow">SERVICENOW CAREER PLATFORM</div>
+          <h1>SNListings<span class="brand-accent">!</span></h1>
+        </div>
       </div>
       <div class="meta" id="updated">Loading listings…</div>
     </div>
     
+    <!-- JobAplic-Style Hero Container -->
+    <div class="hero-container">
+      <!-- Main Hero Card -->
+      <div class="hero-main-card">
+        <div class="hero-left">
+          <div class="hero-badge"><span class="hero-pulse"></span> VERIFIED CAREER HUB</div>
+          <h2 class="hero-headline">Helping ServiceNow Geniuses <br><span>Land Their Dream Role</span></h2>
+        </div>
+
+        <div class="hero-right">
+          <div class="hero-portrait-wrapper">
+            <img src="/Handshake.svg" alt="ServiceNow Career Handshake" class="hero-portrait-img">
+          </div>
+        </div>
+      </div>
+
+      <!-- Bottom Stats Card (Matching reference design) -->
+      <div class="hero-stats-card">
+        <div class="hero-stats-trust-text">
+          <span>1000+ ServiceNow professionals</span> trust our platform to find verified remote and enterprise work of their choice.
+        </div>
+        <div class="hero-stats-columns">
+          <div class="stat-item">
+            <div class="stat-number-big" id="heroActiveCount">--</div>
+            <div class="stat-desc">Active ServiceNow Roles</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-number-big">15K+</div>
+            <div class="stat-desc">Verified Applicants</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-number-big">1.5M</div>
+            <div class="stat-desc">Subscribed Job Views</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="tabs">
       <div class="tab active" data-status="active">Active Listings</div>
       <div class="tab" data-status="archived">Archived Jobs</div>
@@ -391,7 +730,7 @@
 
 <footer>
   <div class="footer-bottom">
-    <div>&copy; 2026 ServiceNow Career Hub. All rights reserved.</div>
+    <div>&copy; 2026 SNListings! All rights reserved.</div>
     <div>Auto-synchronized every 12 hours.</div>
   </div>
 </footer>
@@ -456,6 +795,12 @@ function loadJobs() {
     .then(data => {
       allJobs = data.jobs || [];
       updatedEl.textContent = 'Last updated: ' + (data.updated_at ? new Date(data.updated_at).toLocaleString() : 'Never');
+
+      const heroCountEl = document.getElementById('heroActiveCount');
+      if (heroCountEl) {
+        const activeCount = allJobs.filter(j => (j.status || 'active') === 'active').length;
+        heroCountEl.textContent = activeCount.toLocaleString();
+      }
 
       // Update country filter dropdown
       const cSel = document.getElementById('countryFilter');
@@ -524,6 +869,14 @@ function getRoleCategory(j) {
   return 'Other';
 }
 
+function isRecentPost(postedStr) {
+  if (!postedStr) return false;
+  const t = new Date(postedStr).getTime();
+  if (isNaN(t)) return false;
+  const diff = Date.now() - t;
+  return diff >= -3600000 && diff <= 24 * 60 * 60 * 1000;
+}
+
 function render(){
   const q = document.getElementById('search').value.toLowerCase();
   const roleFilterEl = document.getElementById('roleFilter') || document.getElementById('categoryFilter');
@@ -589,12 +942,16 @@ function render(){
   list.innerHTML = pageItems.map(j => {
     const roleCat = getRoleCategory(j);
     const roleBadgeClass = roleCat === 'Developer' ? 'dev' : roleCat === 'Administrator' ? 'admin' : roleCat === 'Consultant' ? 'consult' : roleCat === 'Platform Owner' ? 'owner' : 'other';
+    const isNew = isRecentPost(j.posted);
 
     return `
     <div class="card">
       <div class="card-body">
         <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 8px;">
-          <span class="source">${j.source}</span>
+          <div style="display:flex; align-items:center; gap:5px;">
+            <span class="source">${j.source}</span>
+            ${isNew ? `<span class="new-badge">NEW</span>` : ''}
+          </div>
           <span class="category-badge ${roleBadgeClass}">${roleCat}</span>
         </div>
         <a href="${j.url || j.link}" target="_blank" class="title">${escapeHtml(j.title)}</a>
@@ -654,6 +1011,33 @@ const resetAndRender = () => { currentPage = 1; render(); };
 
 const searchBtn = document.getElementById('searchBtn');
 const searchInput = document.getElementById('search');
+
+const heroSearchInput = document.getElementById('heroSearchInput');
+const heroSearchBtn = document.getElementById('heroSearchBtn');
+
+if (heroSearchInput) {
+  heroSearchInput.addEventListener('input', (e) => {
+    if (searchInput) searchInput.value = e.target.value;
+    resetAndRender();
+  });
+  heroSearchInput.addEventListener('keypress', (e) => {
+    if (e.key === 'Enter') {
+      if (searchInput && heroSearchInput) searchInput.value = heroSearchInput.value;
+      resetAndRender();
+      document.getElementById('list')?.scrollIntoView({ behavior: 'smooth' });
+    }
+  });
+}
+
+if (heroSearchBtn) {
+  heroSearchBtn.addEventListener('click', () => {
+    if (heroSearchInput && searchInput) {
+      searchInput.value = heroSearchInput.value;
+    }
+    resetAndRender();
+    document.getElementById('list')?.scrollIntoView({ behavior: 'smooth' });
+  });
+}
 
 searchBtn.addEventListener('click', () => {
   const controls = document.querySelector('.controls');

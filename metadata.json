@@ -1,6 +1,6 @@
 {
-  "name": "ServiceNow JobListings",
-  "description": "v1.0.0",
+  "name": "SNListings!",
+  "description": "Real-time ServiceNow career hub for developers, consultants, admins, and platform owners.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
