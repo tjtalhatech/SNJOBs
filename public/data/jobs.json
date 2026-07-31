@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-07-05T07:51:55.537992Z",
-  "count": 1065,
+  "updated_at": "2026-07-31T05:41:21.074142Z",
+  "count": 1067,
   "jobs": [
+    {
+      "id": "045ca4ecfd24",
+      "title": "Human Resources Specialist",
+      "company": "Harvey Nash",
+      "location": "California, California, United States",
+      "link": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
+      "source": "RemoteOK",
+      "posted": "2026-07-30T00:40:50+00:00",
+      "salary": 0,
+      "country": "Remote",
+      "is_remote": true,
+      "category": "General",
+      "status": "active"
+    },
+    {
+      "id": "776e2aa279a6",
+      "title": "HR Generalist 1",
+      "company": "TALENT Software Services",
+      "location": "California, California, United States",
+      "link": "https://remoteOK.com/remote-jobs/remote-hr-generalist-1-talent-software-services-1135696",
+      "source": "RemoteOK",
+      "posted": "2026-07-29T18:06:26+00:00",
+      "salary": 0,
+      "country": "Remote",
+      "is_remote": true,
+      "category": "General",
+      "status": "active"
+    },
     {
       "id": "2a3826f7e851",
       "title": "S4HANA Internal Control CCM and CCT, Analyst",
@@ -8162,7 +8190,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0c8db2618570",
@@ -8176,7 +8204,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1447917a7f11",
@@ -8190,7 +8218,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b05f95465bec",
@@ -8204,7 +8232,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c9fd0bcfc8f6",
@@ -8218,7 +8246,7 @@
       "country": null,
       "is_remote": true,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "48ce812739b9",
@@ -8232,7 +8260,7 @@
       "country": "US",
       "is_remote": true,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b7bb242d43d4",
@@ -8246,7 +8274,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0107256dbf87",
@@ -8260,7 +8288,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "91b1fbf221a7",
@@ -8274,7 +8302,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "aadc624e13f3",
@@ -8288,7 +8316,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3341bde2afd7",
@@ -8302,7 +8330,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5cc071921b20",
@@ -8314,7 +8342,7 @@
       "posted": "2026-07-01T00:00:00.000Z",
       "salary": null,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d50edbaecd10",
@@ -8326,7 +8354,7 @@
       "posted": "2026-06-30T20:11:58Z",
       "salary": 104000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8339,7 +8367,7 @@
       "posted": "2026-06-30T20:11:58Z",
       "salary": 104000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8354,7 +8382,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "337fdb193d4f",
@@ -8368,7 +8396,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9f0c43e4c7e5",
@@ -8382,7 +8410,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3f39c3c5a0db",
@@ -8396,7 +8424,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "48a7c67c4072",
@@ -8408,7 +8436,7 @@
       "posted": "2026-06-30T18:55:05Z",
       "salary": 104000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8421,7 +8449,7 @@
       "posted": "2026-06-30T18:55:05Z",
       "salary": 104000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8436,7 +8464,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "98b29e1c609a",
@@ -8450,7 +8478,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6e995513942e",
@@ -8464,7 +8492,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6da912420544",
@@ -8478,7 +8506,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "49fd33c8c309",
@@ -8492,7 +8520,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0c7687c4fab7",
@@ -8506,7 +8534,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c329857f4ecd",
@@ -8518,7 +8546,7 @@
       "posted": "2026-06-30T16:33:57Z",
       "salary": 72037.85,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8531,7 +8559,7 @@
       "posted": "2026-06-30T16:33:57Z",
       "salary": 72037.85,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8546,7 +8574,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "326878e85e7c",
@@ -8560,7 +8588,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a0a53a721f9f",
@@ -8574,7 +8602,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e3c7acbc117b",
@@ -8588,7 +8616,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "857e613fb845",
@@ -8600,7 +8628,7 @@
       "posted": "2026-06-30T16:11:30Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8613,7 +8641,7 @@
       "posted": "2026-06-30T16:11:30Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8626,7 +8654,7 @@
       "posted": "2026-06-30T16:11:30Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8639,7 +8667,7 @@
       "posted": "2026-06-30T16:11:30Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8652,7 +8680,7 @@
       "posted": "2026-06-30T16:11:30Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8665,7 +8693,7 @@
       "posted": "2026-06-30T16:11:30Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8678,7 +8706,7 @@
       "posted": "2026-06-30T16:11:30Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8691,7 +8719,7 @@
       "posted": "2026-06-30T16:11:30Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -8706,7 +8734,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0756233e2120",
@@ -8720,7 +8748,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ac9736a8f658",
@@ -8734,7 +8762,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9b91504c5ecc",
@@ -8748,7 +8776,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "57ed972b34cd",
@@ -8762,7 +8790,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "341032fd0e1d",
@@ -8776,7 +8804,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8f6d0811e271",
@@ -8790,7 +8818,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "fa2cd30f0c92",
@@ -8804,7 +8832,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0d3a2733fe93",
@@ -8818,7 +8846,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ae1618df32d2",
@@ -8832,7 +8860,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "66e4613addee",
@@ -8846,7 +8874,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "19ee39bcc094",
@@ -8860,7 +8888,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "26dc22a97c99",
@@ -8874,7 +8902,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Administration",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4869912a72e0",
@@ -8888,7 +8916,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "801df8d14980",
@@ -8902,7 +8930,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "cb5da5ec196b",
@@ -8916,7 +8944,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7d77306ba302",
@@ -8930,7 +8958,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "27693f4264ce",
@@ -8944,7 +8972,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7a1a59ef95c5",
@@ -8958,7 +8986,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6799181dfd24",
@@ -8972,7 +9000,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "48918d8fffed",
@@ -8986,7 +9014,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b0c87e43b343",
@@ -9000,7 +9028,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d1b046690553",
@@ -9014,7 +9042,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "178f6d7b1389",
@@ -9028,7 +9056,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "57a273b84010",
@@ -9042,7 +9070,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "85331c857574",
@@ -9056,7 +9084,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a4d1053aed1e",
@@ -9070,7 +9098,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a1ec86975437",
@@ -9084,7 +9112,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5799f5099339",
@@ -9098,7 +9126,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c226d75bd887",
@@ -9112,7 +9140,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "03dc857b926e",
@@ -9126,7 +9154,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "19ccd46d55c3",
@@ -9140,7 +9168,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ea858c159607",
@@ -9154,7 +9182,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "16b4f2c4a053",
@@ -9168,7 +9196,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ff26e35e0709",
@@ -9182,7 +9210,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3c17169b4226",
@@ -9196,7 +9224,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bee1cd7e3a9a",
@@ -9210,7 +9238,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a8db77662918",
@@ -9224,7 +9252,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "38fa34388136",
@@ -9238,7 +9266,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "463398ab6d38",
@@ -9252,7 +9280,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "03f116e13b78",
@@ -9266,7 +9294,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "dfd25c9de8ca",
@@ -9280,7 +9308,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4373c78a7e25",
@@ -9294,7 +9322,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "da16c93f189f",
@@ -9308,7 +9336,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4c88ae8969fe",
@@ -9322,7 +9350,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b242e6164638",
@@ -9336,7 +9364,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ca050edf4d03",
@@ -9350,7 +9378,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a292385f8e88",
@@ -9364,7 +9392,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "240decde4e6d",
@@ -9378,7 +9406,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b01fdbf705d2",
@@ -9392,7 +9420,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a2b3dc624182",
@@ -9406,7 +9434,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a1634c928637",
@@ -9420,7 +9448,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d51360721bae",
@@ -9434,7 +9462,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "df74fc160802",
@@ -9448,7 +9476,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a6694a999bbb",
@@ -9462,7 +9490,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b5a5b131671f",
@@ -9476,7 +9504,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "88d8d26dad6f",
@@ -9490,7 +9518,7 @@
       "country": "CA",
       "is_remote": true,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0eb2fd1f8c1e",
@@ -9504,7 +9532,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "474310bda4ba",
@@ -9518,7 +9546,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3dba3fa93c35",
@@ -9530,7 +9558,7 @@
       "posted": "2026-06-30T11:01:51Z",
       "salary": 67600.87,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9543,7 +9571,7 @@
       "posted": "2026-06-30T11:01:51Z",
       "salary": 67600.87,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9558,7 +9586,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3bd6ea172815",
@@ -9572,7 +9600,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2b15a9286764",
@@ -9586,7 +9614,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "52cecbd42a24",
@@ -9600,7 +9628,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8e84b80eb332",
@@ -9614,7 +9642,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "cf0c71519bde",
@@ -9628,7 +9656,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d561a6ec864f",
@@ -9642,7 +9670,7 @@
       "country": null,
       "is_remote": true,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bc328ec3d9a8",
@@ -9654,7 +9682,7 @@
       "posted": "2026-06-30T00:00:00.000Z",
       "salary": 77600,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f607c7cfe545",
@@ -9668,7 +9696,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5d08180b3d3c",
@@ -9682,7 +9710,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2e7eee38fab9",
@@ -9694,7 +9722,7 @@
       "posted": "2026-06-29T20:09:27Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9707,7 +9735,7 @@
       "posted": "2026-06-29T20:09:27Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9720,7 +9748,7 @@
       "posted": "2026-06-29T20:09:27Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9733,7 +9761,7 @@
       "posted": "2026-06-29T20:09:27Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9746,7 +9774,7 @@
       "posted": "2026-06-29T20:09:27Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9759,7 +9787,7 @@
       "posted": "2026-06-29T20:09:27Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9774,7 +9802,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e37234abf245",
@@ -9788,7 +9816,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6df087f705ea",
@@ -9802,7 +9830,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3bc75e44c33b",
@@ -9816,7 +9844,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b5b187a9b3e1",
@@ -9830,7 +9858,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d56d2ff330a9",
@@ -9844,7 +9872,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a8dfcdab1d23",
@@ -9858,7 +9886,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "86a42b03b7a9",
@@ -9872,7 +9900,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "29b77c979f5c",
@@ -9886,7 +9914,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "97f030d1ee3a",
@@ -9898,7 +9926,7 @@
       "posted": "2026-06-29T20:09:21Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9911,7 +9939,7 @@
       "posted": "2026-06-29T20:09:21Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9924,7 +9952,7 @@
       "posted": "2026-06-29T20:09:21Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9937,7 +9965,7 @@
       "posted": "2026-06-29T20:09:21Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9950,7 +9978,7 @@
       "posted": "2026-06-29T20:09:21Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9963,7 +9991,7 @@
       "posted": "2026-06-29T20:09:21Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9976,7 +10004,7 @@
       "posted": "2026-06-29T20:09:21Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -9989,7 +10017,7 @@
       "posted": "2026-06-29T20:09:21Z",
       "salary": 90000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10004,7 +10032,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "499247aafbb7",
@@ -10018,7 +10046,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f964e69b0e30",
@@ -10032,7 +10060,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0441594606c8",
@@ -10046,7 +10074,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "cb15e26928d6",
@@ -10060,7 +10088,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "68405cd27710",
@@ -10074,7 +10102,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "fc5a13a7b41e",
@@ -10088,7 +10116,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "070fc2cb217b",
@@ -10102,7 +10130,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b04fe6e3852f",
@@ -10116,7 +10144,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b0bc87c05ce9",
@@ -10130,7 +10158,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1f11cec3dabe",
@@ -10144,7 +10172,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "38f289df3c4b",
@@ -10158,7 +10186,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0a77f64c1d74",
@@ -10170,7 +10198,7 @@
       "posted": "2026-06-29T20:09:18Z",
       "salary": 104000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10183,7 +10211,7 @@
       "posted": "2026-06-29T20:09:18Z",
       "salary": 104000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10196,7 +10224,7 @@
       "posted": "2026-06-29T20:09:18Z",
       "salary": 104000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10209,7 +10237,7 @@
       "posted": "2026-06-29T20:09:18Z",
       "salary": 104000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10224,7 +10252,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d13aa42a4c9a",
@@ -10238,7 +10266,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "49ffb2d2cc8b",
@@ -10252,7 +10280,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9bc83ca1db20",
@@ -10266,7 +10294,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "685b64de55f2",
@@ -10280,7 +10308,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c37e48cff054",
@@ -10294,7 +10322,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "891abfb2eb07",
@@ -10306,7 +10334,7 @@
       "posted": "2026-06-29T18:48:30Z",
       "salary": 65000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10319,7 +10347,7 @@
       "posted": "2026-06-29T18:48:30Z",
       "salary": 65000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10334,7 +10362,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9d4c208d9c17",
@@ -10348,7 +10376,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2d5bf507dd65",
@@ -10362,7 +10390,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "578994a5bf13",
@@ -10376,7 +10404,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "77c6726e73de",
@@ -10390,7 +10418,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ea4321626bfb",
@@ -10404,7 +10432,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4bcb11fa06e4",
@@ -10418,7 +10446,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "93c164a5836d",
@@ -10432,7 +10460,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d37cf41a098e",
@@ -10446,7 +10474,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ade3048d138e",
@@ -10460,7 +10488,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "62b8f8068ea3",
@@ -10474,7 +10502,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "123aa83709d4",
@@ -10488,7 +10516,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4776fee7aac5",
@@ -10500,7 +10528,7 @@
       "posted": "2026-06-29T00:00:00.000Z",
       "salary": 69,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "45144aa20cee",
@@ -10512,7 +10540,7 @@
       "posted": "2026-06-28T16:29:10Z",
       "salary": 42920.98,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10525,7 +10553,7 @@
       "posted": "2026-06-28T16:29:10Z",
       "salary": 42920.98,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10540,7 +10568,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "75e07f56b003",
@@ -10554,7 +10582,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7c6159a8effb",
@@ -10568,7 +10596,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c4cb10304003",
@@ -10582,7 +10610,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ad43cdfcf7c7",
@@ -10596,7 +10624,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e83d3c2fcd8a",
@@ -10610,7 +10638,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "99bb3f8314b4",
@@ -10624,7 +10652,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "dd82c09b8ac8",
@@ -10638,7 +10666,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7fd78ea29a3c",
@@ -10652,7 +10680,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3850b2eef3bf",
@@ -10666,7 +10694,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "54c5fc287537",
@@ -10680,7 +10708,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "eed314910101",
@@ -10694,7 +10722,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4d5a50aa3262",
@@ -10708,7 +10736,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "40c6e5804986",
@@ -10722,7 +10750,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f10000c1e60b",
@@ -10736,7 +10764,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bd58eb92d8e5",
@@ -10750,7 +10778,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "99289655e20e",
@@ -10764,7 +10792,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b7bde4923b17",
@@ -10778,7 +10806,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ccda1aad241e",
@@ -10792,7 +10820,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c59c2ef3478a",
@@ -10806,7 +10834,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6a1e68a49fab",
@@ -10820,7 +10848,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b1902b0a08c8",
@@ -10834,7 +10862,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "dfdb30ebb590",
@@ -10848,7 +10876,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4a7f906da5fe",
@@ -10862,7 +10890,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8304e327a820",
@@ -10876,7 +10904,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "65bf151a87c1",
@@ -10890,7 +10918,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "16af91985b6b",
@@ -10904,7 +10932,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6e1700baeeab",
@@ -10916,7 +10944,7 @@
       "posted": "2026-06-25T14:29:10Z",
       "salary": 40000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10929,7 +10957,7 @@
       "posted": "2026-06-25T14:29:10Z",
       "salary": 55000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10942,7 +10970,7 @@
       "posted": "2026-06-25T14:29:10Z",
       "salary": 40000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10955,7 +10983,7 @@
       "posted": "2026-06-25T14:29:10Z",
       "salary": 55000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -10970,7 +10998,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "031c15d95350",
@@ -10984,7 +11012,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2db9174050a7",
@@ -10998,7 +11026,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3c38a12497a0",
@@ -11012,7 +11040,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8018643f3f22",
@@ -11026,7 +11054,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5ad34c622bfd",
@@ -11040,7 +11068,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8b05bd833026",
@@ -11054,7 +11082,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "94abcc94795c",
@@ -11068,7 +11096,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4ac407cbbc63",
@@ -11082,7 +11110,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7e12973b16dd",
@@ -11094,7 +11122,7 @@
       "posted": "2026-06-24T22:33:54Z",
       "salary": 44729.62,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11107,7 +11135,7 @@
       "posted": "2026-06-24T22:33:54Z",
       "salary": 44729.62,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11120,7 +11148,7 @@
       "posted": "2026-06-24T22:33:54Z",
       "salary": 44729.62,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11133,7 +11161,7 @@
       "posted": "2026-06-24T22:33:54Z",
       "salary": 44729.62,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11148,7 +11176,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5a46c75960ed",
@@ -11162,7 +11190,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "db6a54f93f5b",
@@ -11176,7 +11204,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "baf48aea3bef",
@@ -11190,7 +11218,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "89c0d2746b73",
@@ -11204,7 +11232,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9bbf0c75e1f6",
@@ -11218,7 +11246,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "74a39a420a7f",
@@ -11230,7 +11258,7 @@
       "posted": "2026-06-24T19:56:24Z",
       "salary": 44547.38,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11243,7 +11271,7 @@
       "posted": "2026-06-24T19:56:24Z",
       "salary": 44547.38,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11256,7 +11284,7 @@
       "posted": "2026-06-24T19:56:24Z",
       "salary": 44547.38,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11269,7 +11297,7 @@
       "posted": "2026-06-24T19:56:24Z",
       "salary": 44547.38,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11284,7 +11312,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2e79a20812d0",
@@ -11298,7 +11326,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4eef8da08cc7",
@@ -11312,7 +11340,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "37d5c31d0c6c",
@@ -11326,7 +11354,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f845db2bb12a",
@@ -11340,7 +11368,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b097b77a4306",
@@ -11354,7 +11382,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "281bc04c3a02",
@@ -11368,7 +11396,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f83877496931",
@@ -11382,7 +11410,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f38ef77ce4a9",
@@ -11396,7 +11424,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "617fc58298ce",
@@ -11410,7 +11438,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2db7344954c5",
@@ -11424,7 +11452,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "aff833c814f1",
@@ -11438,7 +11466,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "55089189c9cd",
@@ -11452,7 +11480,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f3605a6af880",
@@ -11466,7 +11494,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7589daddba40",
@@ -11480,7 +11508,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9f673368bf6d",
@@ -11494,7 +11522,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "34875955a017",
@@ -11508,7 +11536,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e7d0b9363995",
@@ -11522,7 +11550,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Administration",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a14ba5ea2d31",
@@ -11534,7 +11562,7 @@
       "posted": "2026-06-23T19:29:52Z",
       "salary": 82529.69,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11547,7 +11575,7 @@
       "posted": "2026-06-23T19:29:52Z",
       "salary": 82529.69,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11562,7 +11590,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "19ddddb54a9b",
@@ -11576,7 +11604,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f73330ba9e26",
@@ -11590,7 +11618,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ccf20323f462",
@@ -11602,7 +11630,7 @@
       "posted": "2026-06-23T17:14:54Z",
       "salary": 80292.95,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11615,7 +11643,7 @@
       "posted": "2026-06-23T17:14:54Z",
       "salary": 80292.95,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11630,7 +11658,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6346ed69aeb2",
@@ -11644,7 +11672,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ba2a9862a66e",
@@ -11658,7 +11686,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3e7b1eb8872d",
@@ -11670,7 +11698,7 @@
       "posted": "2026-06-23T15:54:45Z",
       "salary": 156000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11683,7 +11711,7 @@
       "posted": "2026-06-23T15:54:45Z",
       "salary": 156000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11698,7 +11726,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9bdabdb89a65",
@@ -11712,7 +11740,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8912846198fc",
@@ -11726,7 +11754,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e57391bd6824",
@@ -11738,7 +11766,7 @@
       "posted": "2026-06-23T15:48:38Z",
       "salary": 156000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11751,7 +11779,7 @@
       "posted": "2026-06-23T15:48:38Z",
       "salary": 156000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11766,7 +11794,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "786e967d87a9",
@@ -11780,7 +11808,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0aae7a477a47",
@@ -11794,7 +11822,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8636e3b12701",
@@ -11808,7 +11836,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0f74474d5cc6",
@@ -11820,7 +11848,7 @@
       "posted": "2026-06-23T13:11:50Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11833,7 +11861,7 @@
       "posted": "2026-06-23T13:11:50Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11846,7 +11874,7 @@
       "posted": "2026-06-23T13:11:50Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11859,7 +11887,7 @@
       "posted": "2026-06-23T13:11:50Z",
       "salary": 130000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -11874,7 +11902,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0b9e45289516",
@@ -11888,7 +11916,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "827cd37047dc",
@@ -11902,7 +11930,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c724d0916a21",
@@ -11916,7 +11944,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8ed743ee27d4",
@@ -11930,7 +11958,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ab5bac4b6042",
@@ -11944,7 +11972,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bcbf4b9abcb4",
@@ -11958,7 +11986,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "685fd04d5789",
@@ -11972,7 +12000,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "358a26fa1466",
@@ -11986,7 +12014,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b42e18324570",
@@ -12000,7 +12028,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8ccf30429274",
@@ -12014,7 +12042,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "35cccdbd6073",
@@ -12028,7 +12056,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6ee648f62e2b",
@@ -12042,7 +12070,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3613c0b1dcfb",
@@ -12056,7 +12084,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bf03857b15af",
@@ -12068,7 +12096,7 @@
       "posted": "2026-06-22T23:33:12Z",
       "salary": 130000,
       "category": "Consultancy",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12081,7 +12109,7 @@
       "posted": "2026-06-22T23:33:12Z",
       "salary": 130000,
       "category": "Consultancy",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12096,7 +12124,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bd2215771dfe",
@@ -12110,7 +12138,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2cb1747622de",
@@ -12124,7 +12152,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1b9b433e72d3",
@@ -12138,7 +12166,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f26096a13da7",
@@ -12150,7 +12178,7 @@
       "posted": "2026-06-22T19:26:03Z",
       "salary": 50000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12163,7 +12191,7 @@
       "posted": "2026-06-22T19:26:03Z",
       "salary": 50000,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12178,7 +12206,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "79e602d7b981",
@@ -12192,7 +12220,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "46aa9e676bfd",
@@ -12206,7 +12234,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2d8a64f40b04",
@@ -12218,7 +12246,7 @@
       "posted": "2026-06-22T17:23:53Z",
       "salary": 47913.57,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12231,7 +12259,7 @@
       "posted": "2026-06-22T17:23:53Z",
       "salary": 47913.57,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12246,7 +12274,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c4750b9cf9db",
@@ -12260,7 +12288,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4a9721287d55",
@@ -12274,7 +12302,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c2cc2ddf6078",
@@ -12286,7 +12314,7 @@
       "posted": "2026-06-22T16:15:10Z",
       "salary": 65000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12299,7 +12327,7 @@
       "posted": "2026-06-22T16:15:10Z",
       "salary": 65000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12314,7 +12342,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "25152c37e24c",
@@ -12328,7 +12356,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d6aad3baa4ee",
@@ -12342,7 +12370,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2d5d9d58d4b0",
@@ -12356,7 +12384,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0ea13eb7ee6d",
@@ -12370,7 +12398,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "08445494277f",
@@ -12384,7 +12412,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0482cc3f42bd",
@@ -12398,7 +12426,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "64f116b6b48f",
@@ -12412,7 +12440,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "09bbb2f0abf4",
@@ -12424,7 +12452,7 @@
       "posted": "2026-06-21T16:44:53Z",
       "salary": 65651.16,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12437,7 +12465,7 @@
       "posted": "2026-06-21T16:44:53Z",
       "salary": 65651.16,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12452,7 +12480,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a71f2d7eb8e6",
@@ -12466,7 +12494,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8469694c9386",
@@ -12480,7 +12508,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a56511a8ec9e",
@@ -12492,7 +12520,7 @@
       "posted": "2026-06-21T12:36:52Z",
       "salary": null,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "AU"
     },
     {
@@ -12505,7 +12533,7 @@
       "posted": "2026-06-21T12:36:52Z",
       "salary": null,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "AU"
     },
     {
@@ -12520,7 +12548,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ba167d030e96",
@@ -12534,7 +12562,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "25084fb04474",
@@ -12548,7 +12576,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "06d169ca5a10",
@@ -12562,7 +12590,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "517d2cfcdb8e",
@@ -12576,7 +12604,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e39e6f7efd8a",
@@ -12590,7 +12618,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a5880fea6d32",
@@ -12604,7 +12632,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c3d7644d9985",
@@ -12618,7 +12646,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7444d3b43623",
@@ -12632,7 +12660,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "adce4e954fba",
@@ -12646,7 +12674,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bdaa2143f068",
@@ -12660,7 +12688,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "cc6f0f9615a4",
@@ -12674,7 +12702,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "27bf5028c92e",
@@ -12686,7 +12714,7 @@
       "posted": "2026-06-19T21:31:38Z",
       "salary": 50000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12699,7 +12727,7 @@
       "posted": "2026-06-19T21:31:38Z",
       "salary": 50000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12712,7 +12740,7 @@
       "posted": "2026-06-19T21:31:38Z",
       "salary": 50000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12725,7 +12753,7 @@
       "posted": "2026-06-19T21:31:38Z",
       "salary": 50000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12740,7 +12768,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c40d78397a5f",
@@ -12754,7 +12782,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "59b462f9a3f5",
@@ -12768,7 +12796,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d09a8fd0c99a",
@@ -12782,7 +12810,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "69bbae2ad97c",
@@ -12796,7 +12824,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "618f2bbf0dc6",
@@ -12810,7 +12838,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c2ace2ece66d",
@@ -12822,7 +12850,7 @@
       "posted": "2026-06-19T19:32:42Z",
       "salary": 143000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12835,7 +12863,7 @@
       "posted": "2026-06-19T19:32:42Z",
       "salary": 143000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12850,7 +12878,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4fe3b98f88d0",
@@ -12864,7 +12892,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e6665f317f11",
@@ -12878,7 +12906,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6392db943cb1",
@@ -12892,7 +12920,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b1e5aafa8977",
@@ -12904,7 +12932,7 @@
       "posted": "2026-06-19T14:55:20Z",
       "salary": 51570.26,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12917,7 +12945,7 @@
       "posted": "2026-06-19T14:55:20Z",
       "salary": 51570.26,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -12932,7 +12960,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c42f2e23eec4",
@@ -12946,7 +12974,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "dc1302918d1f",
@@ -12960,7 +12988,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ab068c821e43",
@@ -12974,7 +13002,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "68b485f42654",
@@ -12988,7 +13016,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8084e4695afe",
@@ -13002,7 +13030,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "42c1e0217d9d",
@@ -13016,7 +13044,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f6969eb408de",
@@ -13030,7 +13058,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e48e51b00799",
@@ -13044,7 +13072,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "32718932ec77",
@@ -13058,7 +13086,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "83acf218629a",
@@ -13072,7 +13100,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a05659419b00",
@@ -13086,7 +13114,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "aafb5b744b1f",
@@ -13100,7 +13128,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6f5c23db826c",
@@ -13114,7 +13142,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2a7ae7ed90ab",
@@ -13128,7 +13156,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "130228fcea0b",
@@ -13140,7 +13168,7 @@
       "posted": "2026-06-17T05:05:47Z",
       "salary": 208000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13153,7 +13181,7 @@
       "posted": "2026-06-17T05:05:47Z",
       "salary": 208000,
       "category": "General",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13168,7 +13196,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "03be62dd016b",
@@ -13182,7 +13210,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6da27ed9a297",
@@ -13196,7 +13224,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d6cca7a5362b",
@@ -13210,7 +13238,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9e66072a1aef",
@@ -13224,7 +13252,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Administration",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ed69ab9de736",
@@ -13238,7 +13266,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "59144cc7b39e",
@@ -13250,7 +13278,7 @@
       "posted": "2026-06-16T20:39:47Z",
       "salary": 143000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13263,7 +13291,7 @@
       "posted": "2026-06-16T20:39:47Z",
       "salary": 143000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13276,7 +13304,7 @@
       "posted": "2026-06-16T20:39:47Z",
       "salary": 143000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13289,7 +13317,7 @@
       "posted": "2026-06-16T20:39:47Z",
       "salary": 143000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13304,7 +13332,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1c2ca5393458",
@@ -13318,7 +13346,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "45c32748cd09",
@@ -13332,7 +13360,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b91f0f2f062e",
@@ -13346,7 +13374,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1fa616f5baf0",
@@ -13360,7 +13388,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "515ac3d278e2",
@@ -13374,7 +13402,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c273e77fd695",
@@ -13388,7 +13416,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5d61e28adde8",
@@ -13402,7 +13430,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "14ae8dbeb120",
@@ -13416,7 +13444,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "583ab2bd4037",
@@ -13430,7 +13458,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "755d382fe1f2",
@@ -13444,7 +13472,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6f3343874371",
@@ -13458,7 +13486,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f1de886ed4ee",
@@ -13472,7 +13500,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7e59fbd990db",
@@ -13484,7 +13512,7 @@
       "posted": "2026-06-14T12:50:15Z",
       "salary": 100000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13497,7 +13525,7 @@
       "posted": "2026-06-14T12:50:15Z",
       "salary": 100000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13510,7 +13538,7 @@
       "posted": "2026-06-14T12:50:15Z",
       "salary": 100000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13523,7 +13551,7 @@
       "posted": "2026-06-14T12:50:15Z",
       "salary": 100000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13538,7 +13566,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "baae93fcab10",
@@ -13552,7 +13580,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "03933e25b6bc",
@@ -13566,7 +13594,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bf89abd2c33c",
@@ -13580,7 +13608,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "03da7d07b590",
@@ -13594,7 +13622,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "21fbb5daa28f",
@@ -13608,7 +13636,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "85467036eddd",
@@ -13620,7 +13648,7 @@
       "posted": "2026-06-14T12:50:14Z",
       "salary": 57147.29,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13633,7 +13661,7 @@
       "posted": "2026-06-14T12:50:14Z",
       "salary": 57147.29,
       "category": "Development",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13648,7 +13676,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f5091578eacc",
@@ -13662,7 +13690,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "aa9655a7df19",
@@ -13676,7 +13704,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "de8f57e36006",
@@ -13690,7 +13718,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "8b2c7e4c8acf",
@@ -13704,7 +13732,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a4ac44e09590",
@@ -13718,7 +13746,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a3bc1b33ebd3",
@@ -13732,7 +13760,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Implementation",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5a0b958555c6",
@@ -13746,7 +13774,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Development",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ba581fdd1f4a",
@@ -13760,7 +13788,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "00df21ec401f",
@@ -13772,7 +13800,7 @@
       "posted": "2026-06-12T16:33:51Z",
       "salary": 70000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13785,7 +13813,7 @@
       "posted": "2026-06-12T16:33:51Z",
       "salary": 70000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13798,7 +13826,7 @@
       "posted": "2026-06-12T16:33:51Z",
       "salary": 70000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13811,7 +13839,7 @@
       "posted": "2026-06-12T16:33:51Z",
       "salary": 70000,
       "category": "Architecture",
-      "status": "active",
+      "status": "archived",
       "country": "GB"
     },
     {
@@ -13826,7 +13854,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a2b5684e60c5",
@@ -13840,7 +13868,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0e218fd207b9",
@@ -13854,7 +13882,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "fe476d31696b",
@@ -13868,7 +13896,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ae3f445dc33b",
@@ -13882,7 +13910,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "27a5eea5a96a",
@@ -13896,7 +13924,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "937b311a6b98",
@@ -13910,7 +13938,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d7e818fe617e",
@@ -13924,7 +13952,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "General",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "87a428d8779f",
@@ -13938,7 +13966,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a2bae5e086ab",
@@ -13952,7 +13980,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "accf9d5db01c",
@@ -13966,7 +13994,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d3192d4019f9",
@@ -13980,7 +14008,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "906f39658702",
@@ -13994,7 +14022,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5aa7deba3da0",
@@ -14008,7 +14036,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "dcaf6725681e",
@@ -14022,7 +14050,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "832a45179cd7",
@@ -14036,7 +14064,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b9b3d8a37ea9",
@@ -14050,7 +14078,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1ea486268d72",
@@ -14064,7 +14092,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c819c32e922a",
@@ -14078,7 +14106,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Consultancy",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f9a230078a9f",
@@ -14092,7 +14120,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Architecture",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "674ad6dede79",
