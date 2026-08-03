@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T20:51:28.096667Z",
+  "updated_at": "2026-08-03T11:21:07.823052Z",
   "count": 1613,
   "jobs": [
     {
@@ -11187,7 +11187,7 @@
       "description": "About Synechron: Synechron is a global digital consulting firm that helps leading organisations accelerate transformation through technology, data, and innovation. With 16,500 professionals across 60 offices in 20 countries, we combine deep industry expertise with advanced capabilities across AI, cloud, digital engineering, cybersecurity, and data. Our Data Engineering teams partner with clients to design and deliver modern, scalable data platforms that unlock insights, enable AI adoption, and \u2026",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "71fd07861d2a",
@@ -11201,7 +11201,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11216,7 +11216,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11231,7 +11231,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11246,7 +11246,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11259,7 +11259,7 @@
       "posted": "2026-07-04T09:54:45Z",
       "salary": 119033.76,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -11273,7 +11273,7 @@
       "posted": "2026-07-04T09:54:45Z",
       "salary": 119033.76,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -11287,7 +11287,7 @@
       "posted": "2026-07-04T09:54:45Z",
       "salary": 119033.76,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -11301,7 +11301,7 @@
       "posted": "2026-07-04T09:54:45Z",
       "salary": 119033.76,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -11315,7 +11315,7 @@
       "posted": "2026-07-04T09:54:45Z",
       "salary": 119033.76,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -11329,7 +11329,7 @@
       "posted": "2026-07-04T09:54:45Z",
       "salary": 119033.76,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -11343,7 +11343,7 @@
       "posted": "2026-07-04T09:54:45Z",
       "salary": 119033.76,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -11357,7 +11357,7 @@
       "posted": "2026-07-04T09:54:45Z",
       "salary": 119033.76,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -11373,7 +11373,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11388,7 +11388,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11403,7 +11403,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11418,7 +11418,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11433,7 +11433,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11448,7 +11448,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11463,7 +11463,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11478,7 +11478,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11493,7 +11493,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11508,7 +11508,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11523,7 +11523,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11538,7 +11538,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11554,7 +11554,7 @@
       "is_remote": false,
       "description": "IT Service Delivery Manager | Federal Government | Canberra (On-site) We are looking for an experienced IT Service Delivery Manager for an initial 16-week contract with a Federal Government client based in Canberra. This is a hands-on leadership role responsible for leading ICT service operations, driving continuous service improvement, and ensuring the delivery of high-quality IT support across a Microsoft-centric environment. Key responsibilities Lead and mentor the ICT support team. Manage I\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11569,7 +11569,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11582,7 +11582,7 @@
       "posted": "2026-07-04T08:59:19Z",
       "salary": 100000,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "GB",
       "role_category": "Other"
     },
@@ -11596,7 +11596,7 @@
       "posted": "2026-07-04T08:59:19Z",
       "salary": 100000,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "GB",
       "role_category": "Other"
     },
@@ -11610,7 +11610,7 @@
       "posted": "2026-07-04T08:59:19Z",
       "salary": 100000,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "GB",
       "role_category": "Other"
     },
@@ -11624,7 +11624,7 @@
       "posted": "2026-07-04T08:59:19Z",
       "salary": 100000,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "GB",
       "role_category": "Other"
     },
@@ -11640,7 +11640,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11655,7 +11655,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11670,7 +11670,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11685,7 +11685,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11700,7 +11700,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11715,7 +11715,7 @@
       "country": "GB",
       "is_remote": true,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11730,7 +11730,7 @@
       "country": "AU",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11745,7 +11745,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11760,7 +11760,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11775,7 +11775,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11790,7 +11790,7 @@
       "country": "US",
       "is_remote": true,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11805,7 +11805,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11820,7 +11820,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11835,7 +11835,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11850,7 +11850,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11865,7 +11865,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11880,7 +11880,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11895,7 +11895,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11910,7 +11910,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11925,7 +11925,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11940,7 +11940,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11955,7 +11955,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11972,7 +11972,7 @@
       "description": "Job Description Job Description We are searching for a ServiceNow Admin - someone with hands-on ServiceNow system support and implementation experience. The ideal candidate will have hands-on experience with ServiceNow administration, configuration, maintenance, and CMDB knowledge. Strong verbal and written communication skills are critical in this role due to the dynamic nature of collaborations with our internal teams, leaders, customers, stakeholders, vendors, and external teams. Key Job Fun\u2026",
       "category": "Administrator",
       "role_category": "Administrator",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "573c5a483bb6",
@@ -11986,7 +11986,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12002,7 +12002,7 @@
       "is_remote": false,
       "description": "ServiceNow Developer \u2013 HRSD Specialist | Federal Government | Junior to Senior Contractor Central is actively placing ServiceNow Developers with HR Service Delivery (HRSD) specialisation into a digital workforce transformation program within a federal government agency. We are open to Junior, Intermediate and Senior candidates. The right level will be matched to your experience. The engagement runs for 12 months with strong extension prospects. The Role This is a hands-on technical delivery rol\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12017,7 +12017,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12032,7 +12032,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12045,7 +12045,7 @@
       "posted": "2026-07-04T04:05:16Z",
       "salary": 141568.3,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12059,7 +12059,7 @@
       "posted": "2026-07-04T04:05:16Z",
       "salary": 141568.3,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12075,7 +12075,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12090,7 +12090,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12105,7 +12105,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12118,7 +12118,7 @@
       "posted": "2026-07-04T04:04:53Z",
       "salary": 195317.3,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12132,7 +12132,7 @@
       "posted": "2026-07-04T04:04:53Z",
       "salary": 195317.3,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12148,7 +12148,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12163,7 +12163,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12178,7 +12178,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12191,7 +12191,7 @@
       "posted": "2026-07-04T04:04:52Z",
       "salary": 73675.19,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12205,7 +12205,7 @@
       "posted": "2026-07-04T04:04:52Z",
       "salary": 73675.19,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12221,7 +12221,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12236,7 +12236,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12251,7 +12251,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12264,7 +12264,7 @@
       "posted": "2026-07-04T04:04:48Z",
       "salary": 100723.74,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12278,7 +12278,7 @@
       "posted": "2026-07-04T04:04:48Z",
       "salary": 100723.74,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12294,7 +12294,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12309,7 +12309,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12324,7 +12324,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12337,7 +12337,7 @@
       "posted": "2026-07-04T04:04:29Z",
       "salary": 145751.16,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12351,7 +12351,7 @@
       "posted": "2026-07-04T04:04:29Z",
       "salary": 145751.16,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12365,7 +12365,7 @@
       "posted": "2026-07-04T04:04:29Z",
       "salary": 145751.16,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12379,7 +12379,7 @@
       "posted": "2026-07-04T04:04:29Z",
       "salary": 145751.16,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12395,7 +12395,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12410,7 +12410,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12425,7 +12425,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12440,7 +12440,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12455,7 +12455,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12470,7 +12470,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12483,7 +12483,7 @@
       "posted": "2026-07-04T04:04:16Z",
       "salary": 90427.95,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12497,7 +12497,7 @@
       "posted": "2026-07-04T04:04:16Z",
       "salary": 90427.95,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -12513,7 +12513,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12528,7 +12528,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12543,7 +12543,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -12556,7 +12556,7 @@
       "posted": "2026-07-04T04:04:13Z",
       "salary": 101419.09,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12570,7 +12570,7 @@
       "posted": "2026-07-04T04:04:13Z",
       "salary": 101419.09,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12584,7 +12584,7 @@
       "posted": "2026-07-04T04:04:13Z",
       "salary": 101419.09,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12598,7 +12598,7 @@
       "posted": "2026-07-04T04:04:13Z",
       "salary": 101419.09,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12614,7 +12614,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12629,7 +12629,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12644,7 +12644,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12659,7 +12659,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12674,7 +12674,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12689,7 +12689,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12702,7 +12702,7 @@
       "posted": "2026-07-04T04:03:28Z",
       "salary": 159957.9,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12716,7 +12716,7 @@
       "posted": "2026-07-04T04:03:28Z",
       "salary": 159957.9,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12732,7 +12732,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12747,7 +12747,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12762,7 +12762,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12775,7 +12775,7 @@
       "posted": "2026-07-04T04:03:10Z",
       "salary": 94537.59,
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Administrator"
     },
@@ -12789,7 +12789,7 @@
       "posted": "2026-07-04T04:03:10Z",
       "salary": 94537.59,
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Administrator"
     },
@@ -12805,7 +12805,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "role_category": "Administrator"
     },
     {
@@ -12820,7 +12820,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "role_category": "Administrator"
     },
     {
@@ -12835,7 +12835,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "role_category": "Administrator"
     },
     {
@@ -12848,7 +12848,7 @@
       "posted": "2026-07-04T04:03:07Z",
       "salary": 128956.82,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12862,7 +12862,7 @@
       "posted": "2026-07-04T04:03:07Z",
       "salary": 128956.82,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12876,7 +12876,7 @@
       "posted": "2026-07-04T04:03:07Z",
       "salary": 128956.82,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12890,7 +12890,7 @@
       "posted": "2026-07-04T04:03:07Z",
       "salary": 128956.82,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -12906,7 +12906,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12921,7 +12921,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12936,7 +12936,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12951,7 +12951,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12966,7 +12966,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12981,7 +12981,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -12994,7 +12994,7 @@
       "posted": "2026-07-04T04:02:21Z",
       "salary": 150888.92,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -13008,7 +13008,7 @@
       "posted": "2026-07-04T04:02:21Z",
       "salary": 150888.92,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -13024,7 +13024,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13039,7 +13039,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13054,7 +13054,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13067,7 +13067,7 @@
       "posted": "2026-07-04T04:01:28Z",
       "salary": 133268.77,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13081,7 +13081,7 @@
       "posted": "2026-07-04T04:01:28Z",
       "salary": 133268.77,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13097,7 +13097,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13112,7 +13112,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13127,7 +13127,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13140,7 +13140,7 @@
       "posted": "2026-07-04T04:01:23Z",
       "salary": 129686.2,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -13154,7 +13154,7 @@
       "posted": "2026-07-04T04:01:23Z",
       "salary": 129686.2,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -13170,7 +13170,7 @@
       "country": "US",
       "is_remote": true,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13185,7 +13185,7 @@
       "country": "US",
       "is_remote": true,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13200,7 +13200,7 @@
       "country": "US",
       "is_remote": true,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13213,7 +13213,7 @@
       "posted": "2026-07-04T03:58:53Z",
       "salary": 129762.16,
       "category": "Platform Owner",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Platform Owner"
     },
@@ -13227,7 +13227,7 @@
       "posted": "2026-07-04T03:58:53Z",
       "salary": 179835.56,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -13241,7 +13241,7 @@
       "posted": "2026-07-04T03:58:53Z",
       "salary": 129762.16,
       "category": "Platform Owner",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Platform Owner"
     },
@@ -13255,7 +13255,7 @@
       "posted": "2026-07-04T03:58:53Z",
       "salary": 179835.56,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -13271,7 +13271,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Platform Owner",
-      "status": "active",
+      "status": "archived",
       "role_category": "Platform Owner"
     },
     {
@@ -13286,7 +13286,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13301,7 +13301,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Platform Owner",
-      "status": "active",
+      "status": "archived",
       "role_category": "Platform Owner"
     },
     {
@@ -13316,7 +13316,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13331,7 +13331,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Platform Owner",
-      "status": "active",
+      "status": "archived",
       "role_category": "Platform Owner"
     },
     {
@@ -13346,7 +13346,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13359,7 +13359,7 @@
       "posted": "2026-07-04T03:58:16Z",
       "salary": 135220.48,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -13373,7 +13373,7 @@
       "posted": "2026-07-04T03:58:16Z",
       "salary": 135220.48,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Developer"
     },
@@ -13389,7 +13389,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13404,7 +13404,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13419,7 +13419,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13432,7 +13432,7 @@
       "posted": "2026-07-04T03:58:14Z",
       "salary": 149954.19,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13446,7 +13446,7 @@
       "posted": "2026-07-04T03:58:14Z",
       "salary": 149954.19,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13462,7 +13462,7 @@
       "country": "US",
       "is_remote": true,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13477,7 +13477,7 @@
       "country": "US",
       "is_remote": true,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13492,7 +13492,7 @@
       "country": "US",
       "is_remote": true,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13505,7 +13505,7 @@
       "posted": "2026-07-04T03:46:06Z",
       "salary": 148042.31,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13519,7 +13519,7 @@
       "posted": "2026-07-04T03:46:06Z",
       "salary": 148042.31,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13535,7 +13535,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13550,7 +13550,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13565,7 +13565,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13578,7 +13578,7 @@
       "posted": "2026-07-04T03:45:43Z",
       "salary": 183685.66,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13592,7 +13592,7 @@
       "posted": "2026-07-04T03:45:43Z",
       "salary": 183685.66,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13608,7 +13608,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13623,7 +13623,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13638,7 +13638,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13651,7 +13651,7 @@
       "posted": "2026-07-04T03:45:36Z",
       "salary": 170917.11,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13665,7 +13665,7 @@
       "posted": "2026-07-04T03:45:36Z",
       "salary": 170917.11,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -13681,7 +13681,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13696,7 +13696,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13711,7 +13711,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13726,7 +13726,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13741,7 +13741,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Platform Owner",
-      "status": "active",
+      "status": "archived",
       "role_category": "Platform Owner"
     },
     {
@@ -13756,7 +13756,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13771,7 +13771,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13786,7 +13786,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13801,7 +13801,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13816,7 +13816,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13831,7 +13831,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -13846,7 +13846,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -13861,7 +13861,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -13876,7 +13876,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13891,7 +13891,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13906,7 +13906,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -13921,7 +13921,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -13936,7 +13936,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -13951,7 +13951,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13966,7 +13966,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13981,7 +13981,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -13996,7 +13996,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -14011,7 +14011,7 @@
       "country": "CA",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -14024,7 +14024,7 @@
       "posted": "2026-07-03T21:37:10Z",
       "salary": 208000,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "GB",
       "role_category": "Developer"
     },
@@ -14038,7 +14038,7 @@
       "posted": "2026-07-03T21:37:10Z",
       "salary": 208000,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "country": "GB",
       "role_category": "Developer"
     },
@@ -14054,7 +14054,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -14069,7 +14069,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -14084,7 +14084,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
