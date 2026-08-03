@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T11:21:07.823052Z",
-  "count": 1613,
+  "updated_at": "2026-08-03T20:59:31.710672Z",
+  "count": 1615,
   "jobs": [
     {
       "id": "5766a0807f88",
@@ -10381,7 +10381,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10396,7 +10396,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10411,7 +10411,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10426,7 +10426,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10441,7 +10441,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10456,7 +10456,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -10471,7 +10471,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10486,7 +10486,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10501,7 +10501,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10516,7 +10516,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10531,7 +10531,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10546,7 +10546,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10561,7 +10561,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10576,7 +10576,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10591,7 +10591,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -10606,7 +10606,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -10621,7 +10621,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10636,7 +10636,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -10651,7 +10651,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10666,7 +10666,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10681,7 +10681,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10696,7 +10696,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10709,7 +10709,7 @@
       "posted": "2026-07-04T19:02:36Z",
       "salary": 146691.88,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -10723,7 +10723,7 @@
       "posted": "2026-07-04T19:02:36Z",
       "salary": 146691.88,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -10737,7 +10737,7 @@
       "posted": "2026-07-04T19:02:36Z",
       "salary": 146691.88,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -10751,7 +10751,7 @@
       "posted": "2026-07-04T19:02:36Z",
       "salary": 146691.88,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -10767,7 +10767,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10782,7 +10782,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10797,7 +10797,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10812,7 +10812,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10827,7 +10827,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10842,7 +10842,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10857,7 +10857,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -10872,7 +10872,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -10887,7 +10887,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10902,7 +10902,7 @@
       "country": "GB",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10917,7 +10917,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -10932,7 +10932,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -10945,7 +10945,7 @@
       "posted": "2026-07-04T12:34:31Z",
       "salary": 129822.19,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -10959,7 +10959,7 @@
       "posted": "2026-07-04T12:34:31Z",
       "salary": 129822.19,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "country": "US",
       "role_category": "Other"
     },
@@ -10975,7 +10975,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -10990,7 +10990,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11005,7 +11005,7 @@
       "country": "US",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11020,7 +11020,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11035,7 +11035,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11050,7 +11050,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -11065,7 +11065,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11080,7 +11080,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11095,7 +11095,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11110,7 +11110,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11125,7 +11125,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11140,7 +11140,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11155,7 +11155,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -11170,7 +11170,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -24510,6 +24510,38 @@
       "category": "Other",
       "status": "archived",
       "role_category": "Other"
+    },
+    {
+      "id": "d013e9c6ed73",
+      "title": "Platform Engineering Manager - Cloud & Architecture",
+      "company": "Inizio",
+      "location": "London; Manchester",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/inizio/platform-engineering-manager-cloud-architecture-london-manchester-26511",
+      "source": "Arbeitnow",
+      "posted": "1785783413",
+      "salary": null,
+      "country": "",
+      "is_remote": false,
+      "description": "&lt;p&gt;&lt;strong&gt;Reports To:&lt;/strong&gt; Head of IT \u2013 Platform Engineering&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Direct Reports:&lt;/strong&gt; 3-5&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; UK / IRL (Hybrid) - the successful hire will work from our London or Manchester offices in the UK, or Dublin office (Citywest Business Campus) in Ireland.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Platform Engineering Manager will lead architecture, cloud strategy, and network services across Inizio&#39;s corporate IT estate. You will set technical direction, governs standards, and lead senior engineers and architects designing solutions for the wider Platform Engineering organisation.&lt;/p&gt;\n&lt;p&gt;You will lead Design Engineering &amp;amp; Cloud Enablement and ensure Inizio&#39;s enterprise architecture remains consistent, scalable, secure, and supportable. You will translate technology strategy into practical engineering direction and develop a team operating as a true Centre for Enablement.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Technical Leadership &amp;amp; Architecture Governance&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Set engineering standards, architectural direction, and quality expectations across Inizio&#39;s enterprise platform estate.&lt;/li&gt;\n&lt;li&gt;Oversee architecture governance, ensuring you approve, and document solution designs through the appropriate processes.&lt;/li&gt;\n&lt;li&gt;Maintain reference architectures, technology standards, and Architecture Decision Records across cloud, network, identity, observability, and integration domains.&lt;/li&gt;\n&lt;li&gt;Assess the latest technologies and vendor capabilities, providing clear recommendations for Inizio&#39;s environment.&lt;/li&gt;\n&lt;li&gt;Embed security, resilience, supportability, and cost effectiveness into all architecture and engineering outputs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Cloud Enablement &amp;amp; C4E Leadership&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead Inizio&#39;s Centre for Enablement model, delivering reusable patterns, landing zones, golden paths, and engineering guardrails.&lt;/li&gt;\n&lt;li&gt;Oversee the cloud enablement strategy, driving Azure and AWS adoption following standards, security requirements, and the IT roadmap.&lt;/li&gt;\n&lt;li&gt;Oversee cloud engineering delivery across Infrastructure as Code, CI/CD, automation, and governance.&lt;/li&gt;\n&lt;li&gt;Provide leadership across the cloud and platform toolchain, including Azure, AWS, Entra ID, Boomi, ServiceNow integrations, and related controls.&lt;/li&gt;\n&lt;li&gt;Manage cloud vendor and managed service partner relationships.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;People Management &amp;amp; Development&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Manage senior engineers and architects through regular 1:1s, goals, performance reviews, and development conversations.&lt;/li&gt;\n&lt;li&gt;Build and sustain a collaborative team culture.&lt;/li&gt;\n&lt;li&gt;Identify skills gaps and develop plans to address them through recruitment, training, or professional development.&lt;/li&gt;\n&lt;li&gt;Act as a technical mentor across Platform Engineering.&lt;/li&gt;\n&lt;li&gt;Support workforce planning and succession activity.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Stakeholder Engagement &amp;amp; Roadmap&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Shape and communicate the roadmap for the Design Engineering &amp;amp; Cloud Enablement with the Head of IT \u2013 Platform Engineering.&lt;/li&gt;\n&lt;li&gt;Translate business, security, architecture, and operational demand into priorities, reusable patterns, and standards.&lt;/li&gt;\n&lt;li&gt;Represent the function in architecture governance, service design, transition, and senior leadership forums.&lt;/li&gt;\n&lt;li&gt;Produce roadmaps, business cases, standards, and technical briefings to support decision-making.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Delivery &amp;amp; Operational Oversight&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Ensure engineering delivery oversees work delivered to agreed time, quality, risk, and scope expectations.&lt;/li&gt;\n&lt;li&gt;Ensure architecture and cloud changes are governed, assessed, and ready for operational handover.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Essential Experience&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in technical management or lead architecture within a complex enterprise IT environment.&lt;/li&gt;\n&lt;li&gt;Experience across Azure, AWS, enterprise networking, Entra ID, Boomi, and ServiceNow-aligned delivery and governance.&lt;/li&gt;\n&lt;li&gt;Experience leading senior technical teams across architecture, cloud, networks, or platform engineering.&lt;/li&gt;\n&lt;li&gt;Track record delivering cloud adoption, architecture transformation, or platform standardisation in a multi region enterprise.&lt;/li&gt;\n&lt;li&gt;Experience with reference architectures, design standards, service transition controls, and formal architecture review processes.&lt;/li&gt;\n&lt;li&gt;Experience operating in a Centre for Enablement, platform engineering, or reusable pattern model.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Qualifications&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Degree in Computer Science, Information Systems, Engineering, or a related discipline, or equivalent senior-level professional experience.&lt;/li&gt;\n&lt;li&gt;Senior cloud or architecture certification expected, such as Azure Solutions Architect Expert, AWS Solutions Architect Professional, Google Professional Cloud Architect, TOGAF, or equivalent.&lt;/li&gt;\n&lt;li&gt;Additional qualifications in security, networking, IT service management, project delivery, or cloud financial management are advantageous, including AZ-500, CCNP, CISSP, ITIL, PRINCE2, FinOps, or equivalent.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Skills &amp;amp; Attributes&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Credible technical leader able to set direction across cloud architecture, platform engineering, enterprise networking, identity, automation, observability, and security by design.&lt;/li&gt;\n&lt;li&gt;The ability to build, coach, motivate, and hold senior engineers and architects accountable for delivery, quality, and professional growth.&lt;/li&gt;\n&lt;li&gt;Can explain complex architecture choices, trade offs, risks, and benefits to senior, operational, security, finance, and technical team members.&lt;/li&gt;\n&lt;li&gt;Strategic and commercially aware, able to oversee cost, resilience, risk, compliance, vendor selection, platform investment, and long-term total cost of ownership.&lt;/li&gt;\n&lt;li&gt;Delivery-focused; able to balance governance with enablement and push adoption of reusable patterns, guardrails, automation, and continuous improvement.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Core competencies&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Technical Leadership \u2013 Sets a credible technical direction and earns the respect of senior engineers and architects.&lt;/li&gt;\n&lt;li&gt;Can connect engineering decisions to the broader organisational technology strategy.&lt;/li&gt;\n&lt;li&gt;People Development \u2013 Invests in building team capability and creating an environment where engineers can do their best work.&lt;/li&gt;\n&lt;li&gt;Communication &amp;amp; Influence \u2013 Articulates complex technical ideas for varied audiences and builds effective stakeholder relationships.&lt;/li&gt;\n&lt;li&gt;Delivery Focus \u2013 Drives engineering outcomes with pace and quality.&lt;/li&gt;\n&lt;li&gt;Collaboration \u2013 Works as a genuine partner with the other Technical Managers and the Head of IT to deliver Platform Engineering as a unified function.&lt;/li&gt;\n&lt;li&gt;Commercial Awareness \u2013 Makes engineering decisions with an understanding of cost, risk, and business impact.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Inizio&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Inizio, we&#39;re a global team motivated by a shared purpose: to reimagine health. Formed in 2022, we unite decades of experience and expertise with data, technology, and AI to create tailored solutions that drive Intelligent Commercialization\u2122 at every stage of the journey - from discovery to post-launch.&lt;/p&gt;\n&lt;p&gt;Our global network of over 10,000 experts operates across 50 countries, supporting clients with strategic insight, medical excellence, creative engagement, and real-world delivery. We work with the world&#39;s leading health and life sciences businesses to solve complex challenges and accomplish meaningful outcomes for our clients and patients.&lt;/p&gt;\n&lt;p&gt;What sets Inizio apart is our people - and we believe everyone should excel. Here, you&#39;re encouraged to reimagine your possibilities: to grow, to be curious and to make change happen. We value your individuality, support your development, and celebrate your ambition. If you&#39;re ready to push boundaries and accelerate your career, Inizio is the best place to be.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our Pledge&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Inizio, we value inclusivity, recognize the power of diversity and inspire the next generation of change-makers. We are an equal opportunities employer. We believe in creating a dynamic work environment that values diversity, equity and inclusion. We aim to recruit from a diverse slate of candidates and foster an environment that provides the right conditions for long-term success. We welcome all applications. We consider them regardless of race, color, religion, or belief. We also consider them regardless of gender, gender identity, age, national origin, marital status, military veteran status, genetic information, sexual orientation, and physical or mental disability.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Artificial Intelligence&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Inizio may use AI technologies to support certain aspects of our recruitment process, but all hiring decisions at Inizio are made by our human recruiting team. We are committed to fair, inclusive, and human-led hiring practices.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-DT2 #LI-HYBRID&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div class=&quot;elementToProof&quot;&gt;&lt;em&gt;Don&#39;t meet every job requirement? That&#39;s okay! Our company is dedicated to building an inclusive and authentic workplace. If you&#39;re excited about this role, but your experience doesn&#39;t perfectly fit every qualification, we encourage you to apply anyway. You may be just the right person for this role or others.&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;<p>Find more <a href=\"https://www.arbeitnow.co.uk/english-speaking-jobs\">English Speaking Jobs in United Kingdom</a> on Arbeitnow</a>",
+      "category": "Developer",
+      "role_category": "Developer",
+      "status": "active"
+    },
+    {
+      "id": "2503ca41d717",
+      "title": "AI Strategist (London)",
+      "company": "Edra",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/edra/ai-strategist-london-145402",
+      "source": "Arbeitnow",
+      "posted": "1785782509",
+      "salary": null,
+      "country": "",
+      "is_remote": false,
+      "description": "<h2><strong>About Edra</strong></h2><p style=\"min-height:1.5em\">Edra is solving one of the hardest problems in enterprise AI: AI models are generic but company processes are specific. We build AI agents that learn how processes actually run, and then run their operations.</p><p style=\"min-height:1.5em\">We're a Series A startup, backed by Sequoia and other leading VC firms, led by Co-Founders who created and led Forward Deployed AI Engineering at Palantir, and we're growing our team in New York and London. We're a deeply technical team of engineers, AI researchers, and strategists with a high bar for talent and a shared belief that exceptional people are the foundation of everything great we'll build.</p><p style=\"min-height:1.5em\"></p><h2><strong>The Role</strong></h2><p style=\"min-height:1.5em\">AI models are smart enough. What they don't have is an understanding of how a specific company\u2019s business actually runs. The AI Strategist's job is to close that gap for Edra\u2019s customers.</p><p style=\"min-height:1.5em\">You embed with a customer, learn how the work actually happens (not how the org chart says it happens), and find where Edra creates the most value. You scope the deployment, run it, measure it, and bring what you learn back to product and engineering, specific enough that they can build on it. The domain changes from one customer to the next\u2014a service desk, a compliance team, a sales operation, a product org\u2014and the role looks different at every customer deployment.</p><p style=\"min-height:1.5em\">This role is operational and it\u2019s for builders. It is not account management, project management, or consulting. In a single day you might go from working with a customer's raw operational data, to prototyping with customer users, to a product prioritization debate with engineering, and you need to be credible in all three rooms.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">The work will look different from one customer to the next, but across an engagement it covers most of the following:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Embed with the team that runs a core part of the customer's business, and learn how the work actually gets done, including the parts no process doc captures.</p></li><li><p style=\"min-height:1.5em\">Scope and run the deployment from the first data pull to a measured result. Decide what data goes in, what comes out, and what success looks like. Start narrow (one process, one team), prove value there, then expand.</p></li><li><p style=\"min-height:1.5em\">Manage relationships with senior stakeholders. Set expectations, and turn the most demanding executive in the room into your champion.</p></li><li><p style=\"min-height:1.5em\">Bring findings back to product and engineering in a form they can act on. Think product-forward about what Edra should build next, grounded in patterns you see in the field.</p></li><li><p style=\"min-height:1.5em\">Build and run demos, and present results and proposals to everyone from the analyst doing the work to the C-suite executive signing the contract.</p></li><li><p style=\"min-height:1.5em\">Spot the patterns across deployments that point to new domains Edra can move into.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>What We\u2019re Looking For</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">2+ years in a deployment, solutions, or customer-facing product role at a high-growth technology company.</p></li><li><p style=\"min-height:1.5em\">Fluency with AI. You already use these tools in your own work and have a feel for where they're strong and where they fall apart on messy, real-world inputs.</p></li><li><p style=\"min-height:1.5em\">You have experience operating independently in unstructured environments, and have owned outcomes, not just tasks.</p></li><li><p style=\"min-height:1.5em\">Dropped into an unfamiliar problem, your instinct is to ask questions and break it down before pitching a solution.</p></li><li><p style=\"min-height:1.5em\">You treat a skeptical operator's objections as rational, because they usually are, and you'd rather spend a day watching someone work than read their process doc.</p></li><li><p style=\"min-height:1.5em\">You're comfortable working directly with messy operational data, and you draw conclusions from it that hold up to scrutiny.</p></li><li><p style=\"min-height:1.5em\">You have product instinct. You can connect what you see in the field to what's worth building, and you know the difference between a one-off ask and a real pattern.</p></li><li><p style=\"min-height:1.5em\">You can hold a room. You turn an unrealistic executive demand into a workable plan without picking a fight, and you manage up and sideways in the same conversation.</p></li><li><p style=\"min-height:1.5em\">You communicate with precision. You structure your thinking, choose concrete words over abstractions, and are upfront when you don't know something.</p></li></ul><p style=\"min-height:1.5em\">Don't check every box? We'd still love to hear from you. We're looking for exceptional people with unique skills and interests, and we know that great people have different backgrounds and skillsets.</p><p style=\"min-height:1.5em\"></p><h2><strong>Bonus Points</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Time spent inside the systems where operational work lives: Salesforce, ServiceNow, SAP, Jira, or similar.</p></li><li><p style=\"min-height:1.5em\">You've worked somewhere deployment and product thinking were the same job.</p></li><li><p style=\"min-height:1.5em\">Comfort with Python, SQL, or similar for working with data directly.</p></li><li><p style=\"min-height:1.5em\">You've helped build a new category, not just added features to an existing one.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Learn More About Edra</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/posts/eugen-alpeza_at-palantir-yannis-and-i-spent-years-doing-activity-7440038397383032832-Di8f?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABJB3z0BkalWJ3s4sVxB7Gz6TE_b-i8IMto\"><u>Watch our Series A announcement video</u></a></p></li><li><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/pulse/edra-out-stealth-edra-ai-wecqe/\"><u>Read our blog post from our launch</u></a></p></li><li><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/edra_ai/status/2034268633308742073\"><u>Learn more about what we're building</u></a></p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Compensation &amp; Benefits</strong></h2><p style=\"min-height:1.5em\">Edra offers generous compensation and benefits in both New York &amp; London: </p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Competitive base salary &amp; meaningful equity </p></li><li><p style=\"min-height:1.5em\">Top tier health, dental, &amp; vision plans:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Top plans with 100% premium coverage in the US (and a One Medical membership)</p></li><li><p style=\"min-height:1.5em\">Private medical &amp; dental coverage in the UK </p></li></ul></li><li><p style=\"min-height:1.5em\">Flexible paid time off </p></li><li><p style=\"min-height:1.5em\">Lunch provided in office most days, snacks &amp; drinks too</p></li><li><p style=\"min-height:1.5em\">A stipend to set up your workspace</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>A Few Details</strong></h2><p style=\"min-height:1.5em\">We work together in person five days a week from our offices in the West Village (New York) and Holborn (London). </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Edra is an equal opportunity employer and we encourage applications from individuals of all backgrounds. Edra does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, genetic information, marital status, sexual orientation, gender identity, veteran status, or any other legally protected characteristic.</p><p>Find <a href=\"https://www.arbeitnow.co.uk\">Jobs in United Kingdom</a> on Arbeitnow</a>",
+      "category": "Other",
+      "role_category": "Other",
+      "status": "active"
     }
   ]
 }
