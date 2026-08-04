@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-04T10:37:30.054846Z",
-  "count": 1615,
+  "updated_at": "2026-08-04T21:09:00.076623Z",
+  "count": 1617,
   "jobs": [
+    {
+      "id": "256a530a212f",
+      "title": "Regional Flight Operations Support Manager",
+      "company": "Wing",
+      "location": "Dallas, Dallas, Texas, United States",
+      "link": "https://remoteOK.com/remote-jobs/remote-regional-flight-operations-support-manager-wing-1136054",
+      "source": "RemoteOK",
+      "posted": "2026-08-03T17:00:01+00:00",
+      "salary": 0,
+      "country": "Remote",
+      "is_remote": true,
+      "description": "<strong>About Wing: <br><br></strong>Wing offers drone delivery as a safe, fast, and sustainable solution for last mile logistics. Consumer appetites for on-demand services are increasing, but current delivery methods are inefficient, costly, and contribute to road accidents and air pollution. Wing\u00e2\u0080\u0099s fleet of highly automated delivery drones can transport small packages directly from businesses to homes on-demand, in minutes. We design, build, and operate our aircraft, and offer drone delivery services on two continents. Our technology is designed to be easy to integrate into existing delivery and logistics networks, offering a scalable drone delivery solution for a broad range of businesses. Wing is a part of Google's parent company, Alphabet, and our mission is to create the preferred means of delivery for the planet. If you're ready to do the greatest work of your life, come join us.<br><br><strong>About the Role:<br><br></strong><strong>Wing</strong> is looking for a <strong>Regional Flight Operations Support Manager</strong> to join our <strong>Flight Operations </strong> team. This role is <strong>based remotely in the United</strong> <strong>States</strong>.<br><br><strong>What You\u00e2\u0080\u0099ll Do: <br><br></strong><ul><li>People Leadership &amp; Development: Directly manage, mentor, and develop a team of Flight Operations Support Coordinators. Set clear expectations, provide regular coaching and deliver actionable feedback to raise the bar for team performance.</li><li>Oversee Regional Vendor Strategy: Serve as the primary regional point of contact for Vendor leadership to manage contract adherence and optimize the deployment of Ground Support and Visual Observer crews.</li><li>Operational Systems Governance: Oversee regional utilization of workforce management tools (e.g., Deputy, ServiceNow) and Google Workspace (gSuite), ensuring the team maintains high standards for data integrity and consistent application of scheduling protocols.</li><li>Financial &amp; Administrative Oversight: Function as the primary approver for team timesheets, expense reports, and regional travel. Simplify complex regional budget issues into actionable steps to solve problems alongside peer managers.</li><li>Long-Range Capacity Planning: Forecast regional staffing requirements based on projected flight volumes, partnering with internal stakeholders to proactively adjust vendor headcount and recruitment pipelines.</li><li>SOP Development &amp; Training: Lead the creation and maintenance of Standard Operating Procedures (SOPs) for site logistics and crew readiness; ensure consistent \"Wing Standards\" and health and safety policy compliance across the region.</li><li>Cross-Functional Integration: Actively connect your team with cross-functional partners (Maintenance, Training, Community Affairs) to promote shared goals and enable effective teamwork toward Wing\u00e2\u0080\u0099s most important targets. Represent Wing by engaging with public and government visitors to support regional outreach activities.<br><br></li></ul><strong>What You\u00e2\u0080\u0099ll Need: <br><br></strong><li>5+ years of experience in aviation operations, logistics, or workforce management, including proven experience as a people manager leading distributed teams.</li><li>Valid Driver's License </li><li>Demonstrated Leadership: Proven ability to set priorities, provide coaching, and manage the performance of direct reports in high-pressure environments.</li><li>Strategic Problem Solving: Ability to independently manage project planning and solve problems of moderate complexity with high ambiguity.</li><li>Scheduling Flexibility: Willing and able to work 5 days/week, including weekends and/or holidays as business needs dictate.</li><li>Operational Expertise: 2+ years of direct experience in Commercial Drone operations (Part 107/135). Active 14 CFR Part 107 Remote Pilot Certificate required.</li>Physical Requirements: Ability to perform moderate physical work and maintain attention in outdoor environments for extended periods, including the ability to lift and transport equipment <li>Communication Excellence: Proven ability to manage external vendor relationships and influence internal partners through clear, data-backed communication.<br><br></li>The US base salary range for this full-time position is the salary range below + bonus + equity + benefits. Wing\u00e2\u0080\u0099s salary ranges are determined by role, level, and location. Your recruiter can share more about the specific salary range for your location during the hiring process.<br><br>Salary Range: $116,000 USD - $154,000 USD<br><br>Wing is an equal opportunity employer and it is Wing's policy to comply with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity. Employment at Wing is based solely on a person's merit and qualifications directly related to professional competence. Wing does not discriminate against any employee or applicant because of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law.<br><br>If you have a need that requires accommodation during the interview process due to a disability or special need, please let us know by completing our Candidate Accommodations Request Form.<br/><br/>Please mention the word **MASTERFUL** and tag RMTcyLjIwMi43OC4y when applying to show you read the job post completely (#RMTcyLjIwMi43OC4y). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "category": "Administrator",
+      "role_category": "Administrator",
+      "status": "active"
+    },
     {
       "id": "5766a0807f88",
       "title": "ServiceNow - Technical Consultant - IRM",
@@ -8462,7 +8478,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -8477,7 +8493,7 @@
       "country": "IN",
       "is_remote": false,
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -24510,6 +24526,22 @@
       "category": "Other",
       "status": "archived",
       "role_category": "Other"
+    },
+    {
+      "id": "69e61b8e75f7",
+      "title": "ServiceNow AI Control Tower Consultant",
+      "company": "Clera",
+      "location": "remote",
+      "link": "https://www.arbeitnow.com/jobs/companies/clera/remote-servicenow-ai-control-tower-consultant-19961",
+      "source": "Arbeitnow",
+      "posted": "1785865242",
+      "salary": null,
+      "country": "",
+      "is_remote": true,
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We are looking for an experienced <strong>ServiceNow AI Control Tower Consultant</strong> to join an urgent, high-impact engagement focused on enterprise-wide AI governance and lifecycle management. This is a <strong>100% remote, W-2 contract</strong> role open to candidates based in the USA. Interviews and submissions are being processed immediately.</p><p style=\"min-height:1.5em\">You will work directly with a client implementing ServiceNow AI Control Tower, helping establish robust AI governance frameworks, compliance playbooks, and observability capabilities across their enterprise.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Configure and implement <strong>AI Governance and Lifecycle Management</strong> capabilities within ServiceNow AI Control Tower.</p></li><li><p style=\"min-height:1.5em\">Support <strong>Risk, Compliance, and Security Management</strong> initiatives aligned to enterprise AI strategy.</p></li><li><p style=\"min-height:1.5em\">Implement <strong>Discovery and Observability</strong> features to monitor and manage AI assets across the organization.</p></li><li><p style=\"min-height:1.5em\">Build governance frameworks, dashboards, and compliance playbooks tailored to stakeholder needs.</p></li><li><p style=\"min-height:1.5em\">Develop workflows and integrate ServiceNow with enterprise AI assets and third-party platforms.</p></li><li><p style=\"min-height:1.5em\">Collaborate closely with both business and technical stakeholders to deliver end-to-end AI governance solutions.</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Strong ServiceNow <strong>development and administration</strong> experience.</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with <strong>AI Governance and AI Lifecycle Management</strong> within ServiceNow.</p></li><li><p style=\"min-height:1.5em\">Solid knowledge of <strong>Risk, Compliance, and Security Management</strong> principles and their implementation in ServiceNow.</p></li><li><p style=\"min-height:1.5em\">Proven experience building <strong>workflows, dashboards, and enterprise integrations</strong> in ServiceNow.</p></li><li><p style=\"min-height:1.5em\">Excellent communication and stakeholder management skills.</p></li><li><p style=\"min-height:1.5em\">Ability to work effectively in a fully remote environment from within the USA.</p></li></ul><h3>Compensation &amp; Benefits</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Rate:</strong> Up to $70/hour (W-2)</p></li><li><p style=\"min-height:1.5em\"><strong>Employment Type:</strong> W-2 Contract</p></li><li><p style=\"min-height:1.5em\">Fully remote engagement \u2014 work from anywhere in the USA</p></li></ul><h3>Location</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>100% Remote</strong> \u2014 must be based in the <strong>United States</strong></p></li><li><p style=\"min-height:1.5em\">Visa sponsorship is <strong>not available</strong> for this role</p></li></ul><p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
+      "category": "Consultant",
+      "role_category": "Consultant",
+      "status": "active"
     },
     {
       "id": "d013e9c6ed73",
