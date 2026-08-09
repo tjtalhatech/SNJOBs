@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:40:23.522498Z",
+  "updated_at": "2026-08-09T20:27:54.060042Z",
   "count": 1621,
   "jobs": [
     {
@@ -8128,7 +8128,7 @@
       "description": "CMDB Senior Developer - ServiceNow CMDB, CSDM, Discovery, Service Mapping & ITOM Role Overview: \u2022 The CMDB Senior Developer will lead technical design, configuration, and data migration activities for the ServiceNow CMDB workstream. \u2022 The role will support migration of configuration item data and related relationships from Flexera and other source systems into ServiceNow, while ensuring alignment with CSDM, CMDB data governance, discovery, service mapping, and reconciliation standards. Key Resp\u2026",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0e9805e9fbd9",
@@ -8144,7 +8144,7 @@
       "description": "ServiceNow BSA - Flexera Migration, ITAM, SAM, HAM, CMDB & ITIL Location: \u2022 Toronto, ON - Hybrid (4 Days WFO) Duration: \u2022 12 months Role Overview: \u2022 A ServiceNow Business Systems Analyst supports the administration, maintenance, and continuous improvement of the ServiceNow platform. \u2022 The role focuses on production support, issue resolution, workflow enablement, reporting, platform health monitoring, and coordination with ITSM support, development, and architecture teams. Key Responsibilities: \u2026",
       "category": "Administrator",
       "role_category": "Administrator",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "85123dc56033",
@@ -8160,7 +8160,7 @@
       "description": "As the Senior ServiceNow Specialist you are responsible for designing, implementing, and optimizing scalable enterprise workflows and applications within the ServiceNow platform. Bridging business requirements and technical execution by leading platform upgrades, managing third-party integrations, and maintaining the Configuration Management Database (CMDB). As the Senior ServiceNow Specialist you ensure the reliability, performance, and stability of the platform while providing technical leade\u2026",
       "category": "Other",
       "role_category": "Other",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b3e350edaa54",
@@ -8176,7 +8176,7 @@
       "description": "Position Description: D\u00e9veloppeur ServiceNow Description de poste Le D\u00e9veloppeur ServiceNow intervient dans le cadre de mandats de transformation num\u00e9rique, d\u2019automatisation des processus et d\u2019\u00e9volution des plateformes de gestion des services. Il est responsable de la conception, du d\u00e9veloppement, de la configuration et de l\u2019int\u00e9gration de solutions ServiceNow r\u00e9pondant aux besoins d\u2019affaires, tout en respectant les standards de qualit\u00e9, de s\u00e9curit\u00e9 et de gouvernance. Dans le contexte des proje\u2026",
       "category": "Other",
       "role_category": "Other",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "afe27a2b75d0",
@@ -8191,7 +8191,7 @@
       "is_remote": false,
       "description": "Location: Noida Experience: 6\u201312 Years About the Role We are looking for a high-impact Presales Manager \u2013 ServiceNow to partner with Sales, OEM teams, and internal delivery units to drive compelling solution pitches, value-driven proposals, and best-in-class customer engagements. This role plays a critical bridge between business needs and technical solutioning , ensuring win probability and long-term customer success. Key Responsibilities 1. Sales & Presales Enablement Assist sales teams in qu\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -8208,7 +8208,7 @@
       "description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you\u2019d like, where you\u2019ll be supported and inspired by a collaborative community of colleagues around the world, and where you\u2019ll be able to reimagine what\u2019s possible. Join us and help the world\u2019s leading organizations unlock the value of technology and build a more sustainable, more inclusive world. Your Role Full time permanent opportunity Main Reponsibilities: Monitor the incident, problem \u2026",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d5600eb0badf",
