@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T08:53:38.130457Z",
+  "updated_at": "2026-08-11T20:39:07.771232Z",
   "count": 1622,
   "jobs": [
     {
@@ -7871,7 +7871,7 @@
       "is_remote": false,
       "description": "Business Enabling Services Group / Enterprise Systems and Services (BES) Division / Digital Services (BES/ESaS) Branch APS 6 ($101,355 - $123,702) | Ongoing | Full-time Canberra, ACT . ABOUT THE BRANCH The Digital Services Branch manages the operation of ICT systems supporting the SDO-ERP and PEMS platform, which collectively provide corporate services to client agencies and parliamentarians. Responsibilities include the development, maintenance and support of these ICT systems, Robotic Process\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -7888,7 +7888,7 @@
       "description": "Senior ServiceNow Functional Consultant Contract | Canberra / Australia | NV1 Clearance Required A ServiceNow specialist consulting practice are seeking an experienced Senior ServiceNow Functional Consultant to lead business analysis, solution design, and ServiceNow platform configuration while working closely with customers and technical delivery teams. Key Responsibilities Lead workshops and requirements gathering activities Translate business needs into ServiceNow solutions Configure workflo\u2026",
       "category": "Consultant",
       "role_category": "Consultant",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6339884c549d",
