@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T08:38:16.966932Z",
-  "count": 1627,
+  "updated_at": "2026-08-21T20:21:43.420807Z",
+  "count": 1629,
   "jobs": [
     {
       "id": "256a530a212f",
@@ -6352,7 +6352,7 @@
       "description": "\u26a0\ufe0f \u00c0 lire avant de postuler Ce poste est en t\u00e9l\u00e9travail complet depuis votre pays d'origine . Il n'inclut pas de d\u00e9marche d'immigration au Canada , ni de sponsor pour un permis de travail. Vous restez bas\u00e9 et r\u00e9sident dans votre pays actuel, et vous travaillez \u00e0 distance pour un client canadien. Si votre objectif est de vous installer au Canada, ce poste ne correspond pas \u00e0 votre projet. Si vous cherchez un poste stable en t\u00e9l\u00e9travail avec un contrat s\u00e9rieux et une r\u00e9mun\u00e9ration au-dessus du mar\u2026",
       "category": "Other",
       "role_category": "Other",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "cca3d767ab1d",
@@ -6367,7 +6367,7 @@
       "is_remote": false,
       "description": "Our new IT Service Analyst, you'll join the IT Service Management team and play an important role in helping to deliver reliable and effective IT services across Jet2 . Working across Service Transition, Major Incident Management, Problem Management, Service Reporting and ServiceNow administration, you'll help ensure services are ready for support, processes are operating effectively and performance is visible across the business. You'll also support the ongoing administration and governance of\u2026",
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "role_category": "Administrator"
     },
     {
@@ -6383,7 +6383,7 @@
       "is_remote": false,
       "description": "Job Title: Lead Service Architect Location: Remote Perm or Contract Job purpose As the Lead Service Architect, you will spearhead the creation of high-impact service models centered on frictionless Customer Experience (CX) and Employee Experience (EX). Operating at the highest tier of service design, you will leverage the ServiceNow platform to unite a complex corporate ecosystem-including Siebel, Oracle, and Microsoft business systems-into intuitive, modern digital workflows. You will own the \u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -6399,7 +6399,7 @@
       "is_remote": false,
       "description": "ServiceNow CMDB Product Manager Location: Knutsford or Manchester (Hybrid) Contract: Permanent Salary: Competitive  excellent benefits About the opportunity We\u2019re working with a leading global banking organisation to recruit a CMDB Product Manager to join their IT Service Management function at Vice President level. This is a high\u2011impact role where you\u2019ll own and evolve the Configuration Management Database (CMDB) as a critical enterprise platform, underpinning operational stability, automation\u2026",
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -6415,7 +6415,7 @@
       "is_remote": false,
       "description": "ServiceNow Consultant - CMDB Product Manager Marshall Wolfe are hiring on behalf of a leading financial services organisation, who are seeking an experienced CMDB Product Manager to drive the strategy, governance and continuous improvement of its Configuration Management Database (CMDB) capability within a large-scale IT Service Management environment. This role can be based in Northampton, Knutsford, Manchester or Glasgow. The Role You will work closely with technology teams and stakeholders t\u2026",
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -6431,7 +6431,7 @@
       "is_remote": false,
       "description": "Senior ServiceNow Architect (GenAI & ITAM) Location: Remote (Occasional Travel to London) Duration: 6 Months Contract (Inside IR35) Rate: \u00a3450 - \u00a3500 per day A top tier consultancy firm is seeking a seasoned ServiceNow Solution / Technical Architect to spearhead a high-impact digital transformation for one of the UK's most critical infrastructure organisations. This is far beyond standard system maintenance. You will assume full technical ownership of an enterprise-grade platform, leading cross\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -6448,7 +6448,7 @@
       "description": "Position - Mainframe Developer Location - Toronto, ON (Onsite 4 Days/Week) Employment Type - Full-Time Permanent Required Skills & Qualifications Technical Skills Strong experience with the IBM Mainframe technology stack, including: JCL COBOL SQL DB2 IMS (Deep IMS knowledge required) Endevor File-AID CA-7 Proficiency with development and collaboration tools such as INSYNC, Jira, Confluence, and ServiceNow. Familiarity with AI-assisted development tools, including GitHub Copilot and Visual Studi\u2026",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b44464ac5dba",
@@ -6463,7 +6463,7 @@
       "is_remote": false,
       "description": "Job Title: Lead Service Architect Location: Remote Perm or Contract Job purpose As the Lead Service Architect, you will spearhead the creation of high-impact service models centered on frictionless Customer Experience (CX) and Employee Experience (EX). Operating at the highest tier of service design, you will leverage the ServiceNow platform to unite a complex corporate ecosystem-including Siebel, Oracle, and Microsoft business systems-into intuitive, modern digital workflows. You will own the \u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -6479,7 +6479,7 @@
       "is_remote": false,
       "description": "Senior ServiceNow Architect (GenAI & ITAM)  Location: Remote (Occasional Travel to London) \u23f3 Duration: 6 Months Contract (Inside IR35)  Rate: \u00a3450 - \u00a3500 per day A top tier consultancy firm is seeking a seasoned ServiceNow Solution / Technical Architect to spearhead a high-impact digital transformation for one of the UK's most critical infrastructure organisations. This is far beyond standard system maintenance. You will assume full technical ownership of an enterprise-grade platform, leading c\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -6495,7 +6495,7 @@
       "is_remote": false,
       "description": "Software / Application Development Melbourne Contract Work on specialised ServiceNow OMT/SOMT projects with real business impact Build enterprise integrations using REST APIs, SOAP and IntegrationHub Exposure to large-scale order management and fulfilment environments We are seeking a ServiceNow OMT Integration Engineer to join a growing technology team delivering complex telecommunications and order management solutions. As a ServiceNow OMT Integration Engineer, you will be responsible for des\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -24526,6 +24526,38 @@
       "category": "Other",
       "status": "archived",
       "role_category": "Other"
+    },
+    {
+      "id": "178607458df4",
+      "title": "(Senior) IT Systems Engineer f\u00fcr ServiceNow (m/w/d)",
+      "company": "noris network AG",
+      "location": "Nuremberg",
+      "link": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-fur-servicenow-nuremberg-328583",
+      "source": "Arbeitnow",
+      "posted": "1787331631",
+      "salary": null,
+      "country": "",
+      "is_remote": true,
+      "description": "<p>Die noris network AG steht f\u00fcr innovative, sichere und nachhaltige IT-L\u00f6sungen. Mit \u00fcber 600 engagierten Mitarbeitenden entwickeln wir leistungsstarke Services in den Bereichen Cloud, Datacenter, Network &#x26; Security sowie Managed Applications \u2013 betrieben auf einer hochmodernen, mehrfach zertifizierten IT-Infrastruktur mit eigenen Hochsicherheitsrechenzentren. Seit 1993 sind wir kontinuierlich gewachsen und z\u00e4hlen heute zu den f\u00fchrenden IT-Spezialisten in Deutschland. Unser gr\u00f6\u00dftes Kapital? Ein starkes, diverses Team mit einem gemeinsamen Ziel: die digitale Zukunft unserer Kunden aktiv mitzugestalten. Deshalb f\u00f6rdern wir Eigenverantwortung, Weiterentwicklung und frische Ideen \u2013 in einem Umfeld, das Innovation und Nachhaltigkeit vereint.</p>\n<p>Unser Team OAS/AOP2 ist verantwortlich f\u00fcr die Bereitstellung und den Betrieb von ServiceNow-Instanzen ab der Betriebssystemebene (Linux) einschlie\u00dflich der darauf aufsetzenden (Java)-Applikationen sowie der MariaDB- bzw. PostgreSQL-Datenbanken. Dies umfasst insbesondere die Behebung von Incidents, die Durchf\u00fchrung von Changes sowie die Analyse im Rahmen des Problem-Managements. Dar\u00fcber hinaus geh\u00f6ren die Automatisierung der Betriebsf\u00fchrungsabl\u00e4ufe sowie die Planung und Umsetzung von Projekten zu den Aufgaben des Teams.</p>\n<p>M\u00f6chtest Du Teil unseres Teams werden, dann bewirb Dich an unseren Standorten in N\u00fcrnberg, Aschheim, Berlin oder remote innerhalb Deutschlands.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Betrieb hochverf\u00fcgbarer und kritischer ServiceNow-Applikationen sowie Umsysteme</li>\n<li>Ansprechpartner f\u00fcr Kunden</li>\n<li>Regelm\u00e4\u00dfige \u00dcbernahme der technischen Hotline im Rahmen der Sicherstellung des reibungslosen 24/7 Betriebs der Instanzen</li>\n<li>Eigenst\u00e4ndige Planung und Durchf\u00fchrung von Changes gem\u00e4\u00df ITIL</li>\n<li>L\u00f6sung von St\u00f6rungen und Problemen sowie Ableitung von Ma\u00dfnahmen zur nachhaltigen Probleml\u00f6sung</li>\n<li>Weiterentwicklung der Automatisierung</li>\n<li>Deployment von neuen Kundeninstanzen</li>\n<li>Weiterentwicklung unserer Betriebsprozesse</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Erfolgreich abgeschlossenes Studium der Informatik, erfolgreich abgeschlossene Ausbildung zum Fachinformatiker (m/w/d) f\u00fcr Systemintegration oder eine vergleichbare Qualifikation</li>\n<li>Sicherer Umgang mit Linux sowie fundierte Kenntnisse der g\u00e4ngigen Netzwerk-Protokolle (IP, TCP, UDP, HTTP, DNS, FTP)</li>\n<li>Hohes Ma\u00df an Qualit\u00e4tsbewusstsein, Kommunikationsf\u00e4higkeit sowie Teamf\u00e4higkeit</li>\n<li>Selbstst\u00e4ndige und strukturierte Arbeitsweise</li>\n<li>Sehr gute Deutsch- sowie gute Englischkenntnisse</li>\n<li>Interesse an Debian, Terraform, Bash, Python, Java Webservices, Elasticsearch, Prometheus, Grafana, Icinga2, Ansible, AWX, GitLab CI/CD</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Unbefristeter Arbeitsvertrag und flexible Arbeitszeiten</li>\n<li>Ruhezeitenausgleich auf Dein Stundenkonto</li>\n<li>Arbeiten an verschiedenen Standorten m\u00f6glich (z.B. N\u00fcrnberg, Aschheim, Berlin) oder auch zu 100% Remote</li>\n<li>Hochwertiges Equipment: Laptop und Firmenhandy auch zur privaten Nutzung</li>\n<li>Individuelle F\u00f6rderung und Weiterentwicklung durch Inhouse-Trainings und externe Schulungen</li>\n<li>Kinderbetreuungskostenzuschuss (pro Monat/Kind) und Corporate Benefits</li>\n<li>Attraktive Firmenevents (inkl. Reisekosten\u00fcbernahme), kollegiales und wertsch\u00e4tzendes Arbeitsumfeld sowie Duz-Kultur ab dem ersten Tag</li>\n<li>Gro\u00dfz\u00fcgiger Zuschuss zum Deutschlandticket</li>\n<li>Gesundheitsmanagement (z.B. kostenlose Massagen inhouse), Jobrad Leasing und betriebliche Altersvorsorge mit Zuschuss</li>\n<li>Welcome Day, direkter Ansprechpartner (m/w/d) und strukturierte Einarbeitungsphase</li>\n<li>Getr\u00e4nke for free (auch Softdrinks) und frisches Obst an den Standorten</li>\n</ul>\n<p>Dann freuen wir uns \u00fcber Deine aussagekr\u00e4ftige Bewerbung mit Angabe Deiner Gehaltsvorstellung und dem fr\u00fchesten Eintrittsdatum.<br>\nF\u00fcr Deine Fragen zu uns oder der Stelle steht Dir Alicia Hanna gerne zur Verf\u00fcgung.</p>\n<p>noris network AG<br>\nThomas-Mann-Str. 16 - 20<br>\n90471 N\u00fcrnberg</p>\n<p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+      "category": "Developer",
+      "role_category": "Developer",
+      "status": "active"
+    },
+    {
+      "id": "8012fe674de4",
+      "title": "Alliance Director, Strategic Technology Partnerships",
+      "company": "Cube",
+      "location": "London",
+      "link": "https://www.arbeitnow.co.uk/jobs/companies/cube/alliance-director-strategic-technology-partnerships-london-452367",
+      "source": "Arbeitnow",
+      "posted": "1787305243",
+      "salary": null,
+      "country": "",
+      "is_remote": false,
+      "description": "<p style=\"min-height:1.5em\">CUBE are a global RegTech business defining and implementing the gold standard of regulatory intelligence for the financial services industry. We deliver our services through intuitive SaaS solutions, powered by AI, to simplify the complex and everchanging world of compliance for our clients.\u00a0</p><p style=\"min-height:1.5em\"><strong>\u00a0</strong></p><p style=\"min-height:1.5em\"><strong>Why us?</strong></p><p style=\"min-height:1.5em\">\ud83c\udf0d CUBE is a globally recognized brand at the forefront of Regulatory Technology. Our industry-leading SaaS solutions are trusted by the world\u2019s top financial institutions globally.</p><p style=\"min-height:1.5em\">\ud83d\ude80 In 2024, we achieved over 50% growth, both organically and through two strategic acquisitions. We\u2019re a fast-paced, high-performing team that thrives on pushing boundaries\u2014continuously evolving our products, services, and operations. At CUBE, we don\u2019t just keep up we stay ahead.</p><p style=\"min-height:1.5em\">\ud83c\udf31 We believe our future is built by bold, ambitious individuals who are driven to make a real difference. Our \u201cmake it happen\u201d culture empowers you to take ownership of your career and accelerate your personal and professional development from day one.</p><p style=\"min-height:1.5em\">\ud83c\udf10 With over 700 CUBERs across 19 countries spanning EMEA, the Americas, and APAC, we operate as one team with a shared mission to transform regulatory compliance. Diversity, collaboration, and purpose are the heartbeat of our success.</p><p style=\"min-height:1.5em\">\ud83d\udca1 We were among the first to harness the power of AI in regulatory intelligence, and we continue to lead with our cutting-edge technology. At CUBE, You will work alongside some of the brightest minds in AI research and engineering in developing impactful solutions that are reshaping the world of regulatory compliance.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Role Mission:</strong></p><p style=\"min-height:1.5em\">This role owns the end-to-end management of CUBE's most strategically significant technology partnerships \u2014 including large ISVs such as IBM, ServiceNow, and Microsoft. The Alliance Director is responsible for building and deepening commercial relationships, structuring and closing complex partnership agreements, and activating joint go-to-market motions that generate measurable, attributable revenue.</p><p style=\"min-height:1.5em\">This is not a relationship maintenance role. It requires a commercially sophisticated operator who understands the mechanics of technology ecosystems \u2014 OEM, resell, redistribution, co-sell, and technology integration \u2014 and who can navigate complex, multi-stakeholder commercial environments to move partnerships from strategic intent to commercial outcome.</p><p style=\"min-height:1.5em\"><strong>Responsibilities:</strong></p><p style=\"min-height:1.5em\"><strong>Commercial Partnership Development</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own the full commercial lifecycle of assigned technology partnerships, from structuring and negotiating agreements through to renewal, expansion, and performance management.</p></li><li><p style=\"min-height:1.5em\">Lead and close complex partnership agreements, including OEM arrangements, resell and redistribution frameworks, co-sell motions, and joint solution commercialisation.</p></li><li><p style=\"min-height:1.5em\">Identify and pursue commercial models that unlock mutual revenue growth, with a clear line of sight to pipeline contribution and partner-influenced revenue.</p></li><li><p style=\"min-height:1.5em\">Maintain a deep understanding of each partner's commercial priorities, go-to-market strategy, and internal incentive structures to position CUBE advantageously.</p></li></ul><p style=\"min-height:1.5em\"><strong>Technical Partnership Depth</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Develop and maintain a strong working knowledge of how CUBE's technology integrates with partner platforms, and how those integrations create joint value for customers.</p></li><li><p style=\"min-height:1.5em\">Engage with technical and product stakeholders \u2014 both internally and within partner organisations \u2014 to progress integration roadmaps, co-develop joint solutions, and identify new areas of technical collaboration.</p></li><li><p style=\"min-height:1.5em\">Evaluate and pursue OEM, embedded, and distribution opportunities that extend CUBE's reach through partner technology stacks.</p></li><li><p style=\"min-height:1.5em\">Act as a credible voice in technical discussions, capable of articulating integration architecture, data flows, and platform interoperability at a level that builds confidence with partner product and engineering teams.</p></li></ul><p style=\"min-height:1.5em\"><strong>Relationship &amp; Stakeholder Management</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build and sustain executive-level relationships within partner organisations, establishing CUBE as a preferred and trusted partner.</p></li><li><p style=\"min-height:1.5em\">Manage a broad and complex stakeholder map across each partner \u2014 spanning alliances, sales, product, legal, and C-suite \u2014 and navigate competing priorities to advance CUBE's position.</p></li><li><p style=\"min-height:1.5em\">Represent CUBE at partner advisory boards, strategic forums, industry events, and joint customer engagements.</p></li><li><p style=\"min-height:1.5em\">Maintain regular cadences with partner leadership, including joint business reviews, executive briefings, and strategic planning sessions.</p></li></ul><p style=\"min-height:1.5em\"><strong>Go-to-Market Activation</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and execute co-sell programmes with partner field organisations, ensuring CUBE is embedded in partner sales motions and consistently positioned in joint opportunities.</p></li><li><p style=\"min-height:1.5em\">Collaborate with CUBE's sales, marketing, and product teams to translate partnership agreements into active pipeline and closed revenue.</p></li><li><p style=\"min-height:1.5em\">Drive partner enablement \u2014 ensuring partner-facing teams have the knowledge, tools, and incentives to position and sell CUBE effectively.</p></li><li><p style=\"min-height:1.5em\">Track and report on pipeline, revenue attribution, and partner engagement metrics, providing regular performance updates to the Global Head of Strategic Partnerships.</p></li></ul><p style=\"min-height:1.5em\"><strong>Internal Collaboration</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Work cross-functionally with Legal, Finance, Product, and Sales to structure, negotiate, and operationalise partnership agreements.</p></li><li><p style=\"min-height:1.5em\">Serve as the internal authority on assigned partner relationships \u2014 providing context, intelligence, and strategic guidance to colleagues who interact with or are affected by those partnerships.</p></li><li><p style=\"min-height:1.5em\">Contribute to the broader alliance strategy, sharing market intelligence and partnership learnings that inform CUBE's ecosystem approach.</p></li></ul><p style=\"min-height:1.5em\"><strong>Skills &amp; Experience:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Proven track record managing strategic technology partnerships with large ISVs \u2014 direct experience with IBM, ServiceNow, or Microsoft ecosystems strongly preferred.</p></li><li><p style=\"min-height:1.5em\">Demonstrated experience structuring and closing complex commercial agreements, including OEM arrangements, resell and redistribution frameworks, and technology co-development or integration agreements.</p></li><li><p style=\"min-height:1.5em\">Strong working knowledge of technology integration models and the commercial mechanics they enable \u2014 how integrations are monetised, productised, and taken to market.</p></li><li><p style=\"min-height:1.5em\">Experience designing and executing co-sell programmes with enterprise technology partners, with demonstrable pipeline and revenue results.</p></li><li><p style=\"min-height:1.5em\">Track record of building and maintaining executive-level relationships within large, matrixed partner organisations.</p></li><li><p style=\"min-height:1.5em\">Commercially sophisticated, with experience managing partner-influenced revenue targets and reporting on portfolio performance to senior leadership.</p></li><li><p style=\"min-height:1.5em\">Demonstrated ability to operate cross-functionally in complex organisations \u2014 working with Legal, Finance, Product, and Sales to negotiate and operationalise partnerships.</p></li><li><p style=\"min-height:1.5em\">Experience in a B2B SaaS, RegTech, FinTech, or enterprise software environment preferred.</p></li></ul><p style=\"min-height:1.5em\"><strong>Interested?</strong></p><p style=\"min-height:1.5em\">If you are passionate about leveraging technology to transform regulatory compliance and meet the qualifications outlined above, we invite you to apply. Please submit your resume detailing your relevant experience and interest in CUBE.\u200b</p><p style=\"min-height:1.5em\">CUBE is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p><p>Find <a href=\"https://www.arbeitnow.co.uk\">Jobs in United Kingdom</a> on Arbeitnow</a>",
+      "category": "Other",
+      "role_category": "Other",
+      "status": "active"
     },
     {
       "id": "e3fe38e88e52",
