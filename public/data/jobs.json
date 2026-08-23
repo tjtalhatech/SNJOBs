@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:18:25.715621Z",
+  "updated_at": "2026-08-23T08:27:34.276539Z",
   "count": 1632,
   "jobs": [
     {
@@ -5744,7 +5744,7 @@
       "description": "Job Description Job Description We are looking for a ServiceNow Technical Architect to design the structure of our ITSM systems and oversee programs to ensure the proper architecture is implemented. The Technical Architect - ServiceNow, will contribute to a team of specialists working to assist our clients customers in understanding their ServiceNow environments. The Technical Architect - ServiceNow will join the IT & Software Asset Management (ITAM) Team to focus primarily on the implementatio\u2026",
       "category": "Other",
       "role_category": "Other",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4892af19eb4a",
@@ -5760,7 +5760,7 @@
       "description": "Job Description Job Description Application deadline: August 13, 2026 at noon Join the EDC Team! At EDC, we support Canadian businesses to succeed globally. We provide the financial tools and expertise they need to explore new markets, reduce risks, all towards the goal of making Canada and the world better through trade. Position: Sr. Technical Advisor Employment Type: Permanent Location: Export Development Canada operates in a hybrid work environment, with a current requirement of two in-offi\u2026",
       "category": "Other",
       "role_category": "Other",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "94dbaffc27e9",
@@ -5776,7 +5776,7 @@
       "description": "Job Description Job Description Application Deadline: August 14, 2026 at 12 pm Join the EDC Team! At EDC, we support Canadian businesses to succeed globally. We provide the financial tools and expertise they need to explore new markets, reduce risks, all towards the goal of making Canada and the world better through trade. LI-Hybrid Position: Global Accounts Director, Corporate Lending Employment Type: Permanent Compensation Details: Underwriter 19: Salaries typically range from typically range\u2026",
       "category": "Other",
       "role_category": "Other",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5fd11cdad150",
@@ -5792,7 +5792,7 @@
       "description": "Job Description Job Description Application deadline: August 13, 2026 at noon Join the EDC Team! At EDC, we support Canadian businesses to succeed globally. We provide the financial tools and expertise they need to explore new markets, reduce risks, all towards the goal of making Canada and the world better through trade. Position: Sr. Technical Advisor Employment Type: Permanent Location: Export Development Canada operates in a hybrid work environment, with a current requirement of two in-offi\u2026",
       "category": "Other",
       "role_category": "Other",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9ad2ceea7b32",
@@ -5807,7 +5807,7 @@
       "is_remote": false,
       "description": "Software / Application Development Melbourne Contract ServiceNow Developer with strong ITSM experience Hybrid role based in Melbourne Initial contract with extension potential We're partnering with a well-established organisation seeking a hands-on ServiceNow professional to support ongoing platform development, enhancement and optimisation initiatives. This role will suit someone with strong ServiceNow development experience across ITSM who enjoys solving complex problems, working closely with\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -5824,7 +5824,7 @@
       "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Microsoft Management Level Senior Associate Job Description & Summary At PwC, our people in business application consulting specialise in consulting services for a variety of business applications, helping clients optimise operational efficiency. These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business applications, enabling client\u2026",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d90b7c25e4d3",
@@ -5839,7 +5839,7 @@
       "is_remote": false,
       "description": "Role: ServiceNow Solution Architect Full time Location: London/Leeds/Exeter Job Summary  The ServiceNow Solution Architect will lead the design, development, and implementation of ServiceNow solutions that align with business requirements and IT service management best practices. This role involves collaborating with stakeholders to define technical architecture, creating scalable solutions, and ensuring seamless integration with existing systems. The architect will serve as the technical autho\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -5855,7 +5855,7 @@
       "is_remote": false,
       "description": "ServiceNow Technical Architect Senior Manager Location: London (Hybrid) Salary: Competitive  Excellent Benefits About the Opportunity We are partnering with a global technology consulting leader to recruit an experienced ServiceNow Technical Architect Senior Manager . This is an opportunity to join a market-leading ServiceNow practice delivering complex digital transformation programmes for some of the world's largest enterprise organisations. As a senior technical leader, you will shape soluti\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -5871,7 +5871,7 @@
       "is_remote": false,
       "description": "Change, Release & Problem Manage London Farringdon/ Hybrid | \u00a380,000  Benefits The Opportunity We are seeking an experienced Change, Release & Problem Manager to lead and mature Change, Release and Problem Management across a complex technology environment. This is a key governance role focused on service stability, operational resilience and successful delivery of technology change. X3/4 day per week in the office then very much hybrid after probation. Key Responsibilities Own and improve Chan\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -5887,7 +5887,7 @@
       "is_remote": false,
       "description": "ServiceNow Administrator - Manchester (Hybrid) - Permanent A fantastic opportunity has arisen for a ServiceNow Administrator to work within a global law firm on a permanent basis based in Manchester. This role will support the rollout, administration and continuous improvement of the ServiceNow platform, ensuring reliable day-to-day operations while contributing to ongoing project delivery. Key Responsibilities Administer and maintain ServiceNow modules, including user and group management, acc\u2026",
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "role_category": "Administrator"
     },
     {
@@ -5904,7 +5904,7 @@
       "description": "Title: Service Now Developer\nLocation: McLean, VA or Plano, TX - Fully Onsite\n6 months assignment\n\nResponsibilities:\n\u2022 Design, develop, and implement ServiceNow GRC modules in alignment with solution requirements.\n\u2022 Configure solution UI, including Forms, Fields, Lists, Views, Workspaces, UI Policies, Client Scripts, UI Actions, Dashboards, Reports, Service Catalog, and Portals.\n\u2022 Configure solution workflows, including Business Rules, Scheduled Jobs, Script Includes, Flows, Workflows, Notifications, Mail Scripts, and Events.\n\u2022 Configure Users, Roles, Groups, and ACLs.\n\u2022 Create, manage, and deploy Update Sets.\n\u2022 Experience with data imports into GRC application tables.\n\u2022 Build system integrations using Integration Hub and REST API.\n\u2022 Execute functional component testing on GRC workflows.\n\u2022 Create technical solution documentation.\n\u2022 s a member of the product team, participate in agile sprints and scrum ceremonies.\n\u2022 Provide ongoing production and end-user support.\n\u2022 Participate in deployment planning, ensuring adherence to software compliance standards.\nRequired Qualifications: \u2022 ServiceNow Application Developer with 5+ years of experience in designing and implementing complex ServiceNow solutions to meet business requirements.\n\u2022 Certified ServiceNow Application Developer for 3+ years.\n\u2022 4+ years of experience in JavaScript, Ajax, XML, JSON, HTML, and CSS.\n\u2022 Proficient with GlideRecord queries and scripting.\nPreferred Qualifications: \u2022 Certified Implementation Specialist - Risk and Compliance (GRC).\n\u2022 Experience building integrations with ServiceNow Integration Hub.\n\u2022 Experience building integrations using REST API.\n\u2022 4+ years of experience in Agile practices, building software in an enterprise environment.\n\u2022 Excellent communication skills for collaboration with technical teams and stakeholders.\n\u2022 bility to translate business requirements into technical solutions.\n\u2022 Proactive and self-motivated with a strong sense of ownership.\n\u2022 bility to manage multiple priorities and meet deadlines\n\nEEO:\n\"Mindlance is an Equal Opportunity Employer and does not discriminate in employment on the basis of - Minority/Gender/Disability/Religion/LGBTQI/Age/Veterans.\"",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d466f64bee0f",
@@ -5920,7 +5920,7 @@
       "description": "We are seeking a hands-on ServiceNow Claims Lead Engineer to serve as the technical subject matter expert (SME) for a highly customized specialty claims platform built on ServiceNow.\n\nThis role is focused on architecture, design, and hands-on development, working closely with engineering leadership, product stakeholders, and a Software Integrator (SI) to deliver scalable, high-quality solutions.\n\nThe platform leverages ServiceNow Customer Service Management (CSM), App Engine, and Integration Hub with extensive scripted customizations and complex integrations across policy administration, financial systems, and enterprise data platforms.\n\nThis role is ideal for someone who enjoys building and evolving complex platforms, staying close to the code, and acting as the go-to technical authority for ServiceNow architecture and implementation.\n\nKey Responsibilities\n\nPlatform Architecture & Technical Ownership\n\n\u2022 Serve as the ServiceNow technical authority (SME) for the claims platform.\n\u2022 Design and evolve claims data models, workflows, case structures, and automation to support complex business processes.\n\u2022 Architect solutions using CSM and App Engine to enable highly customized, non\u2013out-of-the-box functionality.\n\u2022 Define and maintain technical standards, patterns, and best practices for the platform.\n\u2022 Ensure architectural decisions balance flexibility, performance, maintainability, and long-term scalability.\n\nHands-On Development & Solution Design\n\n\u2022 Actively contribute to development, including ServiceNow scripting (JavaScript, Script Includes, Business Rules, UI logic).\n\u2022 Build prototypes, reference implementations, and reusable components.\n\u2022 Review and guide implementation work delivered by internal engineers and the SI.\n\u2022 Lead technical design sessions and provide clear direction on solution approaches.\n\u2022 Drive consistency and reuse across platform components.\n\nIntegration & Data Architecture\n\n\u2022 Design and implement integrations using ServiceNow Integration Hub, including custom actions and orchestration.\n\u2022 Build and support both:\n\u2022 Real-time transactional integrations\n\u2022 Batch-based data pipelines\n\u2022 Integrate with:\n\u2022 Policy administration systems\n\u2022 Financial and accounting platforms\n\u2022 Enterprise data warehouse / analytics systems\n\u2022 Apply strong understanding of:\n\u2022 Synchronous vs. asynchronous processing\n\u2022 Data consistency and reliability across distributed systems\n\nSDLC & Platform Quality\n\n\u2022 Contribute to and help enforce SDLC practices, including design standards, code quality, and release processes.\n\u2022 Support platform stability through involvement in production support, troubleshooting, and root cause analysis.\n\u2022 Ensure solutions are built with operational readiness, observability, and performance in mind.\n\u2022 Continuously identify opportunities to improve platform quality, maintainability, and developer experience.\n\nCollaboration & Technical Partnership\n\n\u2022 Partner closely with engineering leadership, product teams, and the SI to translate business needs into technical solutions.\n\u2022 Act as a trusted technical advisor across engineering and business stakeholders.\n\u2022 Mentor developers on ServiceNow best practices and architectural patterns.\n\nThe above cited duties and responsibilities describe the general nature and level of work performed by people assigned to the job. They are not intended to be an exhaustive list of all the duties and responsibilities that an incumbent may be expected or asked to perform\n\nRequired Qualifications\n\n\u2022 8+ years of software engineering experience with strong hands-on ServiceNow development.\n\u2022 Deep experience with:\n\u2022 ServiceNow CSM\n\u2022 App Engine (custom applications)\n\u2022 Integration Hub (custom actions and orchestration)\n\u2022 Proven experience working in heavily customized ServiceNow environments with significant scripted logic.\n\u2022 Strong experience designing and implementing enterprise integrations and data pipelines.\n\u2022 Solid understanding of:\n\u2022 Event-driven architecture\n\u2022 Sync vs. async integration patterns\n\u2022 Distributed data consistency\n\u2022 Ability to contribute directly to code and guide implementation teams.\n\u2022 Strong communication skills and ability to influence technical decisions.\n\nPreferred Qualifications\n\n\u2022 Experience building or supporting financial or insurance domains\n\u2022 ServiceNow certifications (CSA, CAD, CIS-CSM) preferred but not required.\n\u2022 Experience operating in regulated or compliance-driven environments.\n\u2022\n\nApplicants must be authorized to work for any employer in the United States. We are unable to sponsor or assume sponsorship of employment visas at this time. We welcome applicants of all backgrounds and national origins\n\nThe anticipated salary for this position is $120,000 - $180,000+ per year, based on qualifications and experience.\n\nRecruitment Updates\n\nFortegra has recently been made aware of unauthorized communications regarding career opportunities by individuals not associated with Fortegra or our recruitment team. Fortegra will only contact you from the Fortegra domain address (@fortegra.com). If you receive a message from someone posing as a Fortegra recruiter via text message, WhatsApp, Telegram or other messaging platform, please report it as phishing and block the sender.\n\nFortegra is not accepting unsolicited resumes from search firms for this position.",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6b82461fbf15",
@@ -5936,7 +5936,7 @@
       "description": "Job Title - ServiceNow HSRD Architect Experience Required - 10 years Timezone - IST Budget - 1.60 LPM (Can go little Flexible) Detailed Job Descriptions 11 years of IT experience with 3 years as a ServiceNow Architect. Strong expertise in ServiceNow HRSD, HR Case Management, Employee Centre Pro, and Lifecycle Events. Experience with Flow Designer, Integration Hub, REST/SOAP APIs, and ServiceNow platform architecture. End-to-end HRSD implementation and client-facing experience . CSA certificatio\u2026",
       "category": "Other",
       "role_category": "Other",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6fcfdae2adb2",
@@ -5951,7 +5951,7 @@
       "is_remote": false,
       "description": "About the Opportunity Advance Thinking delivers high-impact enterprise technology and process improvement outcomes for a growing portfolio of Australian businesses. We work as a trusted delivery partner, embedding skilled consultants directly into our clients' teams to design, build, and optimise the platforms that genuinely improve how their organisations operate. We have an exciting opportunity for an experienced ServiceNow Specialist (BA / Process) to join a newly formed team for one of our \u2026",
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -5967,7 +5967,7 @@
       "is_remote": false,
       "description": "About the Opportunity Advance Thinking delivers high-impact enterprise technology and process improvement outcomes for a growing portfolio of Australian businesses. We work as a trusted delivery partner, embedding skilled consultants directly into our clients' teams to design, build, and optimise the platforms that genuinely improve how their organisations operate. We have an exciting opportunity for an experienced Senior ServiceNow Developer to join a newly formed team for one of our key clien\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -5983,7 +5983,7 @@
       "is_remote": false,
       "description": "We're partnering with a well-established organisation seeking a hands-on ServiceNow professional to support ongoing platform development, enhancement and optimisation initiatives. This role will suit someone with strong ServiceNow development experience across ITSM who enjoys solving complex problems, working closely with stakeholders and delivering scalable platform solutions. Key Responsibilities Develop, configure and enhance ServiceNow applications and workflows Support and improve ITSM mod\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -5999,7 +5999,7 @@
       "is_remote": false,
       "description": "hackajob is collaborating with Jet2.com to connect them with exceptional professionals for this role. Our new IT Service Analyst, you'll join the IT Service Management team and play an important role in helping to deliver reliable and effective IT services across Jet2 . Working across Service Transition, Major Incident Management, Problem Management, Service Reporting and ServiceNow administration, you'll help ensure services are ready for support, processes are operating effectively and perfor\u2026",
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "role_category": "Administrator"
     },
     {
@@ -6015,7 +6015,7 @@
       "is_remote": false,
       "description": "hackajob is collaborating with DXC Technology to connect them with exceptional professionals for this role. Job Description Join our Team as our Senior ServiceNow Sales Professional. Location: Hybrid with our central London office, mainly travelling to client sites. Can also be hybrid with our Farnborough office. Mainly working from home and being on client sites than in our DXC office. Security clearance: Due to nature of our clients, we require sole UK nationals who are able to obtain securit\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
