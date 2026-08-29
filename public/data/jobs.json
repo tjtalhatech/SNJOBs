@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T02:40:17.460598Z",
+  "updated_at": "2026-08-29T13:37:45.129851Z",
   "count": 1635,
   "jobs": [
     {
@@ -3071,7 +3071,7 @@
       "is_remote": false,
       "description": "Managed Services Technical Lead Remote working Salary up to \u00a380000 I am recruiting on behalf of a ServiceNow Partner who are looking to add a Managed Services Technical Lead to their ever-increasing team. This role is a growth role, and they are looking for someone who can lead the existing internal functions and the managed services offering. You will be tasked with but not limited to: * Design and configuration of the platform and modules \u2013 ITSM, CSM, ITOM. * Supporting day to day operation o\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3087,7 +3087,7 @@
       "is_remote": false,
       "description": "Managed Services Technical Lead Remote working Salary up to \u00a380000 I am recruiting on behalf of a ServiceNow Partner who are looking to add a Managed Services Technical Lead to their ever-increasing team. This role is a growth role, and they are looking for someone who can lead the existing internal functions and the managed services offering. You will be tasked with but not limited to: * Design and configuration of the platform and modules \u2013 ITSM, CSM, ITOM. * Supporting day to day operation o\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3104,7 +3104,7 @@
       "description": "Visier is the global leader in Workforce Intelligence that powers every people decision. We bring Workforce AI to life for HR departments through our award-winning, agentic AI technology by surfacing the insights leaders need to plan, decide, and act with confidence in the moments that matter most. As the market leader in people analytics, workforce planning, organizational design, and manager effectiveness solutions, we fuel smarter decision-making for organizations across the globe. Our missi\u2026",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bec7a650f32e",
@@ -3119,7 +3119,7 @@
       "is_remote": false,
       "description": "Salary: \u00a370,000 - 85,000 per year Requirements: Proven experience developing and customising the ServiceNow platform. Strong knowledge of ServiceNow workflows, scripting and integrations. Experience with ServiceNow Virtual Agent and/or Robotic Process Automation (RPA). Strong JavaScript development skills. Excellent analytical and problem-solving abilities. Strong communication skills with the ability to work collaboratively across technical and business teams. Active SC (Security Check) Cleara\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3135,7 +3135,7 @@
       "is_remote": false,
       "description": "Salary: \u00a3? - ? per year Requirements: 6 years experience as a Solution Architect. Proven experience working in a large enterprise bank within the past 3 years. Experience in one or more of the following: Operational Resilience, Business Continuity, Disaster Recovery, and technology risk. Experience with ServiceNow is desirable. Knowledge of the Digital Operational Resilience Act (DORA) is highly desirable. Knowledge of operational resilience frameworks, RTO/RPO, backup and disaster recovery, an\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -3151,7 +3151,7 @@
       "is_remote": false,
       "description": "Salary: \u00a360,000 - 90,000 per year Requirements: We are looking for experienced ServiceNow HR Business Analysts or ServiceNow Business Process Consultants. We need experience supporting HR Service Delivery solutions on the ServiceNow platform. We value the ability to capture requirements, map processes and translate business needs into clear requirements, user stories, process designs and functional outcomes. We are seeking someone who can work as an advisor and bridge between customers and deli\u2026",
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -3167,7 +3167,7 @@
       "is_remote": false,
       "description": "Salary: \u00a3? - ? per year Requirements: Strong hands-on experience in Amazon Bedrock and agentic AI implementation patterns. Practical experience with AWS AgentCore or similar AI agent runtime and orchestration capabilities. Advanced Python and TypeScript development experience. Experience implementing RAG, prompt engineering, tool/function calling, and AI workflow orchestration. Experience with production monitoring, observability, and operational support for AI/ML or GenAI workloads. Strong und\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3183,7 +3183,7 @@
       "is_remote": false,
       "description": "Salary: \u00a3100,000 - 120,000 per year Requirements: We need 5 years of technical experience implementing and supporting ServiceNow. We require hands-on IRM module expertise. We need a strong understanding of risk management, GRC and ServiceNow best practice. We look for strong problem-solving and root-cause analysis skills. We require proven experience in a regulated environment such as financial services, insurance or critical infrastructure. We need the credibility to manage audit and IT securi\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3199,7 +3199,7 @@
       "is_remote": false,
       "description": "Salary: \u00a3? - ? per year Requirements: 3-7 years of commercial ServiceNow development experience Strong JavaScript development skills Experience with Service Portal or Employee Centre development Solid knowledge of Business Rules, Flow Designer, Client Scripts, UI Policies, and Script Includes Experience building and consuming REST APIs Agile development experience Excellent analytical, troubleshooting, and communication skills Advantageous experience with ServiceNow Customer Service Management \u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3215,7 +3215,7 @@
       "is_remote": false,
       "description": "Salary: \u00a3? - ? per year Requirements: Proven experience working as a Solutions Architect with Oracle Strong experience producing and owning end-to-end solution designs Experience delivering large-scale enterprise transformation programmes Background working across back-office systems such as HR, Timesheets, Learning & Training, Procurement, and related business functions Ability to create and manage high-level and detailed solution architecture documentation Experience defining integration stra\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -3231,7 +3231,7 @@
       "is_remote": false,
       "description": "Salary: \u00a3? - ? per year Requirements: Strong ServiceNow ITSM experience plus expertise in at least two other ServiceNow modules, such as ITOM, ITAM, HRSD, CSM, GRC, SecOps, or TSOM Proven expertise in ServiceNow integrations, including REST, SOAP, APIs, and MID Servers Experience with ServiceNow scripting, including JavaScript, Glide, and Flow Designer Experience with the ServiceNow data model Experience designing and implementing CMDB and Discovery ServiceNow certifications preferred: CSA, CIS\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -3247,7 +3247,7 @@
       "is_remote": false,
       "description": "Salary: \u00a3? - ? per year Requirements: Strong experience implementing and configuring ServiceNow Security Incident Response (SIR). Expertise across ServiceNow Security Operations (SecOps). Experience integrating ServiceNow with SIEM, SOAR, and Threat Intelligence platforms. Strong knowledge of ITSM, including Incident, Change, and Problem Management. Experience designing and automating security workflows and incident response processes. Strong dashboard, reporting, and analytics capabilities wit\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3263,7 +3263,7 @@
       "is_remote": false,
       "description": "Salary: \u00a390,000 - 90,000 per year Requirements: We are looking for a technical leader with strong ServiceNow development expertise and solid knowledge of SecOps or ITSM frameworks and practices. We need proven experience delivering and implementing ServiceNow Security Operations (SecOps) or IT Operations modules in enterprise environments. We require a solid understanding of cyber security or IT operations controls, with the ability to design solutions that support defence-in-depth, embedded se\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3280,7 +3280,7 @@
       "description": "Visier is the global leader in Workforce Intelligence that powers every people decision. We bring Workforce AI to life for HR departments through our award-winning, agentic AI technology by surfacing the insights leaders need to plan, decide, and act with confidence in the moments that matter most. As the market leader in people analytics, workforce planning, organizational design, and manager effectiveness solutions, we fuel smarter decision-making for organizations across the globe. Our missi\u2026",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f4e17fbc3861",
@@ -3295,7 +3295,7 @@
       "is_remote": false,
       "description": "We are planning to bring in resources with strong ServiceNow leadership expertise combined with AI experience to support our future roadmap, improve delivery effectiveness, and accelerate enterprise AI initiatives. These developers will help support the growing backlog of requests received from various organizations, including catalog enhancements, workflow automations, integrations, and other business-driven ServiceNow solutions. In addition, they will provide critical support for high-priorit\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3311,7 +3311,7 @@
       "is_remote": false,
       "description": "Service Desk Engineer \u2013 3-month contract \u2013 Liverpool My Legal customer looking for an experienced individual to join a busy and collaborative IT Service Desk, supporting users across the business and ensuring a first-class support experience. As a Service Desk Engineer, you'll be the first point of contact for IT support requests, providing timely and effective resolution of a wide range of technical issues. Working as part of a supportive IT team, you'll manage incidents and service requests f\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -3327,7 +3327,7 @@
       "is_remote": false,
       "description": "Senior ServiceNow Product Manager - GRC/IRM (TPRM, OpsRes & BCM) London (Hybrid - 3 days onsite per week) ???????Banking - Up to \u00a3120,000  Bonus  Benefits This is a brand-new, strategically created Vice President position - not a backfill - giving you the chance to shape a global GRC product suite from the ground up. Do you want to own the product roadmap for TPRM, OpsRes and BCM at a major financial services organisation, with the mandate to take these capabilities from a single-region platfor\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -3343,7 +3343,7 @@
       "is_remote": false,
       "description": "Job Description As our Software Development Engineer III (SDE III), you will contribute to designing, building, and scaling enterprise applications that power critical operations across Entain. Working within the Enterprise Applications team, you will contribute to the development of high-quality, secure, and scalable solutions while driving engineering excellence and progress. Reporting to the Tech Lead within the Enterprise Applications team, you will be part of an accomplished engineering gr\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -3359,7 +3359,7 @@
       "is_remote": false,
       "description": "Job Description ServiceNow is seeking Enterprise Architects to join our UK&I Team. The Enterprise Architecture Team is part of our pre-sales solution consulting organisation focused on building credibility and trust with the technical leaders in our largest customers by developing cross-functional strategies and solutions. Our team brings technical expertise, real-world experience, strong executive engagement skills and an inspirational mindset to help our customers understand the opportunities\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
