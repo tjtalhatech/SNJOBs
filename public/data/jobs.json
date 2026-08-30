@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T22:18:07.628944Z",
+  "updated_at": "2026-08-30T13:33:50.449227Z",
   "count": 1635,
   "jobs": [
     {
@@ -32,7 +32,7 @@
       "description": "Req ID: 382653 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a ServiceNow - Technical Consultant - IRM to join our team in Delhi, Delhi (IN-DL), India (IN). Senior ServiceNow Technical Consultant Location: Remote / On-site (as required) Job Type: Full-Time About the Role: We are seeking a highly certified and experience\u2026",
       "category": "Consultant",
       "role_category": "Consultant",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f639e1613767",
@@ -48,7 +48,7 @@
       "description": "Req ID: 382655 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a ServiceNow - Technical Consultant - AI Control Tower to join our team in Remote, Delhi (IN-DL), India (IN). Senior ServiceNow Technical Consultant Location: Remote / On-site (as required) Job Type: Full-Time About the Role: We are seeking a highly certified \u2026",
       "category": "Consultant",
       "role_category": "Consultant",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d8c085811753",
@@ -63,7 +63,7 @@
       "is_remote": false,
       "description": "Req ID: 380238 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a ServiceNow - Associate Business Analyst Junior to join our team in Delhi, Delhi (IN-DL), India (IN). ServiceNow Business Process Consultant / Business Analyst Jr Location: Remote (with occasional travel as needed) Role Overview: NTT DATA is seeking a highly \u2026",
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -79,7 +79,7 @@
       "is_remote": false,
       "description": "Job Summary The Principal Infra Developer role focuses on designing and automating robust infrastructure solutions using scripting and orchestration tools to improve operational efficiency and reliability. The role involves building secure integrations across platforms and services while supporting hybrid working models and rotational shifts for a global enterprise environment. Responsibilities  Design and implement scalable infrastructure automation solutions using Powershell and Unix shell sc\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -95,7 +95,7 @@
       "is_remote": false,
       "description": "Job Title: ServiceNow Developer (virtual drive date 1st Aug'26) Description We are seeking an experienced ServiceNow Developer to join our team in India. The ideal candidate will have a strong background in ServiceNow development and administration, with a proven track record of delivering high-quality solutions. You will work collaboratively with cross-functional teams to design, implement, and support ServiceNow applications that enhance business processes. Responsibilities Design, develop, a\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -111,7 +111,7 @@
       "is_remote": false,
       "description": "Job Title: ServiceNow Developer (virtual drive date 1st Aug'26) Description We are seeking an experienced ServiceNow Developer to join our team in India. The ideal candidate will have a strong background in ServiceNow development and administration, with a proven track record of delivering high-quality solutions. You will work collaboratively with cross-functional teams to design, implement, and support ServiceNow applications that enhance business processes. Responsibilities Design, develop, a\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -127,7 +127,7 @@
       "is_remote": false,
       "description": "Principal Responsibilities: Provide operational and administrative support for the Collaboration infrastructure Monitor and analyze system health, capacity and performance Leverage ServiceNow to fulfill end user requests and resolve incidents Work closely with various teams and vendors to troubleshoot issues Analyze and improve processes through automation and workflows Collaborate with the global infrastructure teams on projects, new services and features Review and document existing infrastru\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -143,7 +143,7 @@
       "is_remote": false,
       "description": "ServiceNow Developer - Birmingham (Hybrid) - Permanent A fantastic opportunity has arisen for a ServiceNow Developer to work within a global law firm on a permanent basis based in Birmingham. This role will support the ongoing development and enhancement of the ServiceNow platform, delivering scalable solutions that support business operations and strategic initiatives. Key Responsibilities Configure, develop and support ServiceNow modules including ITSM, ITOM, HRSD, CMDB and other platform cap\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -159,7 +159,7 @@
       "is_remote": false,
       "description": "ServiceNow Developer - Birmingham (Hybrid) - Permanent A fantastic opportunity has arisen for a ServiceNow Developer to work within a global law firm on a permanent basis based in Birmingham. This role will support the ongoing development and enhancement of the ServiceNow platform, delivering scalable solutions that support business operations and strategic initiatives. Key Responsibilities Configure, develop and support ServiceNow modules including ITSM, ITOM, HRSD, CMDB and other platform cap\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -175,7 +175,7 @@
       "is_remote": false,
       "description": "ServiceNow Developer - Manchester (Hybrid) - Permanent A fantastic opportunity has arisen for a ServiceNow Developer to work within a global law firm on a permanent basis based in Manchester. This role will support the ongoing development and enhancement of the ServiceNow platform, delivering scalable solutions that support business operations and strategic initiatives. Key Responsibilities Configure, develop and support ServiceNow modules including ITSM, ITOM, HRSD, CMDB and other platform cap\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -191,7 +191,7 @@
       "is_remote": false,
       "description": "ServiceNow Developer - Manchester (Hybrid) - Permanent A fantastic opportunity has arisen for a ServiceNow Developer to work within a global law firm on a permanent basis based in Manchester. This role will support the ongoing development and enhancement of the ServiceNow platform, delivering scalable solutions that support business operations and strategic initiatives. Key Responsibilities Configure, develop and support ServiceNow modules including ITSM, ITOM, HRSD, CMDB and other platform cap\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -207,7 +207,7 @@
       "is_remote": false,
       "description": "Job Description Ready to shape the future of enterprise service management across one of the UK's leading energy companies? Do you enjoy defining platform strategy, influencing technology decisions, and delivering solutions that create lasting business value? At EDF, \"Success is Personal\", and this is your opportunity to build a career that's as ambitious as the platforms you'll help transform. The Opportunity As our ServiceNow Platform and Solution Architect, you'll provide architectural leade\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -223,7 +223,7 @@
       "is_remote": false,
       "description": "It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone-freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow- helping 85% of the Fortune 500\u00ae work smarter, faster, and better. We're bu\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -239,7 +239,7 @@
       "is_remote": false,
       "description": "Role: ServiceNow Certified Technical Architect Location: London A ServiceNow Certified Technical Architect (CTA) in the telecom domain aligns platform capabilities with rigorous telecommunications and Operations Support Systems (OSS/BSS) needs. They define platform roadmaps, lead implementations across multiple modules, and ensure scalable integrations while maintaining enterprise governance and security Key Responsibilities Telecommunications Specifics:  OSS/BSS Integration: Architect seamless\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -255,7 +255,7 @@
       "is_remote": false,
       "description": "It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone-freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow- helping 85% of the Fortune 500\u00ae work smarter, faster, and better. We're bu\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -271,7 +271,7 @@
       "is_remote": false,
       "description": "Veza(part of ServiceNow now) is the pioneer in identity security, purpose-built to answer the fundamental question enterprises face: who can and should take what action on what data. Veza's Access Graph platform maps an organization's entire identity ecosystem across users, groups, roles, policies, permissions, and resources providing deep visibility and control over human, non-human, and agentic identities across SaaS, cloud, on-prem, and custom applications. (https://veza.com/blog/servicenow-\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -287,7 +287,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -303,7 +303,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -319,7 +319,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -335,7 +335,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -351,7 +351,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -367,7 +367,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -383,7 +383,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -399,7 +399,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -415,7 +415,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -431,7 +431,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -447,7 +447,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -463,7 +463,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -479,7 +479,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -495,7 +495,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -511,7 +511,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -527,7 +527,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -543,7 +543,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -559,7 +559,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -575,7 +575,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -591,7 +591,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -607,7 +607,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -623,7 +623,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -639,7 +639,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -655,7 +655,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -671,7 +671,7 @@
       "is_remote": false,
       "description": "Senior ServiceNow Developer Employment Type: Onsite Annexa is currently working with DC Public Schools and is seeking a Senior ServiceNow Developer to to support the development, administration, and ongoing enhancement of the district\u2019s ServiceNow platform within the Office of Data & Technology. This role will play a critical hands-on role in configuring, maintaining, and evolving ServiceNow to support district-wide business processes across multiple modules, including\u2014but not limited to\u2014 Sourc\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -687,7 +687,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -703,7 +703,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -719,7 +719,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -735,7 +735,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -751,7 +751,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -767,7 +767,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -783,7 +783,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -799,7 +799,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -815,7 +815,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -831,7 +831,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -847,7 +847,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -863,7 +863,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -879,7 +879,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -895,7 +895,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -911,7 +911,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -927,7 +927,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -943,7 +943,7 @@
       "is_remote": false,
       "description": "Description The Opportunity- 6 month contract We are seeking a detail-oriented Administrator \u2013 Time Capture Support to join our growing Support Services Hub team. Reporting to the Time Capture Lead , you will be responsible for reviewing, validating and processing workforce timesheet information to support accurate payroll outcomes across multiple operational sites. This is an excellent opportunity for someone with payroll administration, workforce management or timesheet processing experience \u2026",
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "role_category": "Administrator"
     },
     {
@@ -959,7 +959,7 @@
       "is_remote": false,
       "description": "Description This is your chance to change the path of your career and guide multiple teams to success at one of the world's leading financial institutions As a Manager of Software Engineering at JPMorganChase within Infrastructure Platforms \u2013 Digital Workflows, you lead and develop engineers delivering secure, resilient ServiceNow capabilities. You drive predictable execution across the SDLC, set engineering and operational standards, partner with stakeholders to manage priorities and risk, and\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -975,7 +975,7 @@
       "is_remote": false,
       "description": "Description This is your chance to change the path of your career and guide multiple teams to success at one of the world's leading financial institutions As a Manager of Software Engineering at JPMorganChase within Infrastructure Platforms \u2013 Digital Workflows, you lead and develop engineers delivering secure, resilient ServiceNow capabilities. You drive predictable execution across the SDLC, set engineering and operational standards, partner with stakeholders to manage priorities and risk, and\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -991,7 +991,7 @@
       "is_remote": false,
       "description": "TITLE: Sr. ServiceNow Developer LOCATION: Washington, DC/ Onsite Employment type: Contract w2/1099/C2C MINIMUM EDUCATION: Bachelor\u2019s degree in IT, related field, or equivalent experience. REQUIRED EXPERIENCE: 15 years INTERVIEWS: In Person Job Description: The client is seeking a full-time ServiceNow Application Developer to support the development, administration, and ongoing enhancement of the district\u2019s ServiceNow platform within the Office of Data & Technology. Employment type: Contract w2/\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1007,7 +1007,7 @@
       "is_remote": false,
       "description": "TITLE: Sr. ServiceNow Developer LOCATION: Washington, DC/ Onsite Employment type: Contract w2/1099/C2C MINIMUM EDUCATION: Bachelor\u2019s degree in IT, related field, or equivalent experience. REQUIRED EXPERIENCE: 15 years INTERVIEWS: In Person Job Description: The client is seeking a full-time ServiceNow Application Developer to support the development, administration, and ongoing enhancement of the district\u2019s ServiceNow platform within the Office of Data & Technology. Employment type: Contract w2/\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1023,7 +1023,7 @@
       "is_remote": false,
       "description": "A leading financial services organization is seeking a UX Professional (Architect/Designer) to support and enhance the digital payments experience across customer-facing platforms. This hybrid contract opportunity is available to candidates located near major corporate office locations, with a preference for individuals within commuting distance of an office to support potential long-term opportunities. This role is ideal for a senior design professional who excels at connecting user needs, bus\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1039,7 +1039,7 @@
       "is_remote": false,
       "description": "At Cleveland Clinic Health System, we believe in a better future for healthcare. And each of us is responsible for honoring our commitment to excellence, pushing the boundaries and transforming the patient experience, every day. We all have the power to help, heal and change lives \u2014 beginning with our own. That\u2019s the power of the Cleveland Clinic Health System team, and The Power of Every One. Job Title Service Management Dashboard and Reporting Process Architect - IT Location Cleveland Facilit\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1055,7 +1055,7 @@
       "is_remote": false,
       "description": "Description and Requirements The Team You Will Join When you join MetLife's Global Technology team, you'll be part of a forward-thinking group dedicated to shaping the future of digital solutions for customers worldwide. You'll develop, maintain and support technology applications and delivery, leveraging AI, automation, and contemporary ways of working to enhance experiences and drive business outcomes. Your work will simplify complex processes, improve tech resiliency, and ensure high-perform\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1071,7 +1071,7 @@
       "is_remote": false,
       "description": "Description and Requirements The Team You Will Join When you join MetLife's Global Technology team, you'll be part of a forward-thinking group dedicated to shaping the future of digital solutions for customers worldwide. You'll develop, maintain and support technology applications and delivery, leveraging AI, automation, and contemporary ways of working to enhance experiences and drive business outcomes. Your work will simplify complex processes, improve tech resiliency, and ensure high-perform\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1087,7 +1087,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1103,7 +1103,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1119,7 +1119,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1135,7 +1135,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1151,7 +1151,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1167,7 +1167,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1183,7 +1183,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1199,7 +1199,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1215,7 +1215,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1231,7 +1231,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1247,7 +1247,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1263,7 +1263,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1279,7 +1279,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1295,7 +1295,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1311,7 +1311,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1327,7 +1327,7 @@
       "is_remote": false,
       "description": "Req ID: RQ225258 Type of Requisition: Regular Clearance Level Must Be Able to Obtain: Top Secret/SCI Public Trust/Other Required: None Job Family: Software Engineering Skills: Enterprise IT,Software Systems,Systems Troubleshooting Experience: 5  years of related experience US Citizenship Required: Yes Job Description: USSTRATCOM is a Combatant Command responsible for strategic deterrence, nuclear operations, and enterprise IT services essential to national security. It oversees Nuclear Command,\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1343,7 +1343,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1359,7 +1359,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1375,7 +1375,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1391,7 +1391,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1407,7 +1407,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1423,7 +1423,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1439,7 +1439,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1455,7 +1455,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1471,7 +1471,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1487,7 +1487,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1503,7 +1503,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1519,7 +1519,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1535,7 +1535,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1551,7 +1551,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1567,7 +1567,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1583,7 +1583,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1599,7 +1599,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1615,7 +1615,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1631,7 +1631,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1647,7 +1647,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1663,7 +1663,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1679,7 +1679,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1695,7 +1695,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1711,7 +1711,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1727,7 +1727,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1743,7 +1743,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1759,7 +1759,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1775,7 +1775,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1791,7 +1791,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1807,7 +1807,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1823,7 +1823,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1839,7 +1839,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1855,7 +1855,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1871,7 +1871,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -1887,7 +1887,7 @@
       "is_remote": false,
       "description": "Description ServiceNow IRM Pro / GRC architect-level Consultant Skills Architecture, consultant, ServiceNow IRM Pro / GRC architect-level Consultant, Solution architecture, Enterprise architecture Top Skills Details Architecture,consultant,ServiceNow IRM Pro / GRC architect-level Consultant,Solution architecture Additional Skills & Qualifications The right person should have strong hands-on experience with ServiceNow IRM Pro, specifically around the relationships between risks, issues, controls\u2026",
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -1903,7 +1903,7 @@
       "is_remote": false,
       "description": "Description ServiceNow IRM Pro / GRC architect-level Consultant Skills Architecture, consultant, ServiceNow IRM Pro / GRC architect-level Consultant, Solution architecture, Enterprise architecture Top Skills Details Architecture,consultant,ServiceNow IRM Pro / GRC architect-level Consultant,Solution architecture Additional Skills & Qualifications The right person should have strong hands-on experience with ServiceNow IRM Pro, specifically around the relationships between risks, issues, controls\u2026",
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -1919,7 +1919,7 @@
       "is_remote": false,
       "description": "Description ServiceNow IRM Pro / GRC architect-level Consultant Skills Architecture, consultant, ServiceNow IRM Pro / GRC architect-level Consultant, Solution architecture, Enterprise architecture Top Skills Details Architecture,consultant,ServiceNow IRM Pro / GRC architect-level Consultant,Solution architecture Additional Skills & Qualifications The right person should have strong hands-on experience with ServiceNow IRM Pro, specifically around the relationships between risks, issues, controls\u2026",
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -1935,7 +1935,7 @@
       "is_remote": false,
       "description": "Description ServiceNow IRM Pro / GRC architect-level Consultant Skills Architecture, consultant, ServiceNow IRM Pro / GRC architect-level Consultant, Solution architecture, Enterprise architecture Top Skills Details Architecture,consultant,ServiceNow IRM Pro / GRC architect-level Consultant,Solution architecture Additional Skills & Qualifications The right person should have strong hands-on experience with ServiceNow IRM Pro, specifically around the relationships between risks, issues, controls\u2026",
       "category": "Consultant",
-      "status": "active",
+      "status": "archived",
       "role_category": "Consultant"
     },
     {
@@ -1951,7 +1951,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1967,7 +1967,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1983,7 +1983,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -1999,7 +1999,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -2015,7 +2015,7 @@
       "is_remote": false,
       "description": "Maximus is seeking a ServiceNow Lead Developer to support the Aidvantage program under the Federal Student Aid (FSA) portfolio. The ServiceNow Lead Developer will provide technical leadership across the ServiceNow platform, driving solutions, development, platform governance, and continuous improvement initiatives. This role serves as a hands-on technical lead responsible for designing, developing, testing, and implementing enterprise-scale solutions while mentoring development teams and partne\u2026",
       "category": "Developer",
-      "status": "active",
+      "status": "archived",
       "role_category": "Developer"
     },
     {
@@ -2031,7 +2031,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2047,7 +2047,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2063,7 +2063,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2079,7 +2079,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2095,7 +2095,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2111,7 +2111,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2127,7 +2127,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2143,7 +2143,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2159,7 +2159,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2175,7 +2175,7 @@
       "is_remote": false,
       "description": "Description SAIC is seeking a highly skilled System Administrator to support the Naval Information Warfare Center Atlantic (NIWC LANT) Cloud Computing Innovation, Transformation, and Integration (CLOUD CITI) Division. The position will involve supporting both physical and virtualized data center environments, including commercial cloud service providers. Candidate must be reside within a 50 mile radius of either Charleston, SC, New Orleans, LA or Norfolk, VA. NOTE: On-call rotation every 5th we\u2026",
       "category": "Administrator",
-      "status": "active",
+      "status": "archived",
       "role_category": "Administrator"
     },
     {
@@ -2191,7 +2191,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2207,7 +2207,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2223,7 +2223,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2239,7 +2239,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2255,7 +2255,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2271,7 +2271,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2287,7 +2287,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2303,7 +2303,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2319,7 +2319,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2335,7 +2335,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718544 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2351,7 +2351,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2367,7 +2367,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2383,7 +2383,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2399,7 +2399,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2415,7 +2415,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2431,7 +2431,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2447,7 +2447,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2463,7 +2463,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2479,7 +2479,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2495,7 +2495,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718541 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2511,7 +2511,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2527,7 +2527,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2543,7 +2543,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2559,7 +2559,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2575,7 +2575,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2591,7 +2591,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069718543 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
@@ -2607,7 +2607,7 @@
       "is_remote": false,
       "description": "Sr. ServiceNow Solution Architect Location: Remote Employment Type: Full-Time Job ID: 00069880111 About the role As a Senior ServiceNow Solution Architect, you will make an impact by leading the design, governance, and delivery of enterprise-scale ServiceNow solutions that drive business transformation and operational excellence. You will be a valued member of the ServiceNow Consulting Practice and work closely with executive stakeholders, client leadership, architects, and delivery teams to de\u2026",
       "category": "Other",
-      "status": "active",
+      "status": "archived",
       "role_category": "Other"
     },
     {
