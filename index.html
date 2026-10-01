@@ -4,7 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SNListings! — ServiceNow Career & Job Hub</title>
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%232563EB'/><rect x='1' y='1' width='30' height='30' rx='7' fill='%23FFFFFF' stroke='%232563EB' stroke-width='2'/><path d='M7.5 10.5C7.5 9 8.7 8 10.2 8H12.5C14 8 15 9 15 10.5C15 12 14 13 12.5 13H10.2V17H15' stroke='%232563EB' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round' fill='none'/><path d='M18 8V17M18 17L22.5 8V17' stroke='%230F172A' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='24.5' cy='9' r='1.5' fill='%232563EB'/></svg>">
+<link rel="icon" type="image/png" href="/logo.png">
+<link rel="apple-touch-icon" href="/logo.png">
 <style>
   :root{
     --bg:#F4F7FC;
@@ -17,13 +18,32 @@
     --accent-dim:#E6F4F0;
     --shadow: 0 4px 20px -2px rgba(0, 135, 95, 0.08);
   }
+  /* Custom Scrollbar - Button Green (#00875F) */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #00875F #F1F5F9;
+    box-sizing: border-box;
+  }
+  ::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #F1F5F9;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #00875F;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #00704F;
+  }
   html, body {
     overflow-x: hidden;
     width: 100%;
     margin: 0;
     padding: 0;
   }
-  *{box-sizing:border-box;}
   body{
     background:var(--bg);
     color:var(--text);
@@ -32,10 +52,10 @@
     line-height: 1.6;
   }
   header{
-    padding:20px 24px 0;
+    padding:16px clamp(16px, 3.5vw, 32px) 0;
     border-bottom:1px solid var(--line);
     position:sticky;top:0;
-    background:rgba(255, 255, 255, 0.92);
+    background:rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     z-index:100;
@@ -44,7 +64,32 @@
     box-shadow: 0 2px 12px rgba(15, 23, 42, 0.03);
   }
   @media (max-width: 640px) {
-    header { padding: 16px 16px 0; }
+    header { padding: 12px 16px 0; }
+    .branding {
+      margin-bottom: 10px;
+      gap: 8px;
+    }
+    .logo-wrapper { gap: 8px; }
+    .brand-logo-img {
+      height: 42px;
+      width: auto;
+      max-width: 56px;
+      mix-blend-mode: multiply;
+      image-rendering: -webkit-optimize-contrast;
+    }
+    .logo-group .eyebrow { font-size: 8px; letter-spacing: .14em; }
+    .logo-group h1 { font-size: 18px; }
+    .agency-nav-btn {
+      display: none !important;
+    }
+    .meta {
+      display: block !important;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--muted);
+      line-height: 1.25;
+      text-align: right;
+    }
   }
   .header-content {
     max-width: 1400px;
@@ -54,28 +99,26 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 16px;
-    gap: 16px;
+    margin-bottom: 14px;
+    gap: 14px;
   }
   .logo-wrapper {
     display: flex;
     align-items: center;
     gap: 12px;
   }
-  .logo-icon {
-    width: 40px;
-    height: 40px;
-    background: var(--accent-dim);
-    border: 1.5px solid rgba(37, 99, 235, 0.3);
-    border-radius: 12px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
+  .brand-logo-img {
+    height: 52px;
+    width: auto;
+    max-width: 70px;
+    object-fit: contain;
+    display: block;
     flex-shrink: 0;
+    mix-blend-mode: multiply;
+    image-rendering: -webkit-optimize-contrast;
   }
   .logo-group .eyebrow {
-    font-size: 9px;
+    font-size: 9.5px;
     letter-spacing: .18em;
     text-transform: uppercase;
     color: var(--accent);
@@ -93,7 +136,7 @@
   .logo-group h1 span.brand-accent {
     color: var(--accent);
   }
-  .meta{color:var(--muted);font-size:11px; font-weight: 500; text-align: right; line-height: 1.4;}
+  .meta{color:var(--muted);font-size:11.5px; font-weight: 500; text-align: right; line-height: 1.4;}
 
   /* JobAplic-Style Hero Container & Banner */
   .hero-container {
@@ -376,8 +419,8 @@
 
   .controls{
     display:flex;
-    gap:10px;
-    margin:14px 0;
+    gap:6px;
+    margin:10px 0 14px;
     width: 100%;
     align-items: center;
     justify-content: space-between;
@@ -389,19 +432,26 @@
     position: relative;
     z-index: 20;
     order: 2;
+    flex-shrink: 0;
   }
   
   .filter-bar {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 6px;
     flex: 1;
     align-items: center;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding: 2px 0;
+    min-width: 0;
     order: 1;
     transition: opacity 0.3s;
   }
-  @media (min-width: 640px) {
-    .filter-bar { display: flex; flex-wrap: nowrap; width: auto; }
+  .filter-bar::-webkit-scrollbar {
+    display: none;
   }
   
   .controls.search-mode .filter-bar {
@@ -418,23 +468,24 @@
     opacity: 0;
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     position: absolute;
-    right: 42px;
+    right: 36px;
     background: var(--panel);
-    border-radius: 10px;
+    border-radius: 8px;
     pointer-events: none;
     color: var(--text);
-    font-size: 12px;
+    font-size: 11px;
     z-index: -1;
     box-shadow: inset 0 1px 3px rgba(0,0,0,0.04);
   }
   .controls.search-mode input[type=search] {
     position: static;
     width: 100%;
+    height: 30px;
     opacity: 1;
-    padding: 9px 14px;
+    padding: 0 10px;
     border-color: var(--line);
     pointer-events: all;
-    margin-right: 8px;
+    margin-right: 6px;
     z-index: 1;
   }
   @media (max-width: 480px) {
@@ -445,52 +496,69 @@
     background: var(--panel);
     color: var(--muted);
     border: 1px solid var(--line);
-    width: 38px;
-    height: 38px;
-    border-radius: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 8px;
     cursor: pointer;
     transition: all .2s;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.03);
   }
   .search-btn:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
   .search-btn.active { background: var(--accent); color: #FFFFFF; border-color: var(--accent); }
   
   select, .remote-label{
-    background:var(--panel);border:1px solid var(--line);color:var(--text);
-    padding:8px 12px;border-radius:10px;font-size:12px; font-weight: 500;
+    background:var(--panel);
+    border:1px solid var(--line);
+    color:var(--text);
+    padding: 0 8px;
+    border-radius: 8px;
+    font-size: 11px;
+    font-weight: 600;
     cursor: pointer;
     transition: all .2s;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: space-between;
     gap: 4px;
     white-space: nowrap;
-    min-width: 0;
-    width: 100%;
-    height: 38px;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+    min-width: fit-content;
+    flex-shrink: 0;
+    height: 30px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.03);
   }
-  .remote-label { justify-content: center; padding: 0 10px; font-weight: 600; }
+  .remote-label {
+    justify-content: center;
+    padding: 0 8px;
+    font-weight: 600;
+    gap: 4px;
+  }
+  .remote-label input {
+    margin: 0;
+    accent-color: var(--accent);
+    width: 12px;
+    height: 12px;
+    cursor: pointer;
+  }
   
   select {
     appearance: none;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 24 24' fill='none' stroke='%2364748B' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 24 24' fill='none' stroke='%2364748B' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
-    background-position: right 10px center;
-    padding-right: 26px;
+    background-position: right 8px center;
+    padding-right: 20px;
   }
   select:hover, .remote-label:hover { border-color: var(--accent); background: var(--accent-dim); }
   
-  main{padding:12px 20px 80px;max-width:1400px;margin:0 auto;}
-  .count-row{color:var(--muted);font-size:10px;margin-bottom:12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;}
+  main{padding:10px 16px 80px;max-width:1400px;margin:0 auto;}
+  .count-row{color:var(--muted);font-size:10px;margin-bottom:10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;}
   
   #list {
     display: grid;
-    gap: 12px;
+    gap: 10px;
     grid-template-columns: repeat(2, 1fr);
     width: 100%;
   }
@@ -501,111 +569,355 @@
   .card{
     background:var(--panel);
     border:1px solid var(--line);
-    border-radius:14px;
-    padding:14px;
+    border-radius:12px;
+    padding:11px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    transition: all 0.22s cubic-bezier(0.16, 1, 0.3, 1);
     position: relative;
-    min-height: 130px;
+    min-height: 132px;
     width: 100%;
     overflow: hidden;
-    box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
-    will-change: transform, background;
+    box-shadow: 0 1px 4px rgba(15, 23, 42, 0.03);
   }
   .card:hover{
     border-color:#A7F3D0;
-    transform: translateY(-4px) scale(1.025);
-    box-shadow: 0 14px 30px -6px rgba(0, 135, 95, 0.16);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px -4px rgba(0, 135, 95, 0.12);
     background: linear-gradient(135deg, #ECFDF5 0%, #D1FAE5 100%);
   }
   .card a.title{
     color:var(--text);
     text-decoration:none;
-    font-size:13px;
+    font-size:12px;
     font-weight:700;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    line-height: 1.35;
-    margin-bottom: 6px;
+    line-height: 1.3;
+    margin-bottom: 4px;
     letter-spacing: -0.01em;
     transition: color .2s;
   }
   .card a.title:hover{color:var(--accent);}
   .company{
     color:var(--muted);
-    font-size:11px;
-    line-height: 1.3;
+    font-size:10.5px;
+    line-height: 1.25;
     font-weight: 500;
     display: flex;
     flex-direction: column;
-    gap: 2px;
+    gap: 1px;
   }
   .location {
-    font-size: 10px;
+    font-size: 9.5px;
     opacity: 0.85;
     font-weight: 400;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
   }
-  .tags{display:flex;gap:4px;margin-top:10px;flex-wrap:wrap;}
+  
+  .card-footer {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .card-tags-row {
+    display: flex;
+    gap: 3px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
   .tag{
-    font-size:9px;
-    padding:2px 7px;
-    border-radius:5px;
+    font-size: 8.5px;
+    padding: 1.5px 5px;
+    border-radius: 4px;
     background: #F1F5F9;
     color: var(--muted);
     font-weight: 600;
     border: 1px solid #E2E8F0;
+    white-space: nowrap;
+    line-height: 1.2;
   }
+  .tag.salary-tag {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: transparent;
+  }
+  .tag.remote-tag {
+    background: var(--accent);
+    color: #FFFFFF;
+    border-color: var(--accent);
+  }
+
+  .card-action-row {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: 100%;
+  }
+
+  .card-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 7px;
+    gap: 4px;
+    flex-wrap: wrap;
+    min-width: 0;
+  }
+  .card-badges-left {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex-wrap: wrap;
+    min-width: 0;
+  }
+
   .source{
-    font-size: 9px;
+    font-size: 8.5px;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.06em;
     color: var(--accent);
     font-weight: 800;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 75px;
+    display: inline-block;
   }
   .new-badge {
-    font-size: 8px;
+    font-size: 7.5px;
     font-weight: 800;
-    letter-spacing: 0.05em;
-    padding: 1px 6px;
-    border-radius: 4px;
+    letter-spacing: 0.04em;
+    padding: 1px 4.5px;
+    border-radius: 3px;
     background: #DCFCE7;
     color: #15803D;
     border: 1px solid #BBF7D0;
     line-height: 1.2;
+    white-space: nowrap;
   }
   .category-badge {
-    font-size: 8px;
+    font-size: 7.5px;
     font-weight: 800;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    padding: 2px 6px;
-    border-radius: 5px;
+    letter-spacing: 0.04em;
+    padding: 1.5px 5px;
+    border-radius: 4px;
     background: var(--accent-dim);
     color: var(--accent);
+    white-space: nowrap;
+    display: inline-block;
+    line-height: 1.25;
+    flex-shrink: 0;
+    box-sizing: border-box;
   }
   .category-badge.dev { background: #DBEAFE; color: #1D4ED8; }
   .category-badge.admin { background: #FEF3C7; color: #D97706; }
   .category-badge.consult { background: #CFFAFE; color: #0891B2; }
   .category-badge.owner { background: #F3E8FF; color: #7E22CE; }
+  .category-badge.agency { background: #FEF3C7; color: #B45309; border: 1px solid #FDE68A; }
   .category-badge.other { background: #F1F5F9; color: #64748B; }
-  .empty{
-    text-align:center;color:var(--muted);padding:90px 20px;font-size:14px;
-    background: var(--panel);
+
+  .agency-nav-btn {
+    background: #00875F;
+    color: #FFFFFF;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 11px;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    transition: all 0.2s;
+    box-shadow: 0 2px 8px rgba(0, 135, 95, 0.15);
+  }
+  .agency-nav-btn:hover {
+    background: #00704F;
+    transform: translateY(-1px);
+  }
+
+  .pitch-team-btn {
+    flex: 1;
+    background: #00875F;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 0 6px;
+    height: 24px;
+    font-size: 9.5px;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    transition: all 0.2s;
+  }
+  .pitch-team-btn:hover {
+    background: #00704F;
+  }
+
+  .bookmark-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--muted);
+    flex-shrink: 0;
+    transition: all .2s;
+    border-radius: 4px;
+  }
+  .bookmark-btn.saved {
+    color: var(--accent);
+  }
+
+  /* Proposal Mode Switcher (Strictly 1 Row) */
+  .pitch-mode-tabs {
+    display: flex;
+    flex-direction: row;
+    background: #F1F5F9;
+    padding: 3px;
+    border-radius: 8px;
+    gap: 3px;
+    margin-bottom: 12px;
+    width: 100%;
+  }
+  .pitch-mode-tab {
+    flex: 1;
+    padding: 5px 6px;
+    text-align: center;
+    font-size: 10.5px;
+    font-weight: 700;
+    color: #64748B;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  .pitch-mode-tab.active {
+    background: #FFFFFF;
+    color: #0F172A;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+
+  /* Modal styling */
+  .modal-overlay {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(15, 23, 42, 0.6);
+    backdrop-filter: blur(4px);
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+  }
+  .modal-card {
+    background: #FFFFFF;
     border-radius: 14px;
+    width: 100%;
+    max-width: 520px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 16px;
+    box-shadow: 0 16px 36px -10px rgba(0, 0, 0, 0.25);
+    border: 1px solid #E2E8F0;
+  }
+  .modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #E2E8F0;
+  }
+  .modal-header h3 {
+    margin: 0;
+    font-size: 14.5px;
+    font-weight: 800;
+    color: var(--text);
+  }
+  .modal-header p {
+    margin: 2px 0 0;
+    font-size: 10.5px;
+    color: var(--muted);
+  }
+  .form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 10px;
+    margin-bottom: 12px;
+  }
+  @media (max-width: 480px) {
+    .form-grid { gap: 6px 8px; }
+  }
+  .form-grid label {
+    display: block;
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #475569;
+    margin-bottom: 2px;
+    letter-spacing: 0.02em;
+  }
+  .form-grid input, .form-grid select {
+    width: 100%;
+    height: 30px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    border: 1px solid #CBD5E1;
+    font-size: 11px;
+    color: #0F172A;
+    background: #F8FAFC;
+  }
+  .generate-btn {
+    width: 100%;
+    height: 34px;
+    padding: 0 12px;
+    border-radius: 7px;
+    background: #00875F;
+    color: #FFFFFF;
+    font-weight: 700;
+    border: none;
+    font-size: 11.5px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .generate-btn:hover {
+    background: #00704F;
+  }
+  .empty{
+    text-align:center;color:var(--muted);padding:70px 16px;font-size:13px;
+    background: var(--panel);
+    border-radius: 12px;
     border: 1px dashed var(--line);
   }
+  ::placeholder {
+    color: #94A3B8;
+    opacity: 0.65;
+    font-weight: 400;
+  }
   footer{
-    background: var(--panel);
-    border-top: 1px solid var(--line);
-    padding: 20px 24px;
-    color: var(--muted);
+    background: #032D1F;
+    border-top: 1px solid #065F46;
+    padding: 14px clamp(16px, 3.5vw, 32px);
+    color: #F0FDF4;
+    box-sizing: border-box;
   }
   .footer-bottom {
     max-width: 1400px;
@@ -615,8 +927,137 @@
     align-items: center;
     font-size: 12px;
     gap: 8px;
-    flex-wrap: wrap;
-    font-weight: 500;
+    flex-wrap: nowrap;
+    font-weight: 700;
+    color: #F0FDF4;
+  }
+  .footer-copy {
+    white-space: nowrap;
+    font-weight: 700;
+    color: #F0FDF4;
+  }
+  .footer-sync {
+    white-space: nowrap;
+    font-weight: 700;
+    color: #ECFDF5;
+  }
+  .sync-full { display: inline; }
+  .sync-mobile { display: none; }
+  @media (max-width: 640px) {
+    footer { padding: 12px 16px; }
+    .footer-bottom { font-size: 10.5px; font-weight: 700; }
+    .sync-full { display: none; }
+    .sync-mobile { display: inline; }
+    .footer-copy { font-size: 10.5px; font-weight: 700; }
+    .footer-sync { font-size: 10.5px; font-weight: 700; }
+  }
+
+  /* 1-Row Centered Pagination with Jump To Page */
+  #pagination {
+    margin-top: 36px;
+    margin-bottom: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+  }
+  .page-nav-btn {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    color: var(--text);
+    padding: 6px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 11.5px;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    transition: all 0.15s ease;
+    flex-shrink: 0;
+    height: 32px;
+    box-sizing: border-box;
+  }
+  .page-nav-btn:hover:not(:disabled) {
+    border-color: #00875F;
+    color: #00875F;
+    background: #F0FDF4;
+  }
+  .page-nav-btn:disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+  }
+  .page-jump-container {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0 8px;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: var(--muted);
+    flex-shrink: 0;
+    height: 32px;
+    box-sizing: border-box;
+    white-space: nowrap;
+  }
+  .page-jump-select {
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border: none;
+    font-size: 11.5px;
+    font-weight: 700;
+    color: #00875F;
+    cursor: pointer;
+    padding: 2px 14px 2px 2px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='5' viewBox='0 0 8 5'%3E%3Cpath fill='%2300875F' d='M0 0l4 4 4-4z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 1px center;
+    outline: none;
+    height: 100%;
+  }
+
+  /* Mobile Back To Top Button */
+  .mobile-top-btn {
+    display: none;
+  }
+  @media (max-width: 640px) {
+    .mobile-top-btn {
+      display: inline-flex;
+      position: fixed;
+      bottom: 20px;
+      right: 16px;
+      z-index: 99;
+      background: #00875F;
+      color: #FFFFFF;
+      border: none;
+      border-radius: 24px;
+      padding: 7px 12px;
+      font-size: 11px;
+      font-weight: 700;
+      align-items: center;
+      gap: 4px;
+      box-shadow: 0 4px 14px rgba(0, 135, 95, 0.4), 0 2px 6px rgba(0, 0, 0, 0.15);
+      cursor: pointer;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(10px);
+      transition: opacity 0.25s ease, transform 0.25s ease, background 0.15s ease;
+    }
+    .mobile-top-btn.visible {
+      opacity: 1;
+      pointer-events: auto;
+      transform: translateY(0);
+    }
+    .mobile-top-btn:active {
+      background: #00704F;
+      transform: scale(0.95);
+    }
   }
 </style>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -627,19 +1068,18 @@
   <div class="header-content">
     <div class="branding">
       <div class="logo-wrapper">
-        <div class="logo-icon">
-          <svg width="24" height="24" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M7.5 10.5C7.5 9 8.7 8 10.2 8H12.5C14 8 15 9 15 10.5C15 12 14 13 12.5 13H10.2V17H15" stroke="#2563EB" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-            <path d="M18 8V17M18 17L22.5 8V17" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-            <circle cx="24.5" cy="9" r="1.5" fill="#2563EB"/>
-          </svg>
-        </div>
+        <img src="/logo.png" alt="SNListings Logo" class="brand-logo-img">
         <div class="logo-group">
-          <div class="eyebrow">SERVICENOW CAREER PLATFORM</div>
+          <div class="eyebrow">CAREER PLATFORM</div>
           <h1>SNListings<span class="brand-accent">!</span></h1>
         </div>
       </div>
-      <div class="meta" id="updated">Loading listings…</div>
+      <div style="display:flex; align-items:center; gap:12px;">
+        <button class="agency-nav-btn" onclick="openProposalModal()" title="Generate Proposal (Single Specialist or Agency Team)">
+          Proposal Generator
+        </button>
+        <div class="meta" id="updated">Loading listings…</div>
+      </div>
     </div>
     
     <!-- JobAplic-Style Hero Container -->
@@ -688,17 +1128,18 @@
 
     <div class="controls">
       <div class="filter-bar">
-        <select id="countryFilter">
+        <select id="countryFilter" aria-label="Country">
           <option value="">Country</option>
         </select>
         <select id="roleFilter" aria-label="Filter by ServiceNow Role">
-          <option value="core">Target Roles (Dev, Consult, Admin, Owner)</option>
-          <option value="all">All ServiceNow Roles</option>
-          <option value="Developer">Developer (Any Level)</option>
+          <option value="core">Target Roles</option>
+          <option value="agency">Agency / C2C</option>
+          <option value="all">All Roles</option>
+          <option value="Developer">Developer</option>
           <option value="Consultant">Consultant</option>
           <option value="Administrator">Administrator</option>
           <option value="Platform Owner">Platform Owner</option>
-          <option value="Other">Other Roles</option>
+          <option value="Other">Other</option>
         </select>
         <select id="sortFilter" aria-label="Sort jobs by posted date">
           <option value="newest">Newest</option>
@@ -706,7 +1147,7 @@
         </select>
         
         <label class="remote-label">
-          <input type="checkbox" id="remoteOnly" style="accent-color:var(--accent); width:14px; height:14px; cursor: pointer;">
+          <input type="checkbox" id="remoteOnly">
           Remote
         </label>
       </div>
@@ -714,7 +1155,7 @@
       <div class="search-wrapper">
         <input type="search" id="search" placeholder="Search jobs...">
         <button class="search-btn" id="searchBtn" title="Search">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
         </button>
       </div>
     </div>
@@ -725,13 +1166,148 @@
   <div id="statusMsg" style="margin-bottom: 24px; font-size: 14px; display: none; padding: 16px; border-radius: 12px; background: var(--accent-dim); border: 1px solid var(--accent); color: var(--accent); font-weight: 500;"></div>
   <div class="count-row" id="countRow"></div>
   <div id="list"></div>
-  <div id="pagination" style="margin-top: 40px; display: flex; justify-content: center; gap: 12px; align-items: center;"></div>
+  <div id="pagination"></div>
+
+  <!-- Mobile Only Back to Top Floating Button -->
+  <button id="mobileBackToTop" class="mobile-top-btn" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" title="Back to top" aria-label="Scroll to top">
+    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m18 15-6-6-6 6"/>
+    </svg>
+    <span>Top</span>
+  </button>
 </main>
+
+<!-- Single Specialist & Agency Proposal Generator Modal -->
+<div id="agencyModal" class="modal-overlay" style="display:none;" onclick="if(event.target === this) closeAgencyModal()">
+  <div class="modal-card">
+    <div class="modal-header">
+      <div style="display:flex; align-items:center; gap:9px;">
+        <img src="/logo.png" alt="SNListings" style="width:28px; height:28px; border-radius:7px; object-fit:cover; border:1px solid var(--line); flex-shrink:0;">
+        <div>
+          <h3 style="margin:0; font-size:14.5px; font-weight:800; color:var(--text);">
+            ServiceNow Proposal Generator
+          </h3>
+          <p style="margin:2px 0 0; font-size:10.5px; color:var(--muted);">Generate tailored single specialist proposals or multi-developer team pitches</p>
+        </div>
+      </div>
+      <button onclick="closeAgencyModal()" style="background:none; border:none; font-size:20px; cursor:pointer; color:var(--muted); line-height:1; padding:0 4px;">&times;</button>
+    </div>
+
+    <!-- Mode Switcher (Strictly 1 Row) -->
+    <div class="pitch-mode-tabs">
+      <button type="button" class="pitch-mode-tab active" id="tabSolo" onclick="setPitchMode('solo')">Single Specialist (1-Person)</button>
+      <button type="button" class="pitch-mode-tab" id="tabTeam" onclick="setPitchMode('team')">Agency & Team (2-3+ Devs)</button>
+    </div>
+
+    <div class="modal-body">
+      <!-- Solo / Single Specialist Form -->
+      <div id="soloFormFields" class="form-grid">
+        <div>
+          <label>Your Name & Title</label>
+          <input type="text" id="soloName" placeholder="e.g. Alex Rivera (Certified Senior Developer)" oninput="saveSoloProfile()">
+        </div>
+        <div>
+          <label>Target Company / Job Title</label>
+          <input type="text" id="soloTargetRole" placeholder="e.g. ServiceNow Developer at Acme Corp">
+        </div>
+        <div>
+          <label>Role Profile / Archetype</label>
+          <select id="soloRoleType" onchange="updateSoloDefaults(); saveSoloProfile();">
+            <option value="Developer">ServiceNow Developer (CAD / Core Scripting)</option>
+            <option value="Consultant">ServiceNow Technical / Functional Consultant</option>
+            <option value="Administrator">ServiceNow System Administrator (CSA / Governance)</option>
+            <option value="Platform Owner">ServiceNow Platform Architect / Product Owner</option>
+          </select>
+        </div>
+        <div>
+          <label>Years of Exp & Certifications</label>
+          <input type="text" id="soloCerts" placeholder="e.g. 6+ Years Exp | CSA, CAD Certified" oninput="saveSoloProfile()">
+        </div>
+        <div>
+          <label>ServiceNow Focus Modules</label>
+          <input type="text" id="soloModules" placeholder="e.g. ITSM, Flow Designer, IntegrationHub" oninput="saveSoloProfile()">
+        </div>
+        <div>
+          <label>Engagement / Contract Model</label>
+          <select id="soloContractType" onchange="saveSoloProfile()">
+            <option value="Direct Contract / C2C (Corp-to-Corp)">Direct Contract / C2C (Corp-to-Corp)</option>
+            <option value="W2 Contract / 1099 Freelance">W2 Contract / 1099 Freelance</option>
+            <option value="Full-Time Direct Hire">Full-Time Direct Hire</option>
+            <option value="Part-Time / Advisory Retainer">Part-Time / Advisory Retainer</option>
+          </select>
+        </div>
+        <div>
+          <label>Availability & Timezone</label>
+          <input type="text" id="soloAvailability" placeholder="e.g. Immediate / 40 hrs/week (US/EU overlap)" oninput="saveSoloProfile()">
+        </div>
+        <div>
+          <label>ServiceNow Releases</label>
+          <input type="text" id="soloReleases" placeholder="e.g. Washington DC & Xanadu Releases" oninput="saveSoloProfile()">
+        </div>
+      </div>
+
+      <!-- Agency / Team Form -->
+      <div id="teamFormFields" class="form-grid" style="display:none;">
+        <div>
+          <label>Your Agency / Partner Name</label>
+          <input type="text" id="agencyName" placeholder="e.g. Apex Cloud Solutions" oninput="saveAgencyProfile()">
+        </div>
+        <div>
+          <label>Target Company / Job Title</label>
+          <input type="text" id="agencyTargetRole" placeholder="e.g. ServiceNow Implementation Lead">
+        </div>
+        <div>
+          <label>Team Composition</label>
+          <select id="agencyTeamSize" onchange="saveAgencyProfile()">
+            <option value="2 Senior ServiceNow Developers (CSA/CAD Certified)">2 Senior Developers (CSA/CAD Certified)</option>
+            <option value="1 Lead Architect + 2 Full-Stack Developers">1 Lead Architect + 2 Full-Stack Developers</option>
+            <option value="2 Developers + 1 Platform Administrator">2 Developers + 1 Platform Administrator</option>
+            <option value="Dedicated Implementation Pod (3 Devs, 1 QA, 1 PM)">Dedicated Implementation Pod (3 Devs, 1 QA, 1 PM)</option>
+            <option value="1 Principal Consultant / Architect">1 Principal Consultant / Architect</option>
+          </select>
+        </div>
+        <div>
+          <label>ServiceNow Focus Modules</label>
+          <input type="text" id="agencyModules" placeholder="e.g. ITSM, ITOM, HRSD, CSM, Flow Designer" oninput="saveAgencyProfile()">
+        </div>
+        <div>
+          <label>Contract Model</label>
+          <select id="agencyContractType" onchange="saveAgencyProfile()">
+            <option value="C2C / Corp-to-Corp (Flexible Hourly / Monthly)">C2C / Corp-to-Corp (Flexible Hourly / Monthly)</option>
+            <option value="Fixed-Price Milestone Implementation">Fixed-Price Milestone Implementation</option>
+            <option value="Staff Augmentation / Dedicated Pod (6-12 Months)">Staff Augmentation (6-12 Months)</option>
+          </select>
+        </div>
+        <div>
+          <label>Availability & Timezone</label>
+          <input type="text" id="agencyAvailability" placeholder="e.g. Immediate / US & EU Overlap" oninput="saveAgencyProfile()">
+        </div>
+      </div>
+
+      <button class="generate-btn" onclick="generateProposalPitch()">Generate Proposal Pitch</button>
+      
+      <div id="proposalOutput" style="display:none; margin-top:12px;">
+        <label style="font-size:9.5px; font-weight:700; text-transform:uppercase; color:var(--muted); display:block; margin-bottom:4px; letter-spacing:0.02em;">Ready-to-Send Proposal Pitch</label>
+        <textarea id="proposalText" rows="7" style="width:100%; border-radius:8px; border:1px solid var(--line); padding:8px 10px; font-family:monospace; font-size:11px; background:#F8FAFC; color:#0F172A; line-height:1.4;" readonly></textarea>
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:8px;">
+          <button onclick="copyProposal()" id="copyProposalBtn" style="background:#00875F; color:#fff; border:none; border-radius:6px; padding:6px 14px; font-size:11px; font-weight:700; cursor:pointer; display:inline-flex; align-items:center;">Copy Proposal to Clipboard</button>
+          <span id="copyConfirm" style="color:#00875F; font-size:11px; font-weight:600; display:none;">Copied!</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <footer>
   <div class="footer-bottom">
-    <div>&copy; 2026 SNListings! All rights reserved.</div>
-    <div>Auto-synchronized every 12 hours.</div>
+    <div class="footer-copy" style="display:flex; align-items:center; gap:7px;">
+      <img src="/logo.png" alt="SNListings Logo" style="width:16px; height:16px; border-radius:4px; object-fit:cover; flex-shrink:0;">
+      <span>&copy; 2026 SNListings! All rights reserved.</span>
+    </div>
+    <div class="footer-sync">
+      <span class="sync-full">Auto-synchronized every 12 hours.</span>
+      <span class="sync-mobile">Syncing every 12 hrs</span>
+    </div>
   </div>
 </footer>
 
@@ -739,7 +1315,9 @@
 let allJobs = [];
 let currentStatus = 'active';
 let currentPage = 1;
-const PAGE_SIZE = 70;
+function getPageSize() {
+  return window.innerWidth <= 640 ? 24 : 70;
+}
 let savedJobIds = JSON.parse(localStorage.getItem('savedJobs') || '[]');
 
 const COUNTRY_MAP = {
@@ -794,7 +1372,14 @@ function loadJobs() {
     })
     .then(data => {
       allJobs = data.jobs || [];
-      updatedEl.textContent = 'Last updated: ' + (data.updated_at ? new Date(data.updated_at).toLocaleString() : 'Never');
+      if (data.updated_at) {
+        const d = new Date(data.updated_at);
+        const dateStr = d.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+        const timeStr = d.toLocaleTimeString(undefined, { hour: 'numeric', minute: '2-digit' });
+        updatedEl.textContent = `Last synced: ${dateStr}, ${timeStr}`;
+      } else {
+        updatedEl.textContent = 'Last synced: Active';
+      }
 
       const heroCountEl = document.getElementById('heroActiveCount');
       if (heroCountEl) {
@@ -828,6 +1413,42 @@ function loadJobs() {
 }
 
 loadJobs();
+
+function isStrictServiceNowRole(j) {
+  const t = (j.title || '').toLowerCase();
+  const d = (j.description || '').toLowerCase();
+  
+  // Exclude false positive domains
+  const disqualified = ['flight', 'pilot', 'aviation', 'cabin crew', 'sap access', 'cashier', 'nurse', 'warehouse', 'delivery driver'];
+  if (disqualified.some(x => t.includes(x))) return false;
+
+  // Title match
+  if (['servicenow', 'service-now', 'service now', 'sn dev', 'sn admin', 'snow dev', 'snow admin', 'sn architect', 'sn consultant'].some(k => t.includes(k))) {
+    return true;
+  }
+
+  // Technical role with verified ServiceNow context
+  const isTech = ['developer', 'engineer', 'architect', 'consultant', 'administrator', 'admin', 'lead', 'manager', 'specialist', 'analyst'].some(k => t.includes(k));
+  if (isTech) {
+    const hasCore = d.includes('servicenow') || d.includes('service-now') || d.includes('gliderecord') || d.includes('csa') || d.includes('cad');
+    const hasModules = ['itsm', 'itom', 'itam', 'hrsd', 'csm', 'secops', 'irm', 'spm', 'flow designer', 'service portal'].some(m => d.includes(m));
+    if (hasCore && hasModules) return true;
+  }
+
+  return false;
+}
+
+function isAgencyLead(j) {
+  if (j.is_agency_lead) return true;
+  const combined = ((j.title || '') + ' ' + (j.description || '')).toLowerCase();
+  const agencyKeywords = [
+    'multiple opening', 'multiple position', 'multiple developers', 'multiple consultants',
+    '2+ developer', '3+ developer', '2-3 developer', 'team of developer', 'team expansion',
+    'c2c', 'corp to corp', 'corp-to-corp', '1099', 'subcontract', 'staff augmentation',
+    'implementation partner', 'vendor', 'contractor', 'hourly rate', 'contract-to-hire'
+  ];
+  return agencyKeywords.some(k => combined.includes(k));
+}
 
 function getRoleCategory(j) {
   if (j.role_category && j.role_category !== 'Other' && j.role_category !== 'General') return j.role_category;
@@ -877,6 +1498,258 @@ function isRecentPost(postedStr) {
   return diff >= -3600000 && diff <= 24 * 60 * 60 * 1000;
 }
 
+function formatJobDate(posted) {
+  if (!posted) return '';
+  let d;
+  if (typeof posted === 'number' || /^\d+$/.test(posted)) {
+    d = new Date(Number(posted) * (String(posted).length <= 10 ? 1000 : 1));
+  } else {
+    d = new Date(posted);
+  }
+  if (isNaN(d.getTime())) return '';
+  return d.toLocaleDateString(undefined, {month:'short', day:'numeric'});
+}
+
+let currentPitchMode = 'solo';
+
+function saveSoloProfile() {
+  const profile = {
+    name: document.getElementById('soloName')?.value || '',
+    roleType: document.getElementById('soloRoleType')?.value || 'Developer',
+    certs: document.getElementById('soloCerts')?.value || '',
+    modules: document.getElementById('soloModules')?.value || '',
+    contractType: document.getElementById('soloContractType')?.value || '',
+    availability: document.getElementById('soloAvailability')?.value || '',
+    releases: document.getElementById('soloReleases')?.value || ''
+  };
+  try {
+    localStorage.setItem('sn_solo_profile', JSON.stringify(profile));
+  } catch(e) {}
+}
+
+function saveAgencyProfile() {
+  const profile = {
+    agencyName: document.getElementById('agencyName')?.value || '',
+    teamSize: document.getElementById('agencyTeamSize')?.value || '',
+    modules: document.getElementById('agencyModules')?.value || '',
+    contractType: document.getElementById('agencyContractType')?.value || '',
+    availability: document.getElementById('agencyAvailability')?.value || ''
+  };
+  try {
+    localStorage.setItem('sn_agency_profile', JSON.stringify(profile));
+  } catch(e) {}
+}
+
+function loadSavedProfiles() {
+  try {
+    const soloData = JSON.parse(localStorage.getItem('sn_solo_profile') || 'null');
+    if (soloData) {
+      if (soloData.name !== undefined) document.getElementById('soloName').value = soloData.name;
+      if (soloData.roleType) document.getElementById('soloRoleType').value = soloData.roleType;
+      if (soloData.certs !== undefined) document.getElementById('soloCerts').value = soloData.certs;
+      if (soloData.modules !== undefined) document.getElementById('soloModules').value = soloData.modules;
+      if (soloData.contractType) document.getElementById('soloContractType').value = soloData.contractType;
+      if (soloData.availability !== undefined) document.getElementById('soloAvailability').value = soloData.availability;
+      if (soloData.releases !== undefined) document.getElementById('soloReleases').value = soloData.releases;
+    }
+    
+    const agencyData = JSON.parse(localStorage.getItem('sn_agency_profile') || 'null');
+    if (agencyData) {
+      if (agencyData.agencyName !== undefined) document.getElementById('agencyName').value = agencyData.agencyName;
+      if (agencyData.teamSize) document.getElementById('agencyTeamSize').value = agencyData.teamSize;
+      if (agencyData.modules !== undefined) document.getElementById('agencyModules').value = agencyData.modules;
+      if (agencyData.contractType) document.getElementById('agencyContractType').value = agencyData.contractType;
+      if (agencyData.availability !== undefined) document.getElementById('agencyAvailability').value = agencyData.availability;
+    }
+  } catch (e) {}
+}
+
+function setPitchMode(mode) {
+  currentPitchMode = mode;
+  const tabSolo = document.getElementById('tabSolo');
+  const tabTeam = document.getElementById('tabTeam');
+  const soloFields = document.getElementById('soloFormFields');
+  const teamFields = document.getElementById('teamFormFields');
+  
+  if (mode === 'solo') {
+    if (tabSolo) tabSolo.classList.add('active');
+    if (tabTeam) tabTeam.classList.remove('active');
+    if (soloFields) soloFields.style.display = 'grid';
+    if (teamFields) teamFields.style.display = 'none';
+  } else {
+    if (tabSolo) tabSolo.classList.remove('active');
+    if (tabTeam) tabTeam.classList.add('active');
+    if (soloFields) soloFields.style.display = 'none';
+    if (teamFields) teamFields.style.display = 'grid';
+  }
+  const output = document.getElementById('proposalOutput');
+  if (output) output.style.display = 'none';
+}
+
+function updateSoloDefaults() {
+  const roleType = document.getElementById('soloRoleType')?.value || 'Developer';
+  const certsEl = document.getElementById('soloCerts');
+  const modulesEl = document.getElementById('soloModules');
+  const nameEl = document.getElementById('soloName');
+
+  if (!certsEl.value) {
+    if (roleType === 'Developer') certsEl.placeholder = 'e.g. 6+ Years Exp | CSA, CAD Certified';
+    else if (roleType === 'Consultant') certsEl.placeholder = 'e.g. 7+ Years Exp | CSA, CIS-ITSM & ITOM Certified';
+    else if (roleType === 'Administrator') certsEl.placeholder = 'e.g. 5+ Years Exp | Certified System Administrator (CSA)';
+    else if (roleType === 'Platform Owner') certsEl.placeholder = 'e.g. 8+ Years Exp | CSA, CIS & Certified Product Owner';
+  }
+  if (!modulesEl.value) {
+    if (roleType === 'Developer') modulesEl.placeholder = 'e.g. ITSM, Service Portal, Flow Designer, IntegrationHub';
+    else if (roleType === 'Consultant') modulesEl.placeholder = 'e.g. ITSM, ITOM, HRSD, Solution Architecture & Governance';
+    else if (roleType === 'Administrator') modulesEl.placeholder = 'e.g. Platform Governance, User Admin, ACLs, CMDB Health, Upgrades';
+    else if (roleType === 'Platform Owner') modulesEl.placeholder = 'e.g. Strategic Roadmap, Technical Governance, License Optimization';
+  }
+}
+
+// Proposal Modal Management
+function openProposalModal(targetRole = '', company = '', roleCategory = '') {
+  const modal = document.getElementById('agencyModal');
+  if (modal) modal.style.display = 'flex';
+  
+  // Dynamic target role based on clicked job (always fresh)
+  const formattedRole = targetRole + (company ? ` (${company})` : '');
+  const soloRoleInput = document.getElementById('soloTargetRole');
+  const agencyRoleInput = document.getElementById('agencyTargetRole');
+  if (soloRoleInput && targetRole) soloRoleInput.value = formattedRole;
+  if (agencyRoleInput && targetRole) agencyRoleInput.value = formattedRole;
+
+  // Load user's saved personal / agency profile
+  loadSavedProfiles();
+
+  // If no saved custom role archetype, set default to the clicked card's category
+  const hasSavedSolo = localStorage.getItem('sn_solo_profile');
+  if (!hasSavedSolo && roleCategory) {
+    const soloRoleSelect = document.getElementById('soloRoleType');
+    if (soloRoleSelect && ['Developer', 'Consultant', 'Administrator', 'Platform Owner'].includes(roleCategory)) {
+      soloRoleSelect.value = roleCategory;
+      updateSoloDefaults();
+    }
+  }
+
+  setPitchMode('solo');
+  const output = document.getElementById('proposalOutput');
+  if (output) output.style.display = 'none';
+}
+
+function openAgencyModal(targetRole = '', company = '') {
+  openProposalModal(targetRole, company, 'Developer');
+}
+
+function closeAgencyModal() {
+  const modal = document.getElementById('agencyModal');
+  if (modal) modal.style.display = 'none';
+}
+
+function generateProposalPitch() {
+  if (currentPitchMode === 'solo') {
+    generateSoloPitch();
+  } else {
+    generateAgencyPitch();
+  }
+}
+
+function generateSoloPitch() {
+  saveSoloProfile();
+  const name = document.getElementById('soloName')?.value.trim() || 'Certified ServiceNow Specialist';
+  const role = document.getElementById('soloTargetRole')?.value.trim() || 'ServiceNow Opening';
+  const roleType = document.getElementById('soloRoleType')?.value || 'Developer';
+  const certs = document.getElementById('soloCerts')?.value.trim() || 'CSA & CAD Certified';
+  const modules = document.getElementById('soloModules')?.value.trim() || 'ITSM, Flow Designer, IntegrationHub';
+  const contract = document.getElementById('soloContractType')?.value || 'Direct Contract / C2C';
+  const availability = document.getElementById('soloAvailability')?.value.trim() || 'Immediate (40 hrs/wk)';
+  const releases = document.getElementById('soloReleases')?.value.trim() || 'Washington DC & Xanadu';
+
+  let roleHighlight = '';
+  if (roleType === 'Developer') {
+    roleHighlight = 'My hands-on focus centers on building scalable business logic, custom scoped applications, REST/SOAP API integrations via IntegrationHub, and complex Flow Designer workflows without technical debt.';
+  } else if (roleType === 'Consultant') {
+    roleHighlight = 'I specialize in translating enterprise business requirements into clean architectural blueprints, orchestrating seamless module implementations, and optimizing ServiceNow process flows.';
+  } else if (roleType === 'Administrator') {
+    roleHighlight = 'I take ownership of complete platform health, instance security (ACLs), CMDB data integrity, automated testing (ATF), and smooth version upgrade cycles with zero downtime.';
+  } else {
+    roleHighlight = 'I drive end-to-end platform governance, roadmap execution, stakeholder alignment, and architecture standardization across all instance environments.';
+  }
+
+  const pitch = `Subject: ServiceNow ${roleType} Proposal for ${role} - ${name}
+
+Hi Hiring Team,
+
+I am writing to express my strong interest in your active requirement for "${role}". 
+
+As a certified ServiceNow ${roleType} with hands-on expertise on ${releases}, I offer:
+
+• Professional Profile: ${name}
+• Verified Certifications: ${certs}
+• Core Module Depth: ${modules}
+• Engagement Structure: ${contract}
+• Availability: ${availability}
+
+${roleHighlight}
+
+I have a proven track record of jumping into enterprise ServiceNow environments with zero ramp-up time, adhering strictly to ServiceNow Best Practice Architecture guidelines.
+
+I would welcome a brief 10-minute introductory call to review my portfolio, code samples, and discuss how I can immediately contribute to your ServiceNow deliverables.
+
+Best regards,
+${name}
+Available for immediate onboarding`;
+
+  document.getElementById('proposalText').value = pitch;
+  document.getElementById('proposalOutput').style.display = 'block';
+  document.getElementById('copyConfirm').style.display = 'none';
+}
+
+function generateAgencyPitch() {
+  saveAgencyProfile();
+  const agency = document.getElementById('agencyName')?.value.trim() || 'ServiceNow Certified Partner';
+  const role = document.getElementById('agencyTargetRole')?.value.trim() || 'ServiceNow Project Requirements';
+  const team = document.getElementById('agencyTeamSize')?.value || '2 Senior Developers (CSA/CAD Certified)';
+  const modules = document.getElementById('agencyModules')?.value.trim() || 'ITSM, ITOM, HRSD, CSM, Flow Designer & IntegrationHub';
+  const contract = document.getElementById('agencyContractType')?.value || 'C2C / Corp-to-Corp (Flexible Hourly / Monthly)';
+  const availability = document.getElementById('agencyAvailability')?.value.trim() || 'Immediate / US & EU Overlap';
+
+  const pitch = `Subject: ServiceNow Partner Proposal: Dedicated Team for ${role}
+
+Hi Hiring Team,
+
+I noticed your active requirement for "${role}". 
+
+At ${agency}, we specialize in delivering enterprise-grade ServiceNow platform solutions with certified, battle-tested talent. Instead of individual sourcing delays, we can immediately deploy:
+
+• Team Model: ${team}
+• Core Module Expertise: ${modules}
+• Engagement Structure: ${contract}
+• Availability: ${availability}
+• Certifications: Certified System Administrators (CSA) & Certified Application Developers (CAD)
+
+Our engineers have delivered full lifecycle implementations, custom scoped applications, and automated workflows on Washington DC & Xanadu releases.
+
+Would you be open to a quick 10-minute discovery call this week to review candidate profiles and discuss how we can accelerate your ServiceNow milestones?
+
+Best regards,
+${agency} Team
+info@${agency.toLowerCase().replace(/[^a-z0-9]/g, '') || 'partner'}.com`;
+
+  document.getElementById('proposalText').value = pitch;
+  document.getElementById('proposalOutput').style.display = 'block';
+  document.getElementById('copyConfirm').style.display = 'none';
+}
+
+function copyProposal() {
+  const textarea = document.getElementById('proposalText');
+  textarea.select();
+  navigator.clipboard.writeText(textarea.value).then(() => {
+    const confirm = document.getElementById('copyConfirm');
+    confirm.style.display = 'inline';
+    setTimeout(() => { confirm.style.display = 'none'; }, 2500);
+  });
+}
+
 function render(){
   const q = document.getElementById('search').value.toLowerCase();
   const roleFilterEl = document.getElementById('roleFilter') || document.getElementById('categoryFilter');
@@ -886,11 +1759,16 @@ function render(){
   const sortBy = document.getElementById('sortFilter').value;
 
   const filtered = allJobs.filter(j => {
+    // 0. Strict ServiceNow Check
+    if (!isStrictServiceNowRole(j)) return false;
+
     const matchesQ = !q || (j.title + ' ' + j.company).toLowerCase().includes(q);
     
     const roleCat = getRoleCategory(j);
     let matchesRole = true;
-    if (roleVal === 'core') {
+    if (roleVal === 'agency') {
+      matchesRole = isAgencyLead(j);
+    } else if (roleVal === 'core') {
       matchesRole = ['Developer', 'Consultant', 'Administrator', 'Platform Owner'].includes(roleCat);
     } else if (roleVal === 'all' || !roleVal) {
       matchesRole = true;
@@ -920,11 +1798,12 @@ function render(){
     return valB - valA;
   });
 
-  const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+  const pageSize = getPageSize();
+  const totalPages = Math.ceil(filtered.length / pageSize);
   if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
 
-  const startIdx = (currentPage - 1) * PAGE_SIZE;
-  const pageItems = filtered.slice(startIdx, startIdx + PAGE_SIZE);
+  const startIdx = (currentPage - 1) * pageSize;
+  const pageItems = filtered.slice(startIdx, startIdx + pageSize);
 
   let statusLabel = 'active leads';
   if (currentStatus === 'archived') statusLabel = 'archived leads';
@@ -942,34 +1821,42 @@ function render(){
   list.innerHTML = pageItems.map(j => {
     const roleCat = getRoleCategory(j);
     const roleBadgeClass = roleCat === 'Developer' ? 'dev' : roleCat === 'Administrator' ? 'admin' : roleCat === 'Consultant' ? 'consult' : roleCat === 'Platform Owner' ? 'owner' : 'other';
+    const roleBadgeShort = roleCat === 'Administrator' ? 'Admin' : roleCat === 'Platform Owner' ? 'Owner' : roleCat === 'Developer' ? 'Dev' : roleCat;
     const isNew = isRecentPost(j.posted);
+    const hasAgency = isAgencyLead(j);
 
     return `
     <div class="card">
       <div class="card-body">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 8px;">
-          <div style="display:flex; align-items:center; gap:5px;">
-            <span class="source">${j.source}</span>
-            ${isNew ? `<span class="new-badge">NEW</span>` : ''}
+        <div class="card-header-row">
+          <div class="card-badges-left">
+            <span class="source" title="Source: ${escapeHtml(j.source)}">${escapeHtml(j.source)}</span>
+            ${isNew ? `<span class="new-badge" title="Recently posted opening">NEW</span>` : ''}
+            ${hasAgency ? `<span class="category-badge agency" title="Multi-Hire / C2C Opportunity">Multi-Hire / C2C</span>` : ''}
           </div>
-          <span class="category-badge ${roleBadgeClass}">${roleCat}</span>
+          <span class="category-badge ${roleBadgeClass}" title="Role: ${escapeHtml(roleCat)}">${escapeHtml(roleBadgeShort)}</span>
         </div>
-        <a href="${j.url || j.link}" target="_blank" class="title">${escapeHtml(j.title)}</a>
+        <a href="${j.url || j.link}" target="_blank" class="title" title="${escapeHtml(j.title)}">${escapeHtml(j.title)}</a>
         <div class="company">
-          <span>${escapeHtml(j.company)}</span>
-          ${j.location ? `<span class="location">${escapeHtml(j.location)}</span>` : ''}
+          <span title="${escapeHtml(j.company)}">${escapeHtml(j.company)}</span>
+          ${j.location ? `<span class="location" title="${escapeHtml(j.location)}">${escapeHtml(j.location)}</span>` : ''}
         </div>
       </div>
       
-      <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-top:12px;">
-        <div class="tags">
-          ${j.posted ? `<span class="tag">${new Date(j.posted).toLocaleDateString(undefined, {month:'short', day:'numeric', year:'numeric'})}</span>` : ''}
-          ${j.salary ? `<span class="tag" style="border-color:var(--accent); color:var(--accent); background:transparent;">$${Number(j.salary).toLocaleString()}+</span>` : ''}
-          ${j.is_remote ? `<span class="tag" style="background:var(--accent); color:var(--bg);">Remote</span>` : ''}
+      <div class="card-footer">
+        <div class="card-tags-row">
+          ${formatJobDate(j.posted) ? `<span class="tag">${formatJobDate(j.posted)}</span>` : ''}
+          ${j.salary ? `<span class="tag salary-tag">$${Number(j.salary).toLocaleString()}+</span>` : ''}
+          ${j.is_remote ? `<span class="tag remote-tag">Remote</span>` : ''}
         </div>
-        <button onclick="toggleSave('${j.id}', event)" style="background:none; border:none; cursor:pointer; color:${isSaved(j.id) ? 'var(--accent)' : 'var(--muted)'}; padding:4px; display:flex; transition:all .2s;" title="${isSaved(j.id) ? 'Remove from saved' : 'Save job'}">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="${isSaved(j.id) ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
-        </button>
+        <div class="card-action-row">
+          <button class="pitch-team-btn" onclick="openProposalModal('${escapeHtml(j.title).replace(/'/g, "\\'")}', '${escapeHtml(j.company).replace(/'/g, "\\'")}', '${roleCat}')" title="Generate tailored proposal for this opening">
+            Pitch Proposal
+          </button>
+          <button class="bookmark-btn ${isSaved(j.id) ? 'saved' : ''}" onclick="toggleSave('${j.id}', event)" title="${isSaved(j.id) ? 'Remove from saved' : 'Save job'}">
+            <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="${isSaved(j.id) ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+          </button>
+        </div>
       </div>
     </div>
   `}).join('');
@@ -984,13 +1871,23 @@ function renderPagination(totalPages) {
     return;
   }
 
+  let optionsHtml = '';
+  for (let p = 1; p <= totalPages; p++) {
+    optionsHtml += `<option value="${p}" ${p === currentPage ? 'selected' : ''}>Page ${p}</option>`;
+  }
+
   nav.innerHTML = `
-    <button id="prevPage" ${currentPage === 1 ? 'disabled' : ''} style="background:var(--panel); border:1px solid var(--line); color:var(--text); padding:8px 14px; border-radius:8px; cursor:pointer; opacity:${currentPage === 1 ? '0.4' : '1'}; font-size:12px; font-weight:600;">Prev</button>
-    <span style="color:var(--muted); font-size:12px; font-weight:600;">${currentPage} / ${totalPages}</span>
-    <button id="nextPage" ${currentPage === totalPages ? 'disabled' : ''} style="background:var(--panel); border:1px solid var(--line); color:var(--text); padding:8px 14px; border-radius:8px; cursor:pointer; opacity:${currentPage === totalPages ? '0.4' : '1'}; font-size:12px; font-weight:600;">Next</button>
+    <button id="prevPage" class="page-nav-btn" ${currentPage === 1 ? 'disabled' : ''}>&larr; Prev</button>
+    <div class="page-jump-container">
+      <select id="jumpPageSelect" class="page-jump-select" aria-label="Jump to page">
+        ${optionsHtml}
+      </select>
+      <span>/ ${totalPages}</span>
+    </div>
+    <button id="nextPage" class="page-nav-btn" ${currentPage === totalPages ? 'disabled' : ''}>Next &rarr;</button>
   `;
 
-  document.getElementById('prevPage').addEventListener('click', () => {
+  document.getElementById('prevPage')?.addEventListener('click', () => {
     if (currentPage > 1) {
       currentPage--;
       window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -998,16 +1895,45 @@ function renderPagination(totalPages) {
     }
   });
 
-  document.getElementById('nextPage').addEventListener('click', () => {
+  document.getElementById('nextPage')?.addEventListener('click', () => {
     if (currentPage < totalPages) {
       currentPage++;
       window.scrollTo({ top: 0, behavior: 'smooth' });
       render();
     }
   });
+
+  document.getElementById('jumpPageSelect')?.addEventListener('change', (e) => {
+    currentPage = parseInt(e.target.value, 10) || 1;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    render();
+  });
 }
 
 const resetAndRender = () => { currentPage = 1; render(); };
+
+// Back to top & viewport resize handling
+const mobileTopBtn = document.getElementById('mobileBackToTop');
+if (mobileTopBtn) {
+  window.addEventListener('scroll', () => {
+    if (window.innerWidth <= 640) {
+      if (window.scrollY > 220) {
+        mobileTopBtn.classList.add('visible');
+      } else {
+        mobileTopBtn.classList.remove('visible');
+      }
+    }
+  }, { passive: true });
+}
+
+let lastIsMobile = window.innerWidth <= 640;
+window.addEventListener('resize', () => {
+  const currentIsMobile = window.innerWidth <= 640;
+  if (currentIsMobile !== lastIsMobile) {
+    lastIsMobile = currentIsMobile;
+    render();
+  }
+});
 
 const searchBtn = document.getElementById('searchBtn');
 const searchInput = document.getElementById('search');

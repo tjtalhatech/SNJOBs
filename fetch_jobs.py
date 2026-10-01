@@ -53,32 +53,34 @@ def fetch_adzuna():
         print("Skipping Adzuna (no credentials set)")
         return []
 
-    # Adzuna is per-country. Default covers the biggest English-language
-    # markets; override with ADZUNA_COUNTRIES="us,gb,in,..." secret/var.
+    # Adzuna is per-country. Default covers the biggest English-language markets.
     raw_countries = os.environ.get("ADZUNA_COUNTRIES", "us,gb,in,ca,au").split(",")
     countries = []
     for c in raw_countries:
         c = c.strip().lower()
-        if c == "india": countries.append("in")
-        elif c == "uk": countries.append("gb")
-        elif c == "united kingdom": countries.append("gb")
-        elif c == "canada": countries.append("ca")
-        elif c == "australia": countries.append("au")
-        elif c == "usa" or c == "united states": countries.append("us")
+        if c in ["india", "in"]: countries.append("in")
+        elif c in ["uk", "united kingdom", "gb"]: countries.append("gb")
+        elif c in ["canada", "ca"]: countries.append("ca")
+        elif c in ["australia", "au"]: countries.append("au")
+        elif c in ["usa", "united states", "us"]: countries.append("us")
         elif len(c) == 2: countries.append(c)
-        else: countries.append(c) # fallback
 
     jobs = []
+    # Query "ServiceNow" master search per country to get up to 50 fresh jobs per country with minimal API quota usage
     for country in countries:
         country = country.strip()
         if not country:
             continue
-        for term in ROLE_VARIANTS:
+        
+        # Primary search term for max coverage in 1 API call per country
+        terms_to_query = ["ServiceNow"]
+        
+        for term in terms_to_query:
             url = (
                 f"https://api.adzuna.com/v1/api/jobs/{country}/search/1"
                 f"?app_id={app_id}&app_key={app_key}"
                 f"&what={urllib.parse.quote(term)}"
-                f"&results_per_page=30&sort_by=date"
+                f"&results_per_page=50&sort_by=date"
             )
             try:
                 data = http_get_json(url)
@@ -214,13 +216,24 @@ def fetch_arbeitnow():
         title = r.get("title", "")
         tags = " ".join(r.get("tags", [])).lower()
         desc = (r.get("description") or "").lower()
-        if "servicenow" not in title.lower() and "servicenow" not in tags and "servicenow" not in desc:
+        # Stricter matching: require servicenow in title or tags, or prominent in description
+        if "servicenow" not in title.lower() and "servicenow" not in tags and "servicenow developer" not in desc and "servicenow admin" not in desc and "servicenow consultant" not in desc:
             continue
         company = r.get("company_name", "Unknown")
         link = r.get("url", "")
         location = r.get("location", "")
         is_remote = r.get("remote", False) or any(x in title.lower() or x in location.lower() for x in ["remote", "work from home"])
         
+        # Handle created_at which may be a unix timestamp integer or string
+        created_val = r.get("created_at")
+        posted_iso = ""
+        if isinstance(created_val, (int, float)):
+            posted_iso = datetime.datetime.utcfromtimestamp(created_val).isoformat() + "Z"
+        elif isinstance(created_val, str) and created_val.isdigit():
+            posted_iso = datetime.datetime.utcfromtimestamp(int(created_val)).isoformat() + "Z"
+        elif isinstance(created_val, str):
+            posted_iso = created_val
+
         jobs.append({
             "id": job_id(title, company, link),
             "title": title,
@@ -228,7 +241,7 @@ def fetch_arbeitnow():
             "location": location,
             "link": link,
             "source": "Arbeitnow",
-            "posted": str(r.get("created_at", "")),
+            "posted": posted_iso,
             "salary": None,
             "country": "DE" if "germany" in location.lower() else "",
             "is_remote": is_remote,
@@ -312,6 +325,172 @@ def fetch_jobicy():
     return jobs
 
 
+def fetch_themuse():
+    """Free, no API key required. https://www.themuse.com/developers/api/v2"""
+    jobs = []
+    try:
+        data = http_get_json("https://www.themuse.com/api/public/jobs?category=Software%20Engineering&page=1")
+    except Exception as e:
+        print(f"TheMuse error: {e}")
+        return jobs
+
+    for r in data.get("results", []):
+        title = r.get("name", "")
+        desc = (r.get("contents") or "").lower()
+        company = (r.get("company") or {}).get("name", "Unknown")
+        if "servicenow" not in title.lower() and "servicenow" not in desc:
+            continue
+        
+        locations = r.get("locations", [])
+        loc_name = locations[0].get("name", "USA") if locations else "USA"
+        is_remote = any("remote" in (l.get("name", "").lower()) for l in locations) or "remote" in title.lower()
+        
+        jobs.append({
+            "id": job_id(title, company, r.get("refs", {}).get("landing_page", "")),
+            "title": title,
+            "company": company,
+            "location": loc_name,
+            "link": r.get("refs", {}).get("landing_page", ""),
+            "source": "TheMuse",
+            "posted": r.get("publication_date", ""),
+            "salary": None,
+            "country": "US",
+            "is_remote": is_remote,
+            "description": desc
+        })
+    print(f"TheMuse: {len(jobs)} jobs")
+    return jobs
+
+
+def fetch_himalayas():
+    """Free, no API key required. https://himalayas.app/jobs/api"""
+    jobs = []
+    try:
+        data = http_get_json(
+            "https://himalayas.app/jobs/api?search=servicenow",
+            headers={"User-Agent": "Mozilla/5.0 (servicenow-leads-bot)"}
+        )
+    except Exception as e:
+        print(f"Himalayas error: {e}")
+        return jobs
+
+    for r in data.get("jobs", []):
+        title = r.get("title", "")
+        desc = (r.get("description") or "").lower()
+        company = r.get("companyName", "Unknown")
+        if "servicenow" not in title.lower() and "servicenow" not in desc:
+            continue
+
+        link = r.get("applicationLink") or f"https://himalayas.app/companies/{r.get('companySlug')}/jobs/{r.get('slug')}"
+        loc_str = ", ".join(r.get("locationRestrictions", ["Remote"]))
+
+        jobs.append({
+            "id": job_id(title, company, link),
+            "title": title,
+            "company": company,
+            "location": loc_str,
+            "link": link,
+            "source": "Himalayas",
+            "posted": r.get("pubDate", ""),
+            "salary": r.get("minSalary"),
+            "country": "Remote",
+            "is_remote": True,
+            "description": desc
+        })
+    print(f"Himalayas: {len(jobs)} jobs")
+    return jobs
+
+
+def fetch_usajobs():
+    """US Federal Jobs for ServiceNow (public API)"""
+    jobs = []
+    try:
+        url = "https://data.usajobs.gov/api/search?Keyword=ServiceNow&ResultsPerPage=25"
+        headers = {
+            "User-Agent": "servicenow-leads-bot@github.com"
+        }
+        data = http_get_json(url, headers=headers)
+        search_result = data.get("SearchResult", {})
+        for r in search_result.get("SearchResultItems", []):
+            item = r.get("MatchedObjectDescriptor", {})
+            title = item.get("PositionTitle", "")
+            company = item.get("OrganizationName", "US Federal Agency")
+            link = item.get("PositionURI", "")
+            locs = item.get("PositionLocation", [])
+            location = locs[0].get("LocationName", "United States") if locs else "United States"
+            rem = item.get("PositionLocationDisplay", "").lower()
+            is_remote = "telework" in rem or "remote" in rem
+            
+            jobs.append({
+                "id": job_id(title, company, link),
+                "title": title,
+                "company": company,
+                "location": location,
+                "link": link,
+                "source": "USAJobs",
+                "posted": item.get("PublicationStartDate", ""),
+                "salary": item.get("PositionRemuneration", [{}])[0].get("MinimumRange"),
+                "country": "US",
+                "is_remote": is_remote,
+                "description": item.get("UserArea", {}).get("Details", {}).get("MajorDuties", [""])[0] if item.get("UserArea", {}).get("Details", {}).get("MajorDuties") else ""
+            })
+    except Exception as e:
+        print(f"USAJobs notice: {e}")
+    print(f"USAJobs: {len(jobs)} jobs")
+    return jobs
+
+
+def is_servicenow_role(title, desc=""):
+    t = (title or "").lower()
+    d = (desc or "").lower()
+    
+    # Exclude obvious false positive domains
+    disqualified = ["flight", "pilot", "aviation", "cabin crew", "sap access", "cashier", "nurse", "warehouse", "delivery driver"]
+    if any(x in t for x in disqualified):
+        return False
+
+    # Positive matches in title
+    if any(k in t for k in ["servicenow", "service-now", "service now", "sn dev", "sn admin", "snow dev", "snow admin", "sn architect", "sn consultant"]):
+        return True
+
+    # Technical title with explicit ServiceNow implementation in description
+    is_tech_role = any(k in t for k in ["developer", "engineer", "architect", "consultant", "administrator", "admin", "lead", "manager", "specialist", "analyst"])
+    if is_tech_role:
+        has_sn_core = ("servicenow" in d or "service-now" in d or "gliderecord" in d or "csa" in d or "cad" in d)
+        has_sn_modules = any(m in d for m in ["itsm", "itom", "itam", "hrsd", "csm", "secops", "irm", "spm", "flow designer", "service portal"])
+        if has_sn_core and has_sn_modules:
+            return True
+
+    return False
+
+
+def detect_agency_opportunity(title, desc=""):
+    t = (title or "").lower()
+    d = (desc or "").lower()
+    combined = f"{t} {d}"
+    
+    # Multi-hire / Multiple developers needed
+    multi_hire_keywords = [
+        "multiple opening", "multiple position", "multiple vacancies", "multiple resources", 
+        "multiple developers", "multiple consultants", "2+ developer", "3+ developer", "2-3 developer",
+        "hiring multiple", "team of developers", "team expansion", "several developers",
+        "ramp up", "several positions", "immediate requirements"
+    ]
+    if any(k in combined for k in multi_hire_keywords):
+        return True, "Multi-Hire (2-3+ Devs / Team)"
+        
+    # C2C / Contract / Agency / Staff Augmentation
+    c2c_keywords = [
+        "c2c", "corp to corp", "corp-to-corp", "corp 2 corp", "1099", 
+        "subcontract", "vendor", "agency", "staff augmentation", "implementation partner",
+        "contractor", "hourly rate", "c2h", "contract-to-hire", "w2/c2c", "w2 or c2c"
+    ]
+    if any(k in combined for k in c2c_keywords):
+        return True, "C2C / Agency Contract"
+        
+    return False, ""
+
+
 def classify_servicenow_role(title, desc=""):
     t = (title or "").lower()
     d = (desc or "").lower()
@@ -347,7 +526,15 @@ def classify_servicenow_role(title, desc=""):
 
 def main():
     all_jobs = (
-        fetch_adzuna() + fetch_jsearch() + fetch_remoteok() + fetch_arbeitnow() + fetch_remotive() + fetch_jobicy()
+        fetch_adzuna()
+        + fetch_jsearch()
+        + fetch_himalayas()
+        + fetch_themuse()
+        + fetch_usajobs()
+        + fetch_remoteok()
+        + fetch_arbeitnow()
+        + fetch_remotive()
+        + fetch_jobicy()
     )
 
     # de-dupe by id, keep newest data first
@@ -384,10 +571,19 @@ def main():
             elif ".org.uk" in link or ".co.uk" in link: j["country"] = "GB"
             elif ".adzuna.com" in link: j["country"] = "US"
         
+        # 0. Strict ServiceNow relevance check
+        if not is_servicenow_role(j.get("title"), j.get("description")):
+            continue
+
         # 1. Categorization
         role_cat = classify_servicenow_role(j.get("title"), j.get("description"))
         j["category"] = role_cat
         j["role_category"] = role_cat
+
+        # 1b. Agency / Multi-Hire / Contract opportunity tagging
+        is_agency, agency_badge = detect_agency_opportunity(j.get("title"), j.get("description"))
+        j["is_agency_lead"] = is_agency
+        j["agency_badge"] = agency_badge
 
         # 2. Archiving Logic (30 days)
         try:
