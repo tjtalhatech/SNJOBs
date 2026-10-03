@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T13:02:37.277648Z",
+  "updated_at": "2026-10-03T22:38:49.342130Z",
   "count": 1289,
   "jobs": [
     {
@@ -792,7 +792,7 @@
       "role_category": "Other",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5766a0807f88",
