@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T23:51:43.149438Z",
-  "count": 1454,
+  "updated_at": "2026-10-29T14:57:38.115101Z",
+  "count": 1465,
   "jobs": [
     {
       "id": "2a7adc88c63b",
@@ -54,6 +54,24 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "6b9793e49419",
+      "title": "ServiceNow Developer - Clearable for Department of Defense Secret",
+      "company": "Insight Global",
+      "location": "Fort Meade, US",
+      "link": "https://www.careersingovernment.com/job/3490404/servicenow-developer-clearable-for-department-of-defense-secret/",
+      "source": "JSearch",
+      "posted": "2026-10-25T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Job Summary\n\nInsight Global is hiring for multiple ServiceNow Developers to join our team supporting a Department of Defense/War Program at Fort Meade, MD.\n\nCandidates do not need a clearance but must be able to obtain and maintain a Department of Defense Secret Clearance to be considered for this role. The work will be done onsite at Fort Meade, MD in a classified environment.\n\nThe ideal candidate will be responsible for designing, developing, configuring, and supporting solutions on the ServiceNow platform. This individual will work closely with stakeholders, business analysts, system administrators, and engineering teams to automate business processes, improve service delivery, and implement scalable enterprise solutions.\n\nThe successful candidate will possess strong technical expertise in ServiceNow development, workflow automation, system integrations, and IT Service Management (ITSM) best practices.\n\nMinimum Job requirements include\n\u2022 Ability to meet all requirements to obtain and maintain a Department of Defense Secret or Top Secret Clearance\n\u2022 Bachelors Degree and 4+ years of ServiceNow Development experience\n\u2022 Experience creating and maintaining, Business Rules, Client Scripts, Catalog Items, Workflows UI Policies, and Service Portals\n\u2022 Experience integrating ServiceNow with external systems.\n\u2022 Excellent verbal and written communication skills\n\nInsight Global is hiring multiple candidates for this position so exact pay will vary based on Candidates year of development experience, depth of knowledge, if they already have a clearance, amongst many other factors. However, we anticipate paying 125K - 150K for these openings as well as provide a comprehensive benefits package including health, vision, dental, and 401K benefits.\nJob Description\n\nInsight Global is hiring for multiple ServiceNow Developers to join our team supporting a Department of Defense/War Program at Fort Meade, MD.\n\nCandidates do not need a clearance but must be able to obtain and maintain a Department of Defense Secret Clearance to be considered for this role. The work will be done onsite at Fort Meade, MD in a classified environment.\n\nThe ideal candidate will be responsible for designing, developing, configuring, and supporting solutions on the ServiceNow platform. This individual will work closely with stakeholders, business analysts, system administrators, and engineering teams to automate business processes, improve service delivery, and implement scalable enterprise solutions.\n\nThe successful candidate will possess strong technical expertise in ServiceNow development, workflow automation, system integrations, and IT Service Management (ITSM) best practices.\n\nMinimum Job requirements include\n\u2022 Ability to meet all requirements to obtain and maintain a Department of Defense Secret or Top Secret Clearance\n\u2022 Bachelors Degree and 4+ years of ServiceNow Development experience\n\u2022 Experience creating and maintaining, Business Rules, Client Scripts, Catalog Items, Workflows UI Policies, and Service Portals\n\u2022 Experience integrating ServiceNow with external systems.\n\u2022 Excellent verbal and written communication skills\n\nInsight Global is hiring multiple candidates for this position so exact pay will vary based on Candidates year of development experience, depth of knowledge, if they already have a clearance, amongst many other factors. However, we anticipate paying 125K - 150K for these openings as well as provide a comprehensive benefits package including health, vision, dental, and 401K benefits.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "Multi-Hire (2-3+ Devs / Team)",
       "status": "active"
     },
     {
@@ -183,6 +201,42 @@
       "status": "active"
     },
     {
+      "id": "ad00e239a225",
+      "title": "ServiceNow Admin/Dev",
+      "company": "Information Technology Engineering Corporation",
+      "location": "Fort Meade, US",
+      "link": "https://trabajos.univision.com/job/23-14660_1D3E4EC834A6014B6C52334BD7C953CC",
+      "source": "JSearch",
+      "posted": "2026-10-24T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Opportunity Details\n\nEmployee ServiceNow Admin/Dev 102337\n\nFort Meade, MD\n\nServiceNow Admin/Dev\nLocation: Fort Meade, MD\nRequired Clearance: Top Secret/SCI with FS Poly\n\nManpowerGroup Public Sector (MGPS) provides Skilled Experts and Leading-Edge Solutions to Support Our Nation's Most Critical Intelligence, Defense and Civilian Missions. MGPS specializes in solving our clients' diverse linguistic,\u00a0technical and data management challenges created by the dramatic rise in the volume, variety and complexity of open source data. We harness machine learning, artificial intelligence and the latest data acquisition and mining tools, paired with expert human skills to provide customized solutions for every customer.\n\nU.S. Citizenship Mandatory: Due to our US federal government contract, candidates for this position are required to be a US Citizen and will be subject to a background investigation.\n\nJob Description:\n\nJoin a team designing architecture and developing solutions that support organizational needs. We are seeking an innovative, motivated professional to contribute to a highly skilled team operating in a hybrid cloud environment. The ideal candidate will have strong hands-on technical experience; AWS experience is a plus. We value a collaborative team environment and a commitment to continuous learning and professional growth.\n\nJob Responsibilities:\n\nInstall, configure, troubleshoot, upgrade, and maintain self-hosted ServiceNow implementations.\nCreate custom workflows.\nBuild service requests to meet business and technical requirements.\nDevelop views and reports as needed.\nImplement integrations and process automation using ServiceNow Orchestration.\nPerform system, integration, and Section 508 compliance testing.\nMonitor application health, usage, and compliance.\nAssess current ServiceNow usage and recommend enhancements to improve efficiency.\nDevelop scripts to automate routine tasks.\nTrain and mentor junior team members.\nRequired Skills: Must have hands on experience in installing ServiceNow software and upgrading it from one version to another.\n10 years of experience as an SA in programs and contracts of similar scope, type, and complexity is required.\nBachelor's degree in a technical discipline from an accredited college or university is required.\n5 years of additional SA experience may be substituted for a bachelor's degree.\nA minimum certification of IAT Level II. (CCNA - SECURITY; GICSP; GSEC; Security +; SSCP).\nMinimum of 2 years of experience as a ServiceNow Administrator/Developer.\nLinux/UNIX system troubleshooting experience.\nDevelopment experience with JavaScript or other high-level programming languages.\nFamiliarity with web-based user interfaces (HTML, XML, CSS).\nExperience creating and maintaining technical documentation.\nDemonstrated ability to mentor junior team members.\nExcellent communication and interpersonal skills.\nDesired Skills: Experience managing a self-hosted ServiceNow instance, including performing required upgrades to core ServiceNow applications.\nJava development experience.\nExperience reviewing processes and implementing efficiencies.\nServiceNow certifications are a plus (e.g., Administrator, Developer).",
+      "category": "Administrator",
+      "role_category": "Administrator",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "917c7411f892",
+      "title": "ServiceNow & IT Service Management (ITSM) Intern - Now Hiring",
+      "company": "Maximus",
+      "location": "Rockville, US",
+      "link": "https://www.snagajob.com/jobs/1308683217",
+      "source": "JSearch",
+      "posted": "2026-10-24T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Description & Requirements\n\nThe ServiceNow platform sits at the center of how we deliver and improve technology services across the enterprise. As a ServiceNow & IT Service Management Intern, you will work with the team responsible for keeping those services running efficiently, improving user experiences, and ensuring the technology environment is accurately represented through our Configuration Management Database (CMDB).\n\nThis is not a \"shadow and observe\" internship. You will contribute to real initiatives that support service delivery, platform operations, reporting, data quality, and process improvement. Working alongside ServiceNow administrators, process owners, architects, and IT leaders, you'll gain exposure to how a large enterprise manages incidents, requests, knowledge, changes, assets, and configuration data at scale.\n\nYou'll learn how technology services are delivered behind the scenes, how data drives operational decisions, and how platforms like ServiceNow help organizations automate work, reduce complexity, and improve outcomes. Whether your interests are in technology operations, process design, platform administration, data analytics, or digital transformation, this internship provides hands-on experience with tools and practices used by enterprise IT organizations every day.\n\nBy the end of the internship, you will have a practical understanding of IT Service Management (ITSM), CMDB fundamentals, ServiceNow administration, reporting and analytics, workflow automation, and the role enterprise platforms play in delivering reliable technology services.\n\nSince 1975, Maximus has operated under its founding mission of Helping Government Serve the People, enabling citizens around the globe to successfully engage with their governments at all levels and across a variety of health and human services programs. Maximus delivers innovative business process management and technology solutions that contribute to improved outcomes for citizens and higher levels of productivity, accuracy, accountability and efficiency of government-sponsored programs. With more than 30,000 employees worldwide, Maximus is a proud partner to government agencies in the United States, Canada, Saudi Arabia, and the United Kingdom. For more information, visit https://www.maximus.com\n\nEssential Duties and Responsibilities:\n\u2022 Work on IT assignments of moderate difficulty under the direction of a more senior mentor to build a well-rounded skillset.\n\u2022 Escalate issues and questions to management, as necessary.\n\u2022 Participate in group discussions with peers or external groups to solution problems of moderate scope.\n\u2022 Participate in meetings to gain process knowledge and guidance on assigned projects.\n\u2022 Read, understand, and perform assignments within prescribed guidelines.\n\u2022 Approach challenges and create solutions with a critical thinking and customer service mindset.\n\u2022 Prepare standard reports and presentation materials.\n\u2022 Contribute ideas and recommendations to improve employee and customer experiences across IT services.\n\u2022 Assist with collecting, reviewing, and analyzing user feedback, satisfaction surveys, and service metrics.\n\u2022 Explore the use of AI, automation, and digital technologies to improve workflows, reporting, and service delivery.\n\u2022 Support process improvement initiatives that simplify experiences for users and support teams.\n\u2022 Participate in cross-functional projects focused on innovation, operational effectiveness, and service excellence.\n\u2022 Create reports, dashboards, and presentations that help communicate trends, insights, and opportunities for improvement.\n\u2022 Research emerging technologies, industry trends, and ServiceNow capabilities and share findings with the team.\n\u2022 Collaborate with business and technical stakeholders to identify opportunities to enhance platform adoption and user engagement.\n\nMinimum Requirements\n\u2022 High school diploma or GED required and 0-2 years of relevant professional experience required, or equivalent combination of education and experience.\n\u2022 Rising Senior/Graduate student pursuing a degree in Information Technology, Computer Science, Information Systems, Business, Engineering, or a related field.\n\u2022 Interest in ServiceNow, IT Service Management (ITSM), technology operations, or enterprise platforms.\n\u2022 Exposure to programming or scripting languages such as JavaScript, Python, Java, or similar technologies.\n\u2022 Coursework or project experience involving software development, databases, analytics, process improvement, or technology management.\n\u2022 Familiarity with Agile, project management, or collaborative team projects.\n\u2022 Experience with Microsoft Excel, Power BI, or data analysis tools is a plus.\n\u2022 Strong problem-solving, communication, and organizational skills.\n\u2022 Curiosity, initiative, and a willingness to learn new technologies and business processes.\n\nWe don't expect you to be an expert and know everything. We are looking for someone who is curious, eager to learn, and excited to grow their skills.\n\nEEO Statement\n\nMaximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.\n\nPay Transparency\n\nMaximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.\n\nAccommodations\n\nMaximus provides reasonable accommodations to individuals requiring assistance during any phase of the employment process due to a disability, medical condition, or physical or mental impairment. If you require assistance at any stage of the employment process-including accessing job postings, completing assessments, or participating in interviews,-please contact People Operations at applicantaccom@maximus.com.\n\nMinimum Salary\n\n$\n\n28.00\n\nMaximum Salary\n\n$\n\n30.00\n\nDescription & Requirements\n\nThe ServiceNow platform sits at the center of how we deliver and improve technology services across the enterprise. As a ServiceNow & IT Service Management Intern, you will work with the team responsible for keeping those services running efficiently, improving user experiences, and ensuring the technology environment is accurately represented through our Configuration Management Database (CMDB).\n\nThis is not a \"shadow and observe\" internship. You will contribute to real initiatives that support service delivery, platform operations, reporting, data quality, and process improvement. Working alongside ServiceNow administrators, process owners, architects, and IT leaders, you'll gain exposure to how a large enterprise manages incidents, requests, knowledge, changes, assets, and configuration data at scale.\n\nYou'll learn how technology services are delivered behind the scenes, how data drives operational decisions, and how platforms like ServiceNow help organizations automate work, reduce complexity, and improve outcomes. Whether your interests are in technology operations, process design, platform administration, data analytics, or digital transformation, this internship provides hands-on experience with tools and practices used by enterprise IT organizations every day.\n\nBy the end of the internship, you will have a practical understanding of IT Service Management (ITSM), CMDB fundamentals, ServiceNow administration, reporting and analytics, workflow automation, and the role enterprise platforms play in delivering reliable technology services.\n\nSince 1975, Maximus has operated under its founding mission of Helping Government Serve the People, enabling citizens around the globe to successfully engage with their governments at all levels and across a variety of health and human services programs. Maximus delivers innovative business process management and technology solutions that contribute to improved outcomes for citizens and higher levels of productivity, accuracy, accountability and efficiency of government-sponsored programs. With more than 30,000 employees worldwide, Maximus is a proud partner to government agencies in the United States, Canada, Saudi Arabia, and the United Kingdom. For more information, visit https://www.maximus.com\n\nEssential Duties and Responsibilities:\n\u2022 Work on IT assignments of moderate difficulty under the direction of a more senior mentor to build a well-rounded skillset.\n\u2022 Escalate issues and questions to management, as necessary.\n\u2022 Participate in group discussions with peers or external groups to solution problems of moderate scope.\n\u2022 Participate in meetings to gain process knowledge and guidance on assigned projects.\n\u2022 Read, understand, and perform assignments within prescribed guidelines.\n\u2022 Approach challenges and create solutions with a critical thinking and customer service mindset.\n\u2022 Prepare standard reports and presentation materials.\n\u2022 Contribute ideas and recommendations to improve employee and customer experiences across IT services.\n\u2022 Assist with collecting, reviewing, and analyzing user feedback, satisfaction surveys, and service metrics.\n\u2022 Explore the use of AI, automation, and digital technologies to improve workflows, reporting, and service delivery.\n\u2022 Support process improvement initiatives that simplify experiences for users and support teams.\n\u2022 Participate in cross-functional projects focused on innovation, operational effectiveness, and service excellence.\n\u2022 Create reports, dashboards, and presentations that help communicate trends, insights, and opportunities for improvement.\n\u2022 Research emerging technologies, industry trends, and ServiceNow capabilities and share findings with the team.\n\u2022 Collaborate with business and technical stakeholders to identify opportunities to enhance platform adoption and user engagement.\n\nMinimum Requirements\n\u2022 High school diploma or GED required and 0-2 years of relevant professional experience required, or equivalent combination of education and experience.\n\u2022 Rising Senior/Graduate student pursuing a degree in Information Technology, Computer Science, Information Systems, Business, Engineering, or a related field.\n\u2022 Interest in ServiceNow, IT Service Management (ITSM), technology operations, or enterprise platforms.\n\u2022 Exposure to programming or scripting languages such as JavaScript, Python, Java, or similar technologies.\n\u2022 Coursework or project experience involving software development, databases, analytics, process improvement, or technology management.\n\u2022 Familiarity with Agile, project management, or collaborative team projects.\n\u2022 Experience with Microsoft Excel, Power BI, or data analysis tools is a plus.\n\u2022 Strong problem-solving, communication, and organizational skills.\n\u2022 Curiosity, initiative, and a willingness to learn new technologies and business processes.\n\nWe don't expect you to be an expert and know everything. We are looking for someone who is curious, eager to learn, and excited to grow their skills.\n\nEEO Statement\n\nMaximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.\n\nPay Transparency\n\nMaximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.\n\nAccommodations\n\nMaximus provides reasonable accommodations to individuals requiring assistance during any phase of the employment process due to a disability, medical condition, or physical or mental impairment. If you require assistance at any stage of the employment process-including accessing job postings, completing assessments, or participating in interviews,-please contact People Operations at applicantaccom@maximus.com.\n\nMinimum Salary\n\n$\n\n28.00\n\nMaximum Salary\n\n$\n\n30.00",
+      "category": "Administrator",
+      "role_category": "Administrator",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
       "id": "19797b19053f",
       "title": "ServiceNow Designer Jobs",
       "company": "CyberCore Technologies",
@@ -230,6 +284,132 @@
       "country": "US",
       "is_remote": false,
       "description": "Job Title: Senior ServiceNow Software Development Engineer (Risk & Security)\n\nJob Category: Security\n\nTime Type: Full time\n\nMinimum Clearance Required to Start: TS/SCI with Polygraph\n\nEmployee Type: Regular\n\nPercentage of Travel Required: None\n\nType of Travel: None\n\n* * *\n\nThe Senior ServiceNow Software Development Engineer is a senior-level technical resource responsible for the hands-on development and deployment of enterprise-grade solutions. This role focuses on the end-to-end engineering of Integrated Risk Management (IRM) and Security Operations (SecOps) suites. Working within the framework established by the Solution Architect and Lead Engineer, you will translate functional requirements into robust code and high-performance automated workflows.\n\nPosition Responsibility:\n\nSecurity Suite Implementation: Perform the technical configuration and development of Security Incident Response (SIR), Vulnerability Response (VR), and Configuration Compliance (CC).\n\nAdvanced Automation Engineering: Build complex, event-driven automation using Flow Designer and Integration Hub to streamline security and compliance processes.\n\nData & Tool Integration: Engineer production-ready integrations with external security tools (e.g., Splunk, Tenable, Qualys) using REST/SOAP APIs, MID Servers, and Scripted REST APIs.\n\nRMF & CAM Engineering: Execute the technical requirements of the NIST Risk Management Framework (RMF) by building automated workflows for tasking and control testing within the CAM module.\n\nAdvanced Scripting & Logic: Develop and optimize server-side and client-side logic utilizing JavaScript, Script Includes, and Business Rules to ensure platform scalability.\n\nPlatform Security: Implement granular access controls via ACLs and Data Filtration to protect sensitive TS/SCI-level information.\n\nTechnical Quality Assurance: Utilize the Automated Test Framework (ATF) to validate all development work, ensuring solution quality across environments.\n\nRequired Qualifications:\n\nActive TS/SCI Clearance with Polygraph\nA Bachelor's Degree OR advanced degree in a related field\nA minimum of 5 years' technical experience\nSecurity+ (or equivalent IAT Level II) is required, or be obtained within one month of start\nExcellent oral and written communication skills\nExpert proficiency in GlideScripting, JavaScript, and Ajax\nDeep understanding of CMDB architecture and its relationship to Asset Management\nExperience working on complex ServiceNow projects where analysis of situations or data requires in-depth evaluation\nExperience with Security Data: Proven experience integrating data from at least one enterprise security source (e.g., SIEMs like Splunk/Sentinel, or Scanners like Tenable/Qualys/CrowdStrike) into the ServiceNow platform.\n\nDesired Qualifications:\n\nServiceNow Certified System Administrator and Certified Application Developer\nFunctional Expertise: Proven experience implementing at least one major security suite:\nSecOps: Security Incident Response, Vulnerability Response, or Configuration Compliance\nIRM/GRC: Policy & Compliance, Risk Management, or CAM (Continuous Authorization and Monitoring)\nFramework Knowledge: Technical familiarity with the NIST Risk Management Framework (RMF) or 800-53 controls\nFamiliarity with Git-based development, Automated Test Framework (ATF), or Now Assist AI/ML integration\nKnowledge of at least one operating system: Linux, Unix, Windows\nStrong technical background in Cloud Architecture\n\nThis position is contingent on funding and may not be filled immediately. However, this position is representative of positions within CACI that are consistently available. Individuals who apply may also be considered for other positions at CACI.\n\nWhat You Can Expect:\n\nA culture of integrity.\n\nAt CACI, we place character and innovation at the center of everything we do. As a valued team member, you'll be part of a high-performing group dedicated to our customer's missions and driven by a higher purpose - to ensure the safety of our nation.\n\nAn environment of trust.\n\nCACI values the unique contributions that every employee brings to our company and our customers - every day. You'll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.\n\nA focus on continuous growth.\n\nTogether, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground - in your career and in our legacy.\n\nPay Range :\n\nThere are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits.\n\nThe proposed salary range for this position is:\n$103,800 - $218,100\n\nCACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "da064c87564d",
+      "title": "ServiceNow Lead Developer - 100% Remote",
+      "company": "Logisoft Technologies Inc",
+      "location": "Washington, US",
+      "link": "https://us.jobrapido.com/jobpreview/867878682457276416",
+      "source": "JSearch",
+      "posted": "2026-10-23T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": true,
+      "description": "\u2022 Lead ServiceNow development activities, including design reviews, code reviews, and deployment planning.\n\n\u2022 Design and develop solutions leveraging ServiceNow platform capabilities, including ITSM, CMDB, CSDM, ITOM, ITAM/HAM, CSM, and HRSD.\n\n\u2022 Develop and optimize Client Scripts, Business Rules, Script Includes, UI Policies, and Flow Designer workflows.\n\n\u2022 Architect and implement integrations using Integration Hub, REST APIs, SOAP services, and MID Servers.\n\n\u2022 Establish and maintain CMDB governance, Discovery schedules, data reconciliation rules, and CSDM alignment.\n\n\u2022 Collaborate with business stakeholders, architects, and product owners to translate requirements into technical solutions.\n\n\u2022 Support platform upgrades, release management activities, and Automated Test Framework (ATF) implementation.\n\n\u2022 Provide technical mentoring and guidance to developers, administrators, and support teams.\n\n\u2022 Troubleshoot and resolve complex production issues and performance bottlenecks.\n\n\u2022 Ensure adherence to ServiceNow development standards and best practices.\n\nHello Connection,\n\nRole: ServiceNow Lead Developer\nLocation: Remote\n\nExperience: 13+ years\n\nKey Responsibilities\n\n\u2022 Lead ServiceNow development activities, including design reviews, code reviews, and deployment planning.\n\n\u2022 Design and develop solutions leveraging ServiceNow platform capabilities, including ITSM, CMDB, CSDM, ITOM, ITAM/HAM, CSM, and HRSD.\n\n\u2022 Develop and optimize Client Scripts, Business Rules, Script Includes, UI Policies, and Flow Designer workflows.\n\n\u2022 Architect and implement integrations using Integration Hub, REST APIs, SOAP services, and MID Servers.\n\n\u2022 Establish and maintain CMDB governance, Discovery schedules, data reconciliation rules, and CSDM alignment.\n\n\u2022 Collaborate with business stakeholders, architects, and product owners to translate requirements into technical solutions.\n\n\u2022 Support platform upgrades, release management activities, and Automated Test Framework (ATF) implementation.\n\n\u2022 Provide technical mentoring and guidance to developers, administrators, and support teams.\n\n\u2022 Troubleshoot and resolve complex production issues and performance bottlenecks.\n\n\u2022 Ensure adherence to ServiceNow development standards and best practices.\n\nRequired Qualifications\n\n\u2022 10+ years of hands\u2011on ServiceNow development and administration experience.\n\n\u2022 3+ years of experience leading ServiceNow development teams or projects.\n\n\u2022 Strong expertise in JavaScript, Glide API, Service Portal, App Engine, Flow Designer, and Integration Hub.\n\n\u2022 Proven experience with ITSM, CMDB, and CSDM.\n\n\u2022 Hands\u2011on experience with at least two additional ServiceNow modules such as ITOM, ITAM/HAM, CSM, HRSD, SPM, or SecOps.\n\n\u2022 Experience designing and implementing REST/SOAP integrations and MID Server configurations.\n\n\u2022 Strong understanding of Agile/Scrum methodologies and ITIL processes.\n\n\u2022 Experience with ServiceNow upgrades, release management, and governance.\n\nPreferred Certifications\n\n\u2022 ServiceNow Certified System Administrator (CSA)\n\n\u2022 ServiceNow Certified Application Developer (CAD)\n\n\u2022 Certified Implementation Specialist (CIS) ITSM, CMDB, Discovery, or HAM\n\n\u2022 ITIL v4 Foundation\n\nAbout Company\nWe represent Logisoft Technologies, Inc. with pride; We present ourselves as a premiere Technology, Consulting, Product Development, and Software Services Company.\n\nOur Head Office is located in South Plainfield, NJ, and Our Offices location is in Hyderabad, INDIA & Accra, GHANA.\n\nWe are Microsoft Official Partners - A Microsoft Certified Partner that helps customers with a range of IT projects and specific IT solutions.\n\nWe started our journey in the year 2008. In the past 16+ years, we have acquired the trust of many IT market leaders.\n\nLOGISOFT Technologies is committed to a policy of Equal Employment Opportunity and will not discriminate against an applicant or employee on the basis of age, sex, sexual orientation, race, color, creed, national origin, ancestry, disability, marital status, or any other legally protected basis under federal, state or local law.\n\nEmployers have access to artificial intelligence language tools (\u201cAI\u201d) that help generate and enhance job descriptions and AI may have been used to create this description. The position description has been reviewed for accuracy and Dice believes it to correctly reflect the job opportunity.\n\n#J-18808-Ljbffr",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "6e0c0e083a05",
+      "title": "ServiceNow Developer with Security Clearance",
+      "company": "IntelliDyne, LLC",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/servicenow-developer-with-security-clearance--washington--eb57a095893f00eba51b209f035a8d1b0",
+      "source": "JSearch",
+      "posted": "2026-10-23T00:00:00.000Z",
+      "salary": 85000,
+      "country": "US",
+      "is_remote": false,
+      "description": "ServiceNow Developer Location: Washington, DC (Hybrid 3 onsite/2 remote) Clearance: Active Secret (TS Preferred) Type: Exempt About This Role A ServiceNow Developer is needed to support a mission\u2011focused federal program in Washington, DC. This fully onsite role involves designing, developing, and enhancing ServiceNow applications and integrations in a secure environment. An active Secret clearance is required on day one.\n\nResponsibilities\n\n\u2022 Design, develop, and customize ServiceNow applications, modules, and workflows.\n\n\u2022 Build and maintain scripts, UI policies, business rules, client scripts, and automation.\n\n\u2022 Develop integrations using REST/SOAP APIs and other data exchange methods.\n\n\u2022 Support upgrades, patches, and platform enhancements.\n\n\u2022 Collaborate with stakeholders to gather requirements and translate them into technical solutions.\n\n\u2022 Troubleshoot issues, optimize performance, and ensure platform security and compliance.\n\n\u2022 Maintain documentation and support end users as needed.\n\nRequired Qualifications\n\n\u2022 Active Secret clearance (TS preferred).\n\n\u2022 3+ years of hands\u2011on ServiceNow development experience.\n\n\u2022 Bachelor in computer science or related field.\n\n\u2022 Strong proficiency with JavaScript, Glide API, Flow Designer, and ServiceNow scripting.\n\n\u2022 Experience with ServiceNow modules such as ITSM, CMDB, and Service Catalog.\n\n\u2022 Familiarity with ITIL processes and secure federal environments.\n\n\u2022 Ability to work onsite in Washington, DC.\n\nPreferred Qualifications\n\n\u2022 ServiceNow Certified Application Developer (CAD) or System Administrator (CSA).\n\n\u2022 Experience with ServiceNow integrations, MID Server, and Discovery.\n\n\u2022 Background supporting federal agencies or classified environments\n\nSalary: $85,000 \u2013 $165,000\n\nAbout Us\n\nIntelliDyne, LLC empowers government organizations through the delivery of quality, mission-aligned services and innovative, people-first IT solutions. IntelliDyne has earned the designation of a Top Workplace by providing an inclusive and supportive environment where employees have a voice and are challenged to provide innovative solutions to our clients of national, state, and local importance. For individuals with disabilities who would like to request an accommodation, please contact or 703-575-9715.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "ee07bde8eb22",
+      "title": "Senior ServiceNow Developer: AWS, Kafka",
+      "company": "GCyber",
+      "location": "Washington, US",
+      "link": "https://us.trabajo.org/job-2283-9bda7775844bb3118935b708961758bf",
+      "source": "JSearch",
+      "posted": "2026-10-23T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "GCyber is seeking a Senior ServiceNow Developer to lead the design and development of a custom ServiceNow application integrated with an AWS-enabled environment. You will translate operational requirements into technical designs, build complex capabilities, and guide other developers.\n\nThe role requires advanced JavaScript skills, hands-on ServiceNow development, and experience with AWS, Kafka, and Elasticsearch.\nJ-18808-Ljbffr",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "32942e42fc2b",
+      "title": "Senior ServiceNow Solutions Architect \u2014 Hybrid",
+      "company": "SmallArc Inc",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/senior-servicenow-solutions-architect-hybrid--washington--efdc6399111220ecf4ff58d4595335d46",
+      "source": "JSearch",
+      "posted": "2026-10-23T00:00:00.000Z",
+      "salary": 120000,
+      "country": "US",
+      "is_remote": false,
+      "description": "SmallArc Inc in Washington, DC is seeking a Senior ServiceNow Developer to design and deliver technical solutions within the ServiceNow environment. The role focuses on enterprise-scale ITSM development, integrations, and catalog design, with a hybrid work model in the Washington, DC area.\n\nYou will collaborate with ITSM teams and stakeholders, implement CMDB and CSDM standards, and ensure data security and platform scalability.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "01e62fbb66ec",
+      "title": "ServiceNow Admin/Developer 2 - Self-Hosted Upgrades",
+      "company": "Avid Technology Professionals, LLC",
+      "location": "US",
+      "link": "https://www.jobleads.com/us/job/servicenow-admin-developer-2-self-hosted-upgrades--maryland--ef230d26d5f85212778c7186f7de3af4a",
+      "source": "JSearch",
+      "posted": "2026-10-23T00:00:00.000Z",
+      "salary": 90000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Avid Technology Professionals, LLC in Annapolis Junction, MD is seeking a ServiceNow Administrator/Developer to join our IT team. The ideal candidate has at least 2 years of hands-on experience administering and developing on the ServiceNow platform, with strong Linux/UNIX troubleshooting skills and web technologies such as HTML, XML, and CSS.\n\nResponsibilities include managing a self-hosted ServiceNow instance, performing upgrades, reviewing processes for efficiency, and mentoring junior staff.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "3b8fe700907d",
+      "title": "Hybrid ServiceNow CMDB Engineer \u2014 Top Secret Eligible",
+      "company": "Lightfeather Io Llc",
+      "location": "Alexandria, US",
+      "link": "https://www.jobleads.com/us/job/hybrid-servicenow-cmdb-engineer-top-secret-eligible--alexandria--e97f9c70e269b33bdfdc954f273a4edfc",
+      "source": "JSearch",
+      "posted": "2026-10-23T00:00:00.000Z",
+      "salary": 180000,
+      "country": "US",
+      "is_remote": false,
+      "description": "LightFeather is seeking a ServiceNow Developer to support a growing federal program. The role involves designing, building, and optimizing ServiceNow solutions across CMDB, ITSM, Service Catalog, and custom applications, in a fast-paced, client-facing environment.\n\nIdeal candidates will have 5+ years of hands-on ServiceNow experience, CAD certification, and strong collaboration with stakeholders to translate business needs into scalable technical solutions. Hybrid work in Washington, D.C.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "7f8fba5e9e7b",
+      "title": "Remote ServiceNow SAM Developer-ITAM & Integrations Expert",
+      "company": "Zachary Piper Solutions",
+      "location": "",
+      "link": "https://www.jobleads.com/us/job/remote-servicenow-sam-developer-itam-integrations-expert--westphalia--e405b294e416f961bfa0832c14c134d28",
+      "source": "JSearch",
+      "posted": "2026-10-23T00:00:00.000Z",
+      "salary": 150000,
+      "country": null,
+      "is_remote": true,
+      "description": "Zachary Piper Solutions is seeking a ServiceNow SAM Developer to support a federal modernization initiative for the Air Force District of Washington and the Department of the Air Force. This remote role may require occasional travel to Andrews AFB, MD.\n\nYou will design, develop, and maintain ServiceNow SAM Pro and related ITAM capabilities, automate asset lifecycle processes, and integrate enterprise systems to improve compliance and efficiency.",
       "category": "Developer",
       "role_category": "Developer",
       "is_agency_lead": false,
@@ -360,6 +540,24 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "1e3add96fd87",
+      "title": "ServiceNow Developer - TS/SCI Poly | Govt IT Modernization",
+      "company": "Shield Consulting Solutions, Inc.",
+      "location": "Linthicum Heights, US",
+      "link": "https://www.jobleads.com/us/job/servicenow-developer-ts-sci-poly-govt-it-modernization--linthicum--e5176cb7b2433d1b18d27fbd1b6ab1ebd",
+      "source": "JSearch",
+      "posted": "2026-10-22T00:00:00.000Z",
+      "salary": 190000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Shield Consulting Solutions, Inc. is seeking a security-cleared IT professional to support agency modernization efforts. You will help consolidate disparate capabilities into a centralized ServiceNow suite, updating policies and procedures to reflect the new operational model.\n\nThe role requires active TS/SCI w/Polygraph, 12+ years IT experience or equivalent, and a technical bachelor\u2019s degree. This is a full-time, on-site position in Linthicum, MD with a robust benefits package.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
       "status": "active"
     },
     {
@@ -3348,7 +3546,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0662f304c43b",
@@ -3364,7 +3562,7 @@
       "description": "Join a team where innovation meets mission. Our AI, cloud, cyber, and modernization solutions save agencies thousands of hours, safeguard national security, and strengthen health and humanitarian missions worldwide. With 1,700+ team members, 1,500+ AI/data experts, and 100+ prime contracts, we deliver at scale and with purpose.\n\nWe've been recognized as a Top Workplace by the Washington Post for six straight years and named to the Inc. 5000 Fastest Growing Private Companies 13 of the past 14 years. Credence is a welcoming home for those looking to grow and contribute to positive change. We encourage all employees to expand beyond their boundaries, dive into important world-changing Federal challenges.\n\nCredence has an immediate need for a Senior ServiceNow Developer who will assist in solutioning and development of applications leveraging ServiceNow OOTB modules and customization as necessary to ensure the required business outcomes are delivered. The person will assist in the technical solution and development / implementation of solutions that leverage ServiceNow modules in custom scoped application development to migrate legacy applications to the DLA Enterprise ServiceNow platform. As a Senior ServiceNow Developer, you will deliver products and services defined throughout the lifecycle of the project and resolve post-production deficiencies. You will also manage and participate in designing and developing solutions using various ServiceNow modules and features including CSM, S2P, APO, Integration Hub, Flows, Business Rules, Script Includes, Service Catalog, Service Portal, Asset Management, CMDB, AI Agents, and other ServiceNow modules, as required.\n\nResponsibilities\n\u2022 Ensure development aligns with ServiceNow design patterns and best practices and is reusable, reliable, and adaptive\n\u2022 Understanding business context and processes to translate business and functional requirements into a sustainable ServiceNow implementation\n\u2022 Ensure that platform capabilities are efficiently and effectively utilized to drive expected business outcomes\n\u2022 Requirements elicitation, design, development, testing, training, and implementation support\n\u2022 Manage ServiceNow solution design, development, testing, and go-live support\n\u2022 Work with technical subject matter experts (SMEs) to identify and refine data requirements\n\u2022 Work closely with the ServiceNow technical team to convert requirements into design and migration steps\n\u2022 Understanding business context and how to translate business and functional requirements into a sustainable ServiceNow implementation\n\u2022 Ability to maintain and develop scoped applications\n\u2022 Working with project resources to define sustainment governance and processes as part of operational transition\n\u2022 Provide guidance to convert requirements into design and migration steps\n\u2022 Proficient with business rules, script includes, client scripts, UI policies, UI actions, flow designer, and notifications\n\nRequirements\n\u2022 7-10+ years of ServiceNow experience\n\u2022 US Citizenship with ability to obtain a secret clearance is required\n\u2022 BS in Computer Science, Information Systems, Engineering, Business, or related discipline\n\u2022 Solid understanding of ServiceNow design patterns, best practices, architecture, data model, and core concepts\n\u2022 Solid understanding of ACLs\n\u2022 Fosters a customer-focused environment\n\u2022 Communicates effectively to a wide variety of audiences at all organizational levels in government\n\u2022 Eliminates obstacles, gets results, have a clear, positive, and direct impact on business performance\n\u2022 A problem solver and critical thinker\n\u2022 Prior experience participating in the full Software Development Life Cycle (SDLC), including analysis, design, coding, testing, and promotion into production\n\u2022 Proficient in AngularJS, Javascript, HTML, CSS and XM\n\nSalary Range: $150,000 - $175,000 annually. Actual compensation will be determined based on the selected candidate's experience, education, certifications, skills, and overall qualifications.\n\nBenefits\n\u2022 Health Care Plan (Medical, Dental & Vision)\n\u2022 Retirement Plan (401k, IRA)\n\u2022 Life Insurance (Basic, Voluntary & AD&D)\n\u2022 Paid Time Off (Vacation, Sick & Public Holidays)\n\u2022 Family Leave (Maternity, Paternity)\n\u2022 Short Term & Long Term Disability\n\u2022 Training & Development\n\u2022 Free Food & Snacks\n\u2022 Wellness Resources",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active",
+      "status": "archived",
       "is_agency_lead": false,
       "agency_badge": ""
     },
@@ -3382,7 +3580,7 @@
       "description": "GCyber is hiring a ServiceNow Developer to support a high-profile Air Force communications program and its security operations center. This full-time onsite role at Joint Base Andrews, MD requires building workflows, dashboards, and modules for incident, change, asset management, and IT project delivery.\n\nThe candidate will develop across ITSM, ITBM, ITAM and provide training support, with a DoD SECRET clearance and CAD certification.\n\n#J-18808-Ljbffr",
       "category": "Developer",
       "role_category": "Developer",
-      "status": "active",
+      "status": "archived",
       "is_agency_lead": false,
       "agency_badge": ""
     },
@@ -3402,7 +3600,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c877c182644b",
@@ -3420,7 +3618,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "633561230ac7",
@@ -3438,7 +3636,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "dbfa66ca74b9",
@@ -3456,7 +3654,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "769ef1b6092c",
@@ -3474,7 +3672,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f08d64976c59",
@@ -3492,7 +3690,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7dd59cbe18e5",
@@ -3510,7 +3708,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bfda844da24a",
@@ -3528,7 +3726,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b25bbfa957ed",
@@ -3546,7 +3744,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "80dc3d54a1e2",
@@ -3564,7 +3762,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f7e4f31af02f",
@@ -3582,7 +3780,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e389bc6d8235",
@@ -3600,7 +3798,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a0437ce48738",
