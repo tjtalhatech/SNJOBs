@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:27:16.742913Z",
+  "updated_at": "2026-10-31T23:01:59.277182Z",
   "count": 1477,
   "jobs": [
     {
@@ -3348,7 +3348,7 @@
       "role_category": "Administrator",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "984abb8a859e",
@@ -3366,7 +3366,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6e37aa9767ac",
@@ -3384,7 +3384,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c45b2e9ea18a",
@@ -3402,7 +3402,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2c0c1d0bfe90",
@@ -3420,7 +3420,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e99885b9c6b8",
@@ -3438,7 +3438,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2bc540dc0300",
@@ -3456,7 +3456,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "cd889f1c6efe",
@@ -3474,7 +3474,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "23c233577a95",
@@ -3492,7 +3492,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ee209707f185",
@@ -3510,7 +3510,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "077c3189d6e2",
