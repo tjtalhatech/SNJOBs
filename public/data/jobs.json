@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-04T15:57:48.184825Z",
-  "count": 1526,
+  "updated_at": "2026-11-05T16:10:00.093672Z",
+  "count": 1536,
   "jobs": [
+    {
+      "id": "f377c6e939f5",
+      "title": "ServiceNow Architect (AI + CSDM + Automation)",
+      "company": "Govcio LLC",
+      "location": "Camp Springs, US",
+      "link": "https://jobs.womenforhire.com/job/usa/camp-springs-md/servicenow-architect-ai-csdm-automation-372392/",
+      "source": "JSearch",
+      "posted": "2026-11-04T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Overview:\n\nGovCIO is currently hiring a ServiceNow Architect (AI + CSDM + Automation) with an active Secret clearance to integrate security practices into software development and infrastructure operations by automating secure delivery pipelines, compliance controls, vulnerability management, and deployment processes. This role is based in Arlington, VA, as a hybrid/remote position.\nResponsibilities:\n\nResponsibilities:\n\u2022 Design scalable ServiceNow solutions aligned to enterprise architecture goals\n\u2022 Lead implementation of ITSM, ITOM, ITAM, SPM, CMDB, and automation capabilities\n\u2022 Architect CSDM-based service models and CMDB structures\n\u2022 Implement ServiceNow AI capabilities, predictive intelligence, and virtual agents\n\u2022 Automate workflows and improve operational efficiency\n\u2022 Define platform governance, integrations, and development standards\n\u2022 Support roadmap planning and platform maturity assessments\n\u2022 Integrate ServiceNow with enterprise systems and cloud environments\nQualifications:\n\nQualifications:\n\nBachelor's with 12+ years of infrastructure/cloud engineering experience (or commensurate experience)\n\nRequired Skills and Experience:\n\u2022 8\u201312+ years of ServiceNow experience\n\u2022 Expertise in ServiceNow platform architecture\n\u2022 Strong understanding of the CSDM framework\n\u2022 Experience in CMDB design and governance\n\u2022 Proficiency in workflow automation\n\u2022 Experience with ServiceNow AI and NowAssist\n\u2022 Hands-on expertise with Integration Hub and APIs\n\u2022 Knowledge of ITIL processes\n\u2022 Experience in JavaScript development\n\u2022 ITOM discovery and automation\n\nPreferred Skills and Experience:\n\u2022 Certified Technical Architect (CTA) preferred\n\u2022 Certified Application Developer\n\u2022 Certified Implementation Specialist\n\u2022 ITIL Foundation\n\nClearance Required: Must have an active Secret clearance and be able to attain DEA suitability\nPosted Salary Range: USD $151,000.00 - USD $235,000.00 /Yr.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
     {
       "id": "dc3f6f07bbc1",
       "title": "ServiceNow AI Architect",
@@ -129,6 +147,42 @@
       "status": "active"
     },
     {
+      "id": "97cef8fd6e90",
+      "title": "Senior ServiceNow Admin - ITSM/HRSD/S2P (Onsite DC)",
+      "company": "Machine Learning Technologies, LLC",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/senior-servicenow-admin-itsm-hrsd-s2p-onsite-dc--washington--eaf7ce0d42f1e5e61b1386672931bf8ce",
+      "source": "JSearch",
+      "posted": "2026-11-03T00:00:00.000Z",
+      "salary": 95000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Machine Learning Technologies, LLC seeks a senior ServiceNow Administrator to own and evolve the DCPS ServiceNow instance across ITSM, HRSD, Source-to-Pay, and ITAM-like areas. You will configure forms, catalogs, workflows, and integrations, while maintaining best practices and upgrade readiness.\n\nCollaborate with stakeholders to translate business needs into technical solutions, perform ongoing maintenance, and document capabilities for compliance and audits.",
+      "category": "Administrator",
+      "role_category": "Administrator",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "52d5e5be54f2",
+      "title": "Senior ServiceNow Developer \u2013 Onsite (DC Area)",
+      "company": "Dhaka Technology Limited",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/senior-servicenow-developer-onsite-dc-area--washington--ecdef04340fd23c257393eccabee6017a",
+      "source": "JSearch",
+      "posted": "2026-11-03T00:00:00.000Z",
+      "salary": 110000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Dhaka Technologies Limited Company (DTLC) is hiring a Sr. ServiceNow Developer to support DC Public Schools.\n\nYou will administer the DCPS ServiceNow instance, configuring ITSM, HRSD, S2P, ITAM, and related modules while ensuring upgrade readiness. This role requires strong platform fundamentals, enterprise workflow experience, and collaboration with non-technical stakeholders across a large public-sector organization.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
       "id": "3d8fe4997bbb",
       "title": "ServiceNow Technical Consultant - SPM",
       "company": "Insight Communications",
@@ -232,6 +286,24 @@
       "description": "Job Description Job Description\nSenior ServiceNow Technical Consultant\nMinimum qualifications:\n\n\u2022 Bachelor's degree in a related field.\n\n\u2022 U.S. DoD Secret Clearance or higher.\n\n\u2022 Current ServiceNow Certified System Administrator certification.\n\u2022 Configuration experience with ServiceNow ITSM or ITBM applications.\n\n\u2022 Experience with Business Rules, Script Includes, UI Actions, Scheduled Jobs (all scripted aspects of the ServiceNow system).\n\n\u2022 Experience in designing, configuring and implementing business applications.\n\n\u2022 Experience in building and enhancing applications through the entire lifecycle (analyze, design, build, test, implement and support).\n\nPreferred qualifications:\n\n\u2022 Strong understanding of core software engineering, system design and integration\n\n\u2022 Create and manage scripts and workflow.\n\n\u2022 Experience with relational databases (e.g. MySQL, Oracle, etc.)\n\n\u2022 Experience with ServiceNow client and server-side JavaScript and the ServiceNow APIs\n\n\u2022 Scripted Web-Services, AJAX, Business Rules, JavaScript, SOAP, REST SSO-SAML Setup and Integration of ServiceNow to Other Applications\n\n\u2022 Experience working with cross-functional engineering teams.\n\n\u2022 Ability to manage ambiguity and a rapidly changing landscape.\n\n\u2022 Excellent analytical and communication skills.\n\n\u2022 Working knowledge of SDLC concepts and ability to apply that knowledge daily. Agile experience highly preferred.\n\nAbout the job\n\nAt DTech Apps by Discover Technologies, we work at the speed of Now. We will leverage your technical expertise to build business applications and design features that improve the reliability of our applications.\n\nAs a Technical Consultant, you will have the opportunity to provide solutions that enable our customers to perform work more efficiently. You will formulate recommended system design, partnering with external technology partners, our customers, and the internal product teams. As a product expert, you will also influence end-to-end solution design to solve business problems using industry best practices.\n\nWe are a unique digital transformation, product and consulting organization that spends every day thinking about ways to improve the lives of the modern global workforce. We enable our enterprise customers to maximize and extend their investment in technology through our innovative products and solutions. You will be working with a team of highly skilled experts in their respective fields to improve the way government agencies and businesses optimize work performance.\n\nResponsibilities\n\n\u2022 Configure and implement ServiceNow scoped applications based on user stories as requirements.\n\n\u2022 Conduct unit testing and deployment of functionality in ServiceNow based applications.\n\n\u2022 Conduct operations, maintenance, and troubleshooting activities for production ServiceNow scoped applications.\n\n\u2022 Function as an application subject-matter-expert for the DTech Apps Suite of applications.\n\n\u2022 Engage with customers in both a structured and unstructured manner to understand their business problems and communicate cross-functionally across both customer and internal teams.\n\n\u2022 Define, design, and implement business solutions.\n\nDiscover Technologies is an Equal Opportunity employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.",
       "category": "Consultant",
       "role_category": "Consultant",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "449aff802508",
+      "title": "ServiceNow Senior Developer (Federal) TS/SCI Onsite 3x/wk",
+      "company": "Accenture Federal Services",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/servicenow-senior-developer-federal-ts-sci-onsite-3x-wk--washington--e2aa3087851517f2d51962fe522b145d7",
+      "source": "JSearch",
+      "posted": "2026-11-02T00:00:00.000Z",
+      "salary": 117000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Accenture Federal Services seeks a senior ServiceNow Developer to architect and lead complex platform solutions across ITSM, ITOM, ITBM, and SecOps. You will mentor teams, set coding standards, and ensure alignment with federal security requirements within Agile delivery.\n\nYou will design integrations via REST/SOAP, MID Server, and IntegrationHub, build advanced workflows and CMDB configurations, and collaborate with architects and business analysts to translate requirements into scalable",
+      "category": "Developer",
+      "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -363,6 +435,24 @@
       "status": "active"
     },
     {
+      "id": "8715f52272c0",
+      "title": "ServiceNow - ServiceNow Industry Workflow Architect - Tech Cons - Open Location",
+      "company": "EY",
+      "location": "Arlington, US",
+      "link": "https://www.linkedin.com/jobs/view/servicenow-servicenow-industry-workflow-architect-tech-cons-open-location-at-ey-4448077018",
+      "source": "JSearch",
+      "posted": "2026-11-01T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Location: Anywhere in Country\n\nAt EY, we\u2019re all in to shape your future with confidence.\n\nWe\u2019ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world.\n\nIn the digital economy, it takes more than good ideas and strong leadership to thrive. Upgrading outdated processes, systems and information is vital \u2013 but can be a risky investment in such a rapidly changing environment. That\u2019s why some of the most prestigious businesses worldwide look to us for authoritative, agile, and efficient solutions for business decision-making. As a ServiceNow Consulting Manager you\u2019ll play a leading role in that mission, providing the competitive edge our clients need to overcome some of the biggest creative and technical challenges around.\n\nThe opportunity\n\nWe are seeking a highly skilled and experienced ServiceNow Architect to join our team. The ServiceNow Architect will be the senior technical authority responsible for the design, architecture, and successful delivery of advanced ServiceNow solutions (such as Banking Operations, Customer Servicing, Contact Center, Payments, Fraud, Complaints, Disputes) and regulated servicing use cases within Financial Services organizations.\n\nThis role provides hands-on technical leadership, owning solution architecture across workflows, integrations, data, security, and performance. The Architect leads complex implementations, resolves advanced technical challenges, and ensures delivered solutions meet platform best practices, regulatory standards, and project outcomes. The Architect works closely with delivery teams, stakeholders, and customers to translate business requirements into robust, scalable, and secure technical architectures within the ServiceNow ecosystem.\n\nYour Key Responsibilities\n\nAs a Manager in Application Design and Development, you will lead the effective management and delivery of processes, solutions, and projects, ensuring a strong focus on quality and risk management. This role presents exciting challenges and opportunities for growth, allowing you to apply your expertise in guiding others and recommending quality solutions. You will engage regularly with external clients, actively participating in working sessions and leading workstreams from planning through execution and closure. Travel may be required as needed by external clients.\n\n\u2022 Develop solutions to complex problems, recommending changes to policies and establishing procedures that impact your work area.\n\u2022 Exercise judgment in selecting methods, techniques, and evaluation criteria for obtaining results.\n\u2022 Provide direction and feedback to team members, ensuring successful task completion.\n\nSkills And Attributes For Success\n\nHere, you\u2019ll serve a wide portfolio of clients - each with their own backgrounds, strengths, and ambitions, so no two days will be the same. Wherever you find yourself, you\u2019ll be making a visible impact on projects that cross borders and challenge conventional wisdom to encourage transformation.\n\nArchitecture & Design\n\n\u2022 Lead the end-to-end technical design of ServiceNow disputes solutions\n\u2022 Define technical architectures covering:\n\u2022 Case and workflow design\n\u2022 Integration and data flows\n\u2022 Security and access controls\n\u2022 Ensure solutions align with ServiceNow best practices, architectural standards, and platform capabilities\n\u2022 Own solution-level architectural decisions and trade-offs\n\u2022 Address complex and ambiguous technical challenges within the ServiceNow ecosystem\n\u2022 Act as escalation point for difficult:\n\u2022 Performance issues\n\u2022 Integration failures\n\u2022 Architectural constraints\n\u2022 Evaluate alternative designs and recommend optimal solutions based on technical feasibility and delivery impact\n\u2022 Continuously refine architectures based on lessons learned and evolving requirements\n\nImplementation Leadership & Delivery\n\n\u2022 Guide and oversee technical implementation activities across delivery teams\n\u2022 Provide hands-on leadership during critical design and build phases\n\u2022 Ensure architecture is translated accurately into configuration and code\n\u2022 Support teams in resolving complex build and deployment challenges\n\u2022 Partner with project leadership to ensure successful delivery outcomes\n\u2022 Identify and mitigate technical risks early in the delivery lifecycle\n\u2022 Drive resolution of complex technical issues that threaten timelines or quality\n\u2022 Balance speed of delivery with architectural integrity\n\u2022 Serve as a technical advisor during:\n\u2022 Solution design workshops\n\u2022 Customer technical discussions\n\u2022 Architecture and design reviews\n\u2022 Communicate technical concepts clearly to both technical and non-technical audiences\n\u2022 Collaborate closely with CMAs, solution architects from other workstreams, developers, and quality testers\n\nPlatform & Workflow Architecture\n\n\u2022 Architect advanced ServiceNow workflows using:\n\u2022 Case management and state-driven designs\n\u2022 Event-based and rules-driven orchestration\n\u2022 Long-running and high-volume transaction support\n\u2022 Optimize performance, scalability, and resilience for enterprise workloads\n\u2022 Design reusable technical patterns and implementation assets\n\nIntegration & Security Architecture\n\n\u2022 Lead technical architecture for integrations with:\n\u2022 Card networks and external processors\n\u2022 Core banking, fraud, and document systems\n\u2022 Third-party platforms and APIs\n\u2022 Define and implement secure integration patterns, including:\n\u2022 Synchronous and asynchronous flows\n\u2022 Data protection and tokenization strategies\n\u2022 Ensure technical designs meet security, privacy, and compliance requirements\n\nTo qualify for the role, you must have\n\n\u2022 A bachelor's degree, preferably in Computer Science, Information Systems Management, Engineering or similar discipline\n\u2022 Typically, no less than 4 - 6 years of relevant experience in IT including extensive experience with hands-on ServiceNow development or architectural capacities.\n\u2022 Certified Implementation Specialist - CSM\n\u2022 Extensive hands-on experience architecting and delivering ServiceNow solutions\n\u2022 Proven success leading technically complex implementations\n\u2022 Ability to lead technical discussions confidently with customers and stakeholders\n\u2022 Prior consulting experience\n\u2022 Excellent soft skills \u2013 executive communication (written/verbal), adaptability, problem solving, teamwork, relationship building, dependability, and organization\n\u2022 Experience leading teams and supervising others\n\u2022 A driver\u2019s license valid in the U.S.\n\u2022 Ability to travel 40-60% to meet client needs\n\nIdeally, you\u2019ll also have\n\n\u2022 ServiceNow Certified Technical Architect (CTA) \u2013 highly preferred\n\nWhat We Look For\n\nWe seek individuals who are not only technically proficient but also possess the qualities of emotional agility, digital fluency, and commercial acumen. Top performers demonstrate the ability to build trust and value with clients while leading teams through change and innovation.\n\nWhat We Offer You\n\nAt EY, we\u2019ll develop you with future-focused skills and equip you with world-class experiences. We\u2019ll empower you in a flexible environment, and fuel you and your extraordinary talents in a diverse and inclusive culture of globally connected teams. Learn more.\n\n\u2022 We offer a comprehensive compensation and benefits package where you\u2019ll be rewarded based on your performance and recognized for the value you bring to the business. The base salary range for this job in all geographic locations in the US is $142,600 to $261,500. The base salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $171,200 to $297,200. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options.\n\u2022 Join us in our team-led and leader-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in person 40-60% of the time over the course of an engagement, project or year.\n\u2022 Under our flexible vacation policy, you\u2019ll decide how much vacation time you need based on your own personal circumstances. You\u2019ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being.\n\nAre you ready to shape your future with confidence? Apply today.\n\nEY accepts applications for this position on an on-going basis.\n\nFor those living in California, please click here for additional information.\n\nEY focuses on high-ethical standards and integrity among its employees and expects all candidates to demonstrate these qualities.\n\nEY | Building a better working world\n\nEY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.\n\nEnabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.\n\nEY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.\n\nEY provides equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.\u202f\n\nEY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1-800-EY-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY\u2019s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
       "id": "d65b6ab8b600",
       "title": "ServiceNow Specialist, Configuration Management Database",
       "company": "Take2 Consulting, LLC",
@@ -430,6 +520,42 @@
       "description": "Location: Springfield Virginia (Remote)\n\nPosition Summary\n\u2022 We are seeking ServiceNow SMEs to support administration, engineering, optimization, integration, automation, and continual improvement of enterprise ITSM/ITOM capabilities.\n\nKey Responsibilities\n\u2022 Configure and administer ServiceNow ITSM/ITOM.\n\u2022 Support Incident, Problem, Change, Request, Knowledge, and Configuration Management.\n\u2022 Maintain and improve CMDB quality.\n\u2022 Develop workflows, automation, dashboards, and reports.\n\u2022 Support Discovery and Service Mapping.\n\u2022 Develop integrations with enterprise monitoring and management tools.\n\u2022 Troubleshoot platform and workflow issues.\n\u2022 Support continual service improvement.\n\nRequired Qualifications\n\u2022 7+ years of IT experience.\n\u2022 4+ years of ServiceNow experience.\n\u2022 Strong understanding of ITSM/ITOM and CMDB.\n\u2022 Experience with ServiceNow workflows, integrations, and automation.\n\nPreferred Certifications: ServiceNow CSA; CIS-ITSM, CIS-Discovery, CIS-Service Mapping.",
       "category": "Administrator",
       "role_category": "Administrator",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "a705bbab66f5",
+      "title": "Senior ServiceNow Developer - ITSM & Platform Upgrades",
+      "company": "General Dynamics Information Technology, Inc.",
+      "location": "Falls Church, US",
+      "link": "https://www.jobleads.com/us/job/senior-servicenow-developer-itsm-platform-upgrades--falls-church--e4c71059dfd0a73b83d7a5f19eff4cd90",
+      "source": "JSearch",
+      "posted": "2026-10-31T00:00:00.000Z",
+      "salary": 120000,
+      "country": "US",
+      "is_remote": false,
+      "description": "General Dynamics Information Technology, Inc. is seeking a Senior ServiceNow Developer to lead design and development across the ServiceNow platform in a Falls Church, VA environment.\n\nThe role emphasizes deep knowledge of ITSM modules, Now Assist, and platform enhancements. The ideal candidate will design forms, workflows, and integrations while collaborating with cross-functional teams to deliver high-quality solutions.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "4aafa769a2c4",
+      "title": "ServiceNow Architect: ITSM",
+      "company": "GoIntellects Inc.",
+      "location": "Washington, US",
+      "link": "https://us.trabajo.org/job-28662-20aafe2ba9cd00a36c2a46e838a2e776",
+      "source": "JSearch",
+      "posted": "2026-10-31T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "District of Columbia Government is seeking a ServiceNow Architect for a long-term government contract in Washington, DC. The role focuses on ITSM, ITAM, and change management across DC projects, with hands-on platform development and integrations to enterprise systems.\n\nResponsibilities include technical leadership, requirements analysis, and governance to ensure secure, scalable solutions. Interviews are in-person at the DC worksite.\nJ-18808-Ljbffr",
+      "category": "Other",
+      "role_category": "Other",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -558,6 +684,60 @@
       "role_category": "Platform Owner",
       "is_agency_lead": false,
       "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "a7c306f6675d",
+      "title": "ServiceNow Developer(Local DMV area only) (Min 16+ yrs exp)",
+      "company": "NextGen Solutions Corp",
+      "location": "Washington, US",
+      "link": "https://www.indeed.com/viewjob?jk=0cc23b525bfc5c17",
+      "source": "JSearch",
+      "posted": "2026-10-30T00:00:00.000Z",
+      "salary": 70,
+      "country": "US",
+      "is_remote": false,
+      "description": "Title: Sr. ServiceNow Developer\n\nLocation: Washington, DC 20002\n\nDuration: 12 Months+\n\nThis role will play a critical hands-on role in configuring, maintaining, and evolving ServiceNow to support district-wide business processes across multiple modules, including\u2014but not limited to\u2014 Source-to-Pay (S2P), Human Resources Service Delivery (HRSD), IT Service Management (ITSM), IT Asset Management (ITAM), and other modules. The ideal candidate brings strong platform fundamentals, experience supporting enterprise workflows, and the ability to partner effectively with non-technical stakeholders across a large public-sector organization. The ServiceNow Application Developer will ensure solutions are scalable, user-centered, secure, and aligned to DCPS operational priorities, while supporting continuous improvement of service delivery across central office and school-based teams.\n\nEssential Responsibilities\n\nThe ServiceNow Application Developer will:\n\n\u2022 Serve as a primary administrator for the DCPS ServiceNow instance, supporting day-to-day service operations and maintenance.\n\n\u2022 Configure and maintain ServiceNow applications, including forms, lists, workflows/flows, notifications and reporting.\n\n\u2022 Support development and enhancement activities across multiple ServiceNow modules, including ITSM, HRSD, S2P, and other modules available.\n\n\u2022 Design and maintain Service Catalog items and end-to-end workflows using Flow Designer, approvals, task routing, and notifications.\n\n\u2022 Collaborate with business stakeholders to gather requirements, translate business needs into technical solutions, and recommend platform-aligned approaches.\n\n\u2022 Coordinate with Office of Chief Technology officer (OCTO)for development, changes and support.\n\n\u2022 Ensure configurations follow ServiceNow best practices, prioritizing configuration over customization and maintaining upgrade readiness.\n\n\u2022 Troubleshoot platform issues, resolve defects, and support continuous improvement through analysis and refinement of existing processes.\n\n\u2022 Develop and maintain technical documentation, including configuration details, process flows, and user guidance.\n\n\u2022 Partner closely with internal IT teams, vendors, and ServiceNow partners as appropriate.\n\nMinimum Qualifications\n\n\u2022 Bachelor\u2019s degree in information technology, Computer Science, a related field, or equivalent professional experience.\n\n\u2022 Five or more years of hands-on ServiceNow administration experience, including\n\n\u2022 Ownership or co-ownership of a ServiceNow instance.\n\n\u2022 Strong foundational knowledge of the ServiceNow platform, including:\n\n\u2022 Forms, lists, tables, and dictionary configuration\n\n\u2022 Business Rules, Client Scripts, UI Policies, and UI Actions\n\n\u2022 Roles and Access Control Lists (ACLs)\n\n\u2022 Update sets and platform administration\n\n\u2022 Proficiency in JavaScript for ServiceNow scripting (business rules, client scripts, UI policies)\n\n\u2022 Demonstrated experience integrating ServiceNow with external systems via REST/SOAP APIs\n\n\u2022 ITIL Foundation certification or equivalent ITSM process knowledge\n\nPreferred Qualifications\n\n\u2022 ServiceNow Certified Application Developer (CAD) preferred\n\n\u2022 Experience with one or more ServiceNow application areas such as ITSM, HRSD, S2P, CSM, or SecOps.\n\n\u2022 Experience building or supporting system integrations using REST APIs, Integration Hub, and data imports.\n\n\u2022 Experience working in a public sector, K\u201312, education, or other highly regulated environment\n\nPay: $70.00 - $85.00 per hour\n\nExpected hours: 40.0 per week\n\nEducation:\n\n\u2022 Bachelor's (Preferred)\n\nExperience:\n\n\u2022 Hands-on ServiceNow administration : 10 years (Required)\n\n\u2022 integrating ServiceNow with external via REST/SOAP APIs: 10 years (Required)\n\n\u2022 Proficiency in JavaScript for ServiceNow scripting: 10 years (Preferred)\n\n\u2022 UI Policies, UIActions Roles and Access Control Lists (ACLs) : 10 years (Required)\n\n\u2022 ITSM, HRSD, S2P, CSM, or SecOps: 10 years (Required)\n\n\u2022 working in a public sector, K\u201312, education: 1 year (Preferred)\n\nLicense/Certification:\n\n\u2022 CAD Certification (Preferred)\n\n\u2022 ITIL Foundation (Preferred)\n\nWork Location: In person",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "934d94196434",
+      "title": "Senior ServiceNow Developer",
+      "company": "Quantum Technologies LLC",
+      "location": "Washington, US",
+      "link": "https://www.iitjobs.com/job/senior-servicenow-developer-washington-dc-usa-641538",
+      "source": "JSearch",
+      "posted": "2026-10-30T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "About This Role:\n\nThis hands-on role configures and evolves ServiceNow across modules including Source-to-Pay (S2P), HR Service Delivery (HRSD), IT Service Management (ITSM), and IT Asset Management (ITAM), delivering scalable, secure, user-centered solutions aligned to DCPS priorities.\n\nResponsibilities:\n\u2022 Serve as a primary administrator for the DCPS ServiceNow instance, supporting day-to-day service operations and maintenance\n\u2022 Configure and maintain ServiceNow applications: forms, lists, workflows/flows, notifications, and reporting\n\u2022 Support development and enhancement across multiple modules (ITSM, HRSD, S2P, and others)\n\u2022 Design and maintain Service Catalog items and end-to-end workflows using Flow Designer, approvals, task routing, and notifications\n\u2022 Collaborate with stakeholders to gather requirements and translate business needs into platform-aligned technical solutions\n\u2022 Ensure configurations follow ServiceNow best practices (configuration over customization) and maintain upgrade readiness\n\u2022 Troubleshoot platform issues, resolve defects, build REST/SOAP integrations, and maintain technical documentation\n\nQualifications:\n\u2022 Bachelor\u2019s degree in Information Technology, Computer Science, a related field, or equivalent professional experience\n\u2022 Five or more years of hands-on ServiceNow administration, including ownership or co-ownership of a ServiceNow instance\n\u2022 Strong platform fundamentals: forms, lists, tables, dictionary, Business Rules, Client Scripts, UI Policies, UI Actions, roles and ACLs, update sets\n\u2022 Proficiency in JavaScript for ServiceNow scripting; integration via REST/SOAP APIs\n\u2022 ITIL Foundation certification or equivalent ITSM process knowledge; able to work 100% onsite in Washington, DC and interview in person\n\u2022 Preferred: ServiceNow Certified Application Developer (CAD); ITSM/HRSD/S2P/CSM/SecOps; Integration Hub and data imports; public sector / K-12 / education experience\n\nRequired Skills:\n\u2022 ServiceNow platform administration and instance ownership\n\u2022 Application configuration (forms, lists, flows, catalog, notifications, reporting)\n\u2022 Multi-module support (ITSM, HRSD, S2P, and others)\n\u2022 JavaScript scripting (business rules, client scripts, UI policies)\n\u2022 System integration via REST/SOAP APIs and Integration Hub\n\u2022 Requirements gathering and stakeholder collaboration; technical documentation\n\u2022 *Software / tools:* ServiceNow (Flow Designer, ACLs, update sets), JavaScript, REST/SOAP, Integration Hub",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "cd30d4dfaa39",
+      "title": "ServiceNow ITSM Platform Lead",
+      "company": "World Wide Technology",
+      "location": "Washington, US",
+      "link": "https://www.theladders.com/job/servicenow-itsm-platform-lead-worldwidetechnology-washington-dc_89623441",
+      "source": "JSearch",
+      "posted": "2026-10-30T00:00:00.000Z",
+      "salary": 140000,
+      "country": "US",
+      "is_remote": false,
+      "description": "QUALIFICATIONS:\n\u2022 Possess or be capable of obtaining a Top Secret clearance when required, with classified duties performed only following Government verification and authorization.\n\u2022 Bachelor of Science degree in an approved discipline, including Information Systems, Information Technology, Management, Business Management, Engineering, or Computer Science.\n\u2022 Demonstrated experience managing ServiceNow projects and implementations, enabling effective coordination of technical delivery, platform configuration, and operational integration.\n\u2022 Strong knowledge of ITSM processes and ServiceNow platform capabilities, supporting technically sound workflow design, configuration management, and platform operations.\n\u2022 Demonstrated experience directing multidisciplinary teams and complex technical projects involving operational stakeholders, platform engineering, security, and service management.\n\u2022 Strong communication, stakeholder management, and problem-solving capabilities to resolve technical issues, explain implementation decisions, and coordinate Government requirements.\n\u2022 Have excellent written and verbal communication skills, demonstrating an ability to communicate effectively with people in both management and technical roles as well as customer personnel, as required.\n\u2022 Strong organization skills with an ability to adapt to a rapidly changing environment.\n\u2022 Experience working collaboratively across departments to identify requirements and dependencies.\n\u2022 Be self-motivated. Must be able to anticipate problems and take a proactive approach to responsibilities.\n\nPreferred locations: Chandler, AZ or Washington DC\n\nCertain states and localities require employers to post a reasonable estimate of salary range. A reasonable estimate of the current base pay range for this position is $140,000.00 to $155,000.00 annually. Actual salary will be based on a variety of factors, including shift, location, experience, skill set, performance, licensure and certification, and business needs. The range for this position in other geographic locations may differ. Certain positions may also be eligible for variable incentive compensation, such as bonuses or commissions, that is not included in the base pay.\n\nThe well-being of WWT employees is essential. So, when it comes to our benefits package, WWT has one of the best. We offer the following benefits to all full-time employees:\n\u2022 Health and Wellbeing: Health, Dental, and Vision Care, Onsite Health Centers, Employee Assistance Program, Wellness program\n\u2022 Financial Benefits: Competitive pay, Profit Sharing, 401k Plan with Company Matching, Life and Disability Insurance, Tuition Reimbursement\n\u2022 Paid Time Off: PTO and Sick Leave (starting at 20 days per year) & Holidays (10 per year), Parental Leave, Military Leave, Bereavement\n\u2022 Additional Perks: Nursing Mothers Benefits, Voluntary Legal, Pet Insurance, Employee Discount Program\n\n#LI-AH1\n\n#clearancejobs\n\nThis is a full-time direct hire position and you must possess or be capable of obtaining a Top Secret clearance. We are not able to offer visa sponsorship, 1099 status, or work with C2C for this role.\n\nLocation: Chandler, AZ or Washington, DC (fully on-site)\n\nWhat will you be doing?\n\nYou will be supporting the Department of Homeland Security (DHS) Information Technology infrastructure. As the ServiceNow ITSM Platform Lead, you will be responsible for integrating platform engineering, service management processes, workflow modernization, configuration management, and operational reporting within the Government-authorized ServiceNow environment. The Platform Lead will establish technical coordination between ServiceNow administrators, enterprise operational teams, Government stakeholders, and approved modernization activities. You will maintain technical governance over platform configuration, workflow design, Configuration Management Database (CMDB) data quality, service mapping, integration requirements, and authorized platform enhancements. Where appropriate, the Platform Lead will work with the alongside partners to use relationship modeling and infrastructure dependency analysis to support evaluation of configuration relationships and operational dependencies, without introducing unapproved integrations or altering authoritative Government records.\n\nRESPONSIBILITIES:\n\u2022 Coordinate ServiceNow project delivery from requirements definition through technical design, implementation, testing, acceptance, and operational sustainment.\n\u2022 Manage platform initiatives through documented requirements, Government-approved priorities, controlled technical changes, and measurable acceptance criteria.\n\u2022 Coordinate applicable Incident, Problem, Change, Knowledge, Service Catalog, Service Portal, CMDB, and Service Mapping capabilities to improve workflow consistency, operational traceability, and service management performance.\n\u2022 Provide integrated technical and project leadership for ServiceNow governance, engineering, implementation, stakeholder coordination, quality assurance, and continual service improvement.\n\u2022 Maintain visibility into delivery progress, technical risks, and dependencies affecting operational services.\n\u2022 Translating Government and operational stakeholder requirements into documented ServiceNow technical requirements, coordinating with affected task leads to validating workflow impacts, data requirements, and operational responsibilities.\n\u2022 Apply ITIL-aligned service management practices to design and refine authorized workflows.\n\u2022 Maintain configuration documentation, technical designs, work instructions, test results, implementation records, and operating procedures.\n\u2022 Coordinate ServiceNow capabilities throughout service design, transition, operations, and continual improvement.\n\u2022 Align platform functionality with the operational needs of the Network Operations Center (NOC), Enterprise Services and Tools Operations and Maintenance (ESTOM), Enterprise Email and Domain Management Lead (EEDM), and other supported task areas.\n\u2022 Validate workflow functionality, configuration accuracy, integration behavior, and data integrity through documented testing and quality reviews.\n\u2022 Identify deficiencies to be corrected before authorized production deployment.\n\u2022 Evaluate opportunities to improve workflow automation, CMDB accuracy, reporting, service mapping, and operational visibility.\n\u2022 Recommend improvements and coordination submissions to the Government's Innovation and Continuous Improvement and Government-Directed Modernization process.\n\u2022 Execute approved ServiceNow deployments using configuration control, testing, change authorization, implementation planning, rollback procedures, and operational validation.\n\u2022 Develop technical solution recommendations and level-of-effort estimates identifying engineering requirements, integration considerations, implementation risks, and expected operational benefits.\n\u2022 Coordinate ServiceNow technical activities with Government personnel and other authorized contractors to maintain consistent interfaces, shared operational procedures, and clearly defined responsibilities.\n\u2022 Provide quality-controlled implementation status, operational performance metrics, technical risk information, and recommendations to support Government oversight and decision-making.",
+      "category": "Platform Owner",
+      "role_category": "Platform Owner",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
       "status": "active"
     },
     {
@@ -3744,7 +3924,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "98274a9b2597",
@@ -3762,7 +3942,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b73a4fa3a72a",
@@ -3780,7 +3960,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1831f2025dd5",
@@ -3798,7 +3978,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3d62506388e9",
@@ -3816,7 +3996,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "656a71aff8e3",
@@ -3834,7 +4014,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a3b52a539dde",
@@ -3852,7 +4032,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b2fed2f34c56",
@@ -3870,7 +4050,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "73c19aa60fef",
@@ -3888,7 +4068,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "db295d271cc5",
