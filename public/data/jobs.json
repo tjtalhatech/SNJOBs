@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T14:46:28.722694Z",
-  "count": 1555,
+  "updated_at": "2026-11-10T16:06:48.145754Z",
+  "count": 1571,
   "jobs": [
     {
       "id": "a6dbcd4b5a34",
@@ -34,6 +34,96 @@
       "description": "<p style=\"text-align:start;\">For our client, a leading strategic ServiceNow partner, we are looking for experienced <strong>ServiceNow CRM Architects, Senior Consultants and CRM Specialists</strong> to join their growing international team.</p><p style=\"text-align:start;\">Our client is very well positioned within the ServiceNow ecosystem and is recognised as a leading partner in the CRM across international markets. They work with organisations on complex customer transformation initiatives, supporting them in the design and implementation of modern and innovative ServiceNow CRM solutions.</p><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\">We are particularly interested in speaking with experienced professionals who combine strong <strong>ServiceNow and CRM expertise</strong> with a strategic, consulting-oriented and customer-focused mindset.</p><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Your Responsibilities</strong></p><p style=\"text-align:start;\">Depending on your background and area of expertise, your responsibilities may include:</p><ul><li><p>Designing and developing <strong>ServiceNow CRM solutions and architectures</strong></p></li><li><p>Taking a leading role in the architecture, implementation and further development of ServiceNow CRM platforms</p></li><li><p>Advising customers on the optimisation and digitalisation of their <strong>customer processes and customer experience</strong></p></li><li><p>Translating complex business and customer requirements into scalable technical solutions</p></li><li><p>Designing innovative solutions across CRM and customer service environments</p></li><li><p>Working closely with customers, business stakeholders and technical teams</p></li><li><p>Contributing your expertise to complex customer transformation and digitalisation projects</p></li><li><p>Acting as a trusted advisor and supporting customers throughout the project lifecycle</p></li></ul><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Your Profile</strong></p><p style=\"text-align:start;\">We are interested in candidates with a strong background in <strong>ServiceNow and CRM</strong>, ideally with experience in one or more of the following areas:</p><ul><li><p>Several years of experience working with <strong>ServiceNow</strong></p></li><li><p>Strong experience in <strong>ServiceNow CRM, Customer Service Management or other customer-focused ServiceNow solutions</strong></p></li><li><p>Experience as a <strong>ServiceNow Architect, Technical Architect, Solution Architect or Senior Consultant</strong></p></li><li><p>Strong understanding of <strong>CRM processes, customer journeys and customer experience</strong></p></li><li><p>Experience designing and implementing complex and scalable platform solutions</p></li><li><p>The ability to understand customer requirements and translate them into effective technical solutions</p></li><li><p>Strong consulting, communication and stakeholder management skills</p></li><li><p>Experience working with complex customer or international environments would be an advantage</p></li></ul><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Languages</strong></p><p style=\"text-align:start;\">We are particularly interested in candidates with either:</p><ul><li><p><strong>German and English</strong>, or</p></li><li><p><strong>French and English</strong></p></li></ul><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Location &amp; Working Model</strong></p><p style=\"text-align:start;\">We are open to candidates based in:</p><ul><li><p>Switzerland</p></li><li><p>Germany</p></li><li><p>France</p></li><li><p>United Kingdom</p></li><li><p>Ireland</p></li><li><p>United States</p></li></ul><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Working Model</strong></p><ul><li><p>Fully remote</p></li></ul><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Employment Options</strong></p><p style=\"text-align:start;\">We are open to speaking with candidates interested in:</p><ul><li><p>Permanent employment</p></li><li><p>Contracting / freelance opportunities</p></li></ul><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\">Interested in this opportunity? We look forward to receiving your application!</p><p style=\"min-height: 1.7em;\"></p> <br> <p>Find <a href=\"https://www.arbeitnow.ch\">Jobs in Switzerland</a> on Arbeitnow</a>",
       "category": "Consultant",
       "role_category": "Consultant",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "725f25f1ebb3",
+      "title": "Gyanni Inc. is hiring: ServiceNow Developer SPM in Washington",
+      "company": "Gyanni Inc.",
+      "location": "Washington, US",
+      "link": "https://www.recruit.net/job/gyanni-inc-is-servicenow-developer-jobs/321FCBAD06170824",
+      "source": "JSearch",
+      "posted": "2026-11-08T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Job Description\nSenior ServiceNow Developer \u2013 SPM (Remote)\nCompany: Gyanni Inc.\nLocation: Washington, DC (Remote)\nSecurity Clearance: Active DoD Clearance Required\nCitizenship: U.S.\nCitizens Only\nEmployment Type: Full-Time / Contract\nAbout the Opportunity\nWe are seeking an experienced Senior ServiceNow Strategic Portfolio Management (SPM) Developer to support a mission-critical ServiceNow implementation for a Department of Defense (DoD) customer.\nThe ideal candidate will have strong hands-on development experience across Idea Management, Demand Management, Resource Management, and Project Lifecycle Management, with the ability to design and implement integrated SPM solutions in a complex enterprise environment.\nKey Responsibilities\n\u2022 Design, develop, configure, and implement ServiceNow SPM applications, workflows, and integrations.\n\u2022 Implement end-to-end Idea-to-Demand-to-Project lifecycle processes, including intake, evaluation, prioritization, approvals, and project execution.\n\u2022 Configure Resource Management, including capacity planning, resource requests, allocations, and utilization.\n\u2022 Develop and customize Strategic Planning, Scenario Planning, and Portfolio Management capabilities.\n\u2022 Configure Service Offerings and integrate SPM with CMDB and related ServiceNow applications.\n\u2022 Develop custom solutions using JavaScript, Glide APIs, Business Rules, Script Includes, Flow Designer, and IntegrationHub.\n\u2022 Build and enhance ServiceNow Workspaces, dashboards, reports, and automated workflows.\n\u2022 Develop REST/SOAP integrations with external enterprise systems.\n\u2022 Collaborate with architects, business analysts, and stakeholders on technical design, testing, deployment, and troubleshooting.\n\u2022 Ensure adherence to ServiceNow development best practices and applicable DoD security standards.\nRequired Qualifications\n\u2022 7+ years of hands-on ServiceNow development experience, including 3+ years with SPM/ITBM.\n\u2022 Strong implementation experience with Idea, Demand, Resource, and Project Management modules.\n\u2022 Experience developing integrated Idea-to-Demand-to-Project workflows.\n\u2022 Strong proficiency in JavaScript, Glide APIs, Business Rules, Script Includes, Flow Designer, and REST APIs.\n\u2022 Experience with ServiceNow Workspaces, dashboards, integrations, and platform customization.\n\u2022 Understanding of resource capacity planning, portfolio management, and project lifecycle processes.\n\u2022 Experience with ServiceNow CMDB, Service Offerings, and application integrations.\n\u2022 Strong troubleshooting, technical design, and communication skills.\nMandatory Requirements\n\u2022 U.S.\nCitizenship.\n\u2022 Active/Prior/Interim DoD Security Clearance (Required)\n\u2022 Hands-on ServiceNow SPM development and implementation experience.\nPreferred Qualifications\n\u2022 Experience with Strategic Planning, Scenario Planning, and Portfolio Planning.\n\u2022 Experience supporting DoD or other federal government implementations.\n\u2022 ServiceNow certifications (CSA, CAD, or relevant SPM certifications).\n\u2022 Experience with CSDM, Performance Analytics, Agile Development, or Financial Planning.\nWhy Join Us?\n- Work on a high-visibility DoD ServiceNow modernization initiative, developing enterprise SPM solutions alongside experienced architects and technical teams.\nQualified candidates with active DoD clearance and strong hands-on ServiceNow SPM experience are encouraged to apply.\nSeniority Level\nMid-Senior level\nEmployment Type\nContract\nSuggested LinkedIn Skills\nServiceNow\nServiceNow Strategic Portfolio Management (SPM)\nServiceNow IT Business Management (ITBM)\nServiceNow Demand Management\nServiceNow Resource Management\nServiceNow Project Portfolio Management (PPM)\nServiceNow Idea Management\nServiceNow Development\nJavaScript\nFlow Designer",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "948038ef0c3b",
+      "title": "ServiceNow Technical Transformation Manager Jobs",
+      "company": "Deloitte",
+      "location": "Arlington, US",
+      "link": "https://www.clearancejobs.com/jobs/9299550/servicenow-technical-transformation-manager",
+      "source": "JSearch",
+      "posted": "2026-11-08T00:00:00.000Z",
+      "salary": 152000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Our Deloitte Enterprise Performance team is at the forefront of enterprise technology, working across finance, supply chain, and IT operations to deliver holistic performance improvement and digital transformation. Join our team of strategic advisers and architects, differentiated by our industry depth to collaborate with leading solution providers and leverage your experience in strategy, process design, technology enablement, and operational services to enable heart-of-the-business solutions.\n\nWork you'll do\n\nAs a ServiceNow Technical Transformation Manager on the ServiceNow team, you will be responsible for:\n\u2022 Lead development activities for a large ServiceNow implementation program across multiple HR services\n\u2022 Manage and mentor junior developers to support delivery quality and team growth\n\u2022 Lead sprint review sessions and track progress against development objectives\n\u2022 Provide technical expertise, feedback, and issue resolution throughout the development lifecycle\n\u2022 Collaborate with stakeholders to align development work with program priorities and delivery timelines\n\nA successful candidate would possess these skills:\n\u2022 Ability to work independently and collaborate as part of a team\n\u2022 Effective written and verbal communication skills\n\u2022 Meticulous attention to detail and quality of work product\n\u2022 Ability to build and sustain professional relationships\n\u2022 Ability to lead projects or workstreams\n\u2022 Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment\n\u2022 Strong interpersonal skills and professional demeanor\n\u2022 Ability to meet deadlines\n\u2022 Ability to mentor and provide clear guidance to others\n\nThe team\n\nDeloitte's Government & Public Services (GPS) practice - our people, ideas, technology and outcomes - is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.\n\nOur ServiceNow offering designs, implements, and delivers strategies and technologies to increase the efficient and value delivery by the enterprise IT function.\n\nQualifications\n\nRequired:\n\u2022 Bachelor's degree\n\u2022 Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future\n\u2022 Active Top Secret/Sensitive Compartmented Information (TS/SCI) with polygraph security clearance required\n\u2022 Ability to work onsite in Chantilly, Virginia, 5 days per week\n\u2022 4+ years of experience leading development for enterprise technology implementations\n\u2022 2+ years of experience mentoring junior developers\n\u2022 3+ years of experience with Salesforce, Appian, JavaScript, or C#\n\nPreferred:\n\u2022 Experience with ServiceNow implementations\n\u2022 Experience supporting human resources service delivery solutions\n\u2022 Experience leading sprint reviews in Agile delivery environments\n\u2022 Experience providing technical feedback across the software development lifecycle\n\u2022 Experience serving government clients\n\nFor individuals assigned and/or hired to work in Virginia, Deloitte is required by law to include a reasonable estimate of the compensation range for this role. This compensation range is specific to Virginia and takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $151,500 to $252,500.\n\nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.\n\nSNOW_FY27_Social #GPSEP2026",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "535c54801111",
+      "title": "ServiceNow SPM Lead (service now with SPM experience)-100 % remote",
+      "company": "Saksoft",
+      "location": "Washington, US",
+      "link": "https://www.linkedin.com/jobs/view/servicenow-spm-lead-service-now-with-spm-experience-100-%25-remote-at-saksoft-4486636622?refId=HKjfS73Ief5d%2BrWrf6jpMA%3D%3D&trackingId=1Ia1ZXT6SBBDAcyMlkeKRA%3D%3D",
+      "source": "JSearch",
+      "posted": "2026-11-07T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": true,
+      "description": "Job Description\n\nKey Responsibilities\n\nLead endtoend ServiceNow SPM transformation and implementation programs for enterprise customers\n\nOwn delivery governance scope schedules milestones budget and quality metrics\n\nCollaborate with business stakeholders to define portfolio project demand and resource management processes\n\nDrive solution planning and execution across ServiceNow SPM modules including PPM Demand Management Resource Management and Agile frameworks\n\nProvide strategic guidance and roadmap recommendations aligned with client business objectives\n\nManage onsiteoffshore delivery teams and ensure adherence to delivery commitments\n\nFacilitate executive steering committee meetings governance reviews and status reporting\n\nIdentify project risks dependencies and mitigation strategies proactively\n\nEnsure compliance with ServiceNow best practices development standards and platform governance\n\nCoordinate with architects developers business analysts and testing teams for successful release execution\n\nSupport presales estimation solution planning and proposal activities when required\n\nEstablish strong relationships with client leadership and key business sponsors\n\nQualifications Certifications\n\nBachelors degree in Engineering Computer Science Information Systems or related discipline\n\nServiceNow Certified Implementation Specialist Strategic Portfolio Management Preferred\n\nServiceNow Certified System Administrator CSA\n\nPMP PRINCE2 Certification Preferred\n\nSAFe Agilist Certification Desired\n\nNicetoHave Skills\n\nDigital Transformation Programs\n\nFinancial Planning Portfolio Governance\n\nExecutive Dashboarding Reporting\n\nMultivendor Program Management\n\nEnterprise PMO Experience\n\nSkills\n\nMandatory Skills : ServiceNow-SPM\n\nServiceNow Strategic Portfolio Management SPM\n\nProject Portfolio Management PPM\n\nDemand Management\n\nResource Management\n\nAgile Development Delivery\n\nProgram Portfolio Governance\n\nServiceNow Platform Delivery\n\nStakeholder Executive Management\n\nSDLC Agile Methodologies\n\nRisk Issue Management\n\nSecondary Skills GoodtoHave\n\nITSM\n\nAPM Application Portfolio Management\n\nEnterprise Agile Planning EAP\n\nIntegrationHub\n\nPerformance Analytics\n\nCMDB\n\nSAFe Agile\n\nCloud Platforms AzureAWS",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "c93509b5bdb9",
+      "title": "ServiceNow SAM Developer \u2014 Onsite at JB Andrews",
+      "company": "JCS Solutions LLC",
+      "location": "Columbia, US",
+      "link": "https://www.learn4good.com/jobs/columbia/maryland/software_development/5607135249/e/",
+      "source": "JSearch",
+      "posted": "2026-11-07T00:00:00.000Z",
+      "salary": 80000,
+      "country": "US",
+      "is_remote": false,
+      "description": "JCS Solutions LLC is seeking a Service Now SAM Developer to modernize ITSM capabilities for the Air Force District of Washington and DoD, focusing on transitioning AFDW ITSM from BMC Helix to Service Now. The role involves designing, building, configuring, and deploying SAM capabilities, improving compliance and operational readiness.\n\nThis onsite position at Joint Base Andrews requires 4+ years of Service Now development, strong ITAM/ITOM knowledge, and an active or eligible Secret clearance.\n\nThis role, Service Now SAM Developer \u2014 Onsite at JB Andrews at JCS Solutions LLC, could be your next opportunity.\n\nWe invite applications for the Service Now SAM Developer \u2014 Onsite at JB Andrews position located in MD, United States.\n\nThe following position is for a Service Now SAM Developer \u2014 Onsite at JB Andrews with JCS Solutions LLC.\n\nOur organisation is growing, and we are hiring a Service Now SAM Developer \u2014 Onsite at JB Andrews in MD, United States.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "e6d53510f125",
+      "title": "Senior ServiceNow Developer: AI-Driven Automation",
+      "company": "Chenega Professional Services Strategic  Business Unit",
+      "location": "Springfield, US",
+      "link": "https://www.jobleads.com/us/job/senior-servicenow-developer-ai-driven-automation--springfield--e7faeb1d4ea81707510fcf84bbc763181",
+      "source": "JSearch",
+      "posted": "2026-11-07T00:00:00.000Z",
+      "salary": 110000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Chenega Military, Intelligence & Operations Support (MIOS) invites a seasoned ServiceNow Developer to lead architecture, development, and modernization of ServiceNow-based solutions in a government contracting context. You will collaborate with architects and engineers to deliver enterprise capabilities, enabling AI-enabled automation and intelligent service management.\n\nThis role emphasizes senior technical leadership and mission-focused outcomes.",
+      "category": "Developer",
+      "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -111,6 +201,42 @@
       "status": "active"
     },
     {
+      "id": "43c1e015af64",
+      "title": "ServiceNow SAM Developer - Now Hiring",
+      "company": "Leidos",
+      "location": "Camp Springs, US",
+      "link": "https://www.snagajob.com/jobs/1298441615",
+      "source": "JSearch",
+      "posted": "2026-11-06T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Description\n\nLeidos is seeking an experienced ServiceNow SAM Developer to join our Strategic Operations Project Team that is chartered to transition AFDW ITSM BMC Helix to ServiceNow.\n\nAs a ServiceNow Developer, you will be the hands-on engineering force behind the IT Service Management (ITSM) modernization efforts for the Air Force District of Washington (AFDW) and the Department of the Air Force\u00a0(DAF). Working in close coordination with architects and business stakeholders, you will build, configure, and deploy the automated workflows, custom applications, and system integrations that replace legacy, siloed processes. Your ability to write clean code, establish modern API integrations, and leverage ServiceNow out-of-the-box capabilities is vital to delivering secure, efficient, and user-centric solutions that directly support DAF mission readiness and day-to-day operations.\n\nThe Challenge:\n\u2022 SAM & ITAM Module Engineering.\n\u2022 Module Configuration: Build, configure, and maintain ServiceNow SAM Pro, SaaS Management, and related HAM Pro integrations.\n\u2022 License & Compliance Operations: Implement and maintain software entitlement models, license metrics, normalization rules, and automated reconciliation engines.\n\u2022 Lifecycle Automation: Design end-to-end asset lifecycle automations (e.g., software request, allocation, harvesting/reclamation, renewal, and retirement) using Flow Designer, Workflow Editor, and Scoped Applications.\n\u2022 Platform Development & Customization.\n\u2022 Full-Lifecycle Development: Design, code, debug, test, document, and deploy scalable solutions across the ServiceNow platform.\n\u2022 Core Scripting & Logic: Implement clean, maintainable logic using Script Includes, Business Rules, Client Scripts, UI Actions, UI Policies, and Service Portal widgets following strict enterprise coding standards.\n\u2022 Data Architecture: Optimize ServiceNow data models, CMDB relationships, and asset table schemas for performance and integrity.\n\u2022 Integrations, Data Management & Reporting.\n\u2022 Data Ingestion & Mapping: Execute data imports, transform maps, and scheduled jobs to synchronize third-party discovery data, vendor portals, and procurement systems.\n\u2022 Analytics & Visibility: Build and maintain actionable SAM dashboards, executive compliance reports, custom database views, and automated audit reports.\n\u2022 Release, Maintenance & Governance.\n\u2022 Deployment & Change Management: Prepare technical design specifications and migrate update sets/scoped applications across sub-production and production instances.\n\u2022 Upgrades & Testing: Lead unit testing, resolve defects, support platform upgrades, patching, and automated test framework (ATF) validations.\n\u2022 Emerging Platform Capabilities: Explore and integrate ServiceNow AI innovations (e.g., Now Assist and AI agents) to optimize asset operations and user self-service.\n\u2022 Stakeholder Collaboration & Enablement.\n\u2022 Requirements Translation: Partner closely with IT Asset Managers, Procurement, and ITIL process owners to translate business licensing rules into technical platform specifications.\n\u2022 Knowledge Transfer: Author technical architecture documents, administrative runbooks, and user-facing knowledge bases; mentor and onboard fellow team members.\n\nWhat Sets You Apart:\n\u2022 Requires a Bachelors degree computer science, Information Systems, IT, Engineering, or related field and 8+ years of prior relevant experience or a Masters degree with 6+ years of prior relevant experience additional years of experience will be accepted in lieu of a degree.\n\u2022 At least 4 years of ServiceNow development and scripting experience (JavaScript, Glide APIs, HTML, XML), with deep proficiency in Flow Designer, IntegrationHub, and API integrations.\n\u2022 ServiceNow Certified System Administrator or ServiceNow Certified Application Developer, required.\n\u2022 Advanced ServiceNow Certifications: Certified Implementation Specialist (CIS) in ITSM, preferred.\n\u2022 Strong expertise in ITAM (SAM/HAM) and ITOM (CMDB, Discovery, Service Mapping) modules.\n\u2022 Proven experience in large-scale ServiceNow implementations and platform governance.\n\nYou Might Also Have:\n\u2022 Master\u2019s degree in IT or a related field.\n\u2022 Certified Application Developer.\n\u2022 ITIL v4 Foundations Certification, a plus.\n\u2022 BMC Helix or BMC Remedy experience.\n\n#AFNCR\n\nIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo \u2014 because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 \u2014 and moving faster than anyone else dares.\nOriginal Posting:September 21, 2026\n\nFor U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\nPay Range:Pay Range $107,900.00 - $195,050.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nAbout Leidos\n\nLeidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit .\n\nPay and Benefits\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at .\n\nSecuring Your Data\n\nBeware of fake employment opportunities using Leidos\u2019 name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system \u2013 never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at .\n\nIf you believe you are the victim of a scam, contact your local law enforcement and report the incident to the .\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.\n\nDescription\n\nLeidos is seeking an experienced ServiceNow SAM Developer to join our Strategic Operations Project Team that is chartered to transition AFDW ITSM BMC Helix to ServiceNow.\n\nAs a ServiceNow Developer, you will be the hands-on engineering force behind the IT Service Management (ITSM) modernization efforts for the Air Force District of Washington (AFDW) and the Department of the Air Force (DAF). Working in close coordination with architects and business stakeholders, you will build, configure, and deploy the automated workflows, custom applications, and system integrations that replace legacy, siloed processes. Your ability to write clean code, establish modern API integrations, and leverage ServiceNow out-of-the-box capabilities is vital to delivering secure, efficient, and user-centric solutions that directly support DAF mission readiness and day-to-day operations.\n\nThe Challenge:\n\u2022 SAM & ITAM Module Engineering.\n\u2022 Module Configuration: Build, configure, and maintain ServiceNow SAM Pro, SaaS Management, and related HAM Pro integrations.\n\u2022 License & Compliance Operations: Implement and maintain software entitlement models, license metrics, normalization rules, and automated reconciliation engines.\n\u2022 Lifecycle Automation: Design end-to-end asset lifecycle automations (e.g., software request, allocation, harvesting/reclamation, renewal, and retirement) using Flow Designer, Workflow Editor, and Scoped Applications.\n\u2022 Platform Development & Customization.\n\u2022 Full-Lifecycle Development: Design, code, debug, test, document, and deploy scalable solutions across the ServiceNow platform.\n\u2022 Core Scripting & Logic: Implement clean, maintainable logic using Script Includes, Business Rules, Client Scripts, UI Actions, UI Policies, and Service Portal widgets following strict enterprise coding standards.\n\u2022 Data Architecture: Optimize ServiceNow data models, CMDB relationships, and asset table schemas for performance and integrity.\n\u2022 Integrations, Data Management & Reporting.\n\u2022 Data Ingestion & Mapping: Execute data imports, transform maps, and scheduled jobs to synchronize third-party discovery data, vendor portals, and procurement systems.\n\u2022 Analytics & Visibility: Build and maintain actionable SAM dashboards, executive compliance reports, custom database views, and automated audit reports.\n\u2022 Release, Maintenance & Governance.\n\u2022 Deployment & Change Management: Prepare technical design specifications and migrate update sets/scoped applications across sub-production and production instances.\n\u2022 Upgrades & Testing: Lead unit testing, resolve defects, support platform upgrades, patching, and automated test framework (ATF) validations.\n\u2022 Emerging Platform Capabilities: Explore and integrate ServiceNow AI innovations (e.g., Now Assist and AI agents) to optimize asset operations and user self-service.\n\u2022 Stakeholder Collaboration & Enablement.\n\u2022 Requirements Translation: Partner closely with IT Asset Managers, Procurement, and ITIL process owners to translate business licensing rules into technical platform specifications.\n\u2022 Knowledge Transfer: Author technical architecture documents, administrative runbooks, and user-facing knowledge bases; mentor and onboard fellow team members.\n\nWhat Sets You Apart:\n\u2022 Requires a Bachelors degree computer science, Information Systems, IT, Engineering, or related field and 8+ years of prior relevant experience or a Masters degree with 6+ years of prior relevant experience additional years of experience will be accepted in lieu of a degree.\n\u2022 At least 4 years of ServiceNow development and scripting experience (JavaScript, Glide APIs, HTML, XML), with deep proficiency in Flow Designer, IntegrationHub, and API integrations.\n\u2022 ServiceNow Certified System Administrator or ServiceNow Certified Application Developer, required.\n\u2022 Advanced ServiceNow Certifications: Certified Implementation Specialist (CIS) in ITSM, preferred.\n\u2022 Strong expertise in ITAM (SAM/HAM) and ITOM (CMDB, Discovery, Service Mapping) modules.\n\u2022 Proven experience in large-scale ServiceNow implementations and platform governance.\n\nYou Might Also Have:\n\u2022 Master\u2019s degree in IT or a related field.\n\u2022 Certified Application Developer.\n\u2022 ITIL v4 Foundations Certification, a plus.\n\u2022 BMC Helix or BMC Remedy experience.\n\n#AFNCR\n\nIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo \u2014 because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 \u2014 and moving faster than anyone else dares.\nOriginal Posting:September 21, 2026\n\nFor U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\nPay Range:Pay Range $107,900.00 - $195,050.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nAbout Leidos\n\nLeidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit .\n\nPay and Benefits\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at .\n\nSecuring Your Data\n\nBeware of fake employment opportunities using Leidos\u2019 name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system \u2013 never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at .\n\nIf you believe you are the victim of a scam, contact your local law enforcement and report the incident to the .\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "eecc7b08debc",
+      "title": "Software Asset Manager(ServiceNow) - Vienna, Virginia, US",
+      "company": "Hays",
+      "location": "Vienna, US",
+      "link": "https://www.talent.com/view?id=645019075465710918",
+      "source": "JSearch",
+      "posted": "2026-11-06T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "ServiceNow SAM \u2013 Contract \u2013 Vienna, VA/Hybrid \u2013 $50.00 - $62.92/hr.\n\nThe final salary or hourly wage, as applicable, paid to each candidate/applicant for this position is ultimately dependent on a variety of factors, including, but not limited to, the candidate\u2019s/applicant\u2019s qualifications, skills, and level of experience as well as the geographical location of the position.\n\nPlease read the following job description thoroughly to ensure you are the right fit for this role before applying.\n\nApplicants must be legally authorized to work in the United States. Sponsorship not available.\n\nOur client is seeking ServiceNow SAM in Vienna, VA/Hybrid.\n\nROLE DESCRIPTION\n\n- 5-10 years exp\n\n- Strong ServiceNow SAM / SAM Pro experience\n\n- Strong Software Asset Management (SAM) background\n\n- Experience with software licensing, entitlements & compliance\n\n- Knowledge of contracts, renewals, reclamation & optimization\n\n- Experience with SCCM, JAMF and discovery tools\n\n- Strong data reconciliation & validation skills\n\n- Experience building reports, dashboards, KPIs & metrics\n\n- Knowledge of the full software lifecycle: procurement through retirement\n\n- Experience with license optimization / cost savings\n\n- High preference for a Bachelor\u2019s degree in IT, Business, Finance or related field\n\nThe ideal candidate will possess a Bachelor's degree in Information Technology, Business Administration, Finance, or a related field, along with demonstrated experience in Software Asset Management (SAM) and the ServiceNow platform.\n\nKey qualifications include:\n\nStrong experience with ServiceNow, including Software Asset Management and related platform capabilities.\n\nComprehensive knowledge of Software Asset Management lifecycle processes, including:\n\nSoftware Products and Models\n\nSoftware Entitlements and License Management\n\nSoftware Contracts and Renewals\n\nLicense Reclamation and Optimization\n\nEnd-of-Life (EOL)\n\nTechnical Skills & Qualifications\n\nExperience administering and optimizing ServiceNow Software Asset Management (SAM Pro) solutions.\n\nWorking knowledge for software license management and compliance.\n\nProficiency with enterprise endpoint and discovery tools such as Microsoft SCCM, JAMF, and Discovery platforms.\n\nAbility to develop and analyze reports, dashboards, KPIs, and metrics to support software governance and decision-making.\n\nStrong analytical skills with experience in data validation, reconciliation, license compliance, and software optimization initiatives.\n\nKnowledge of software asset lifecycle management, including procurement, deployment, utilization, reclamation, renewal, and retirement processes.\n\nBenefits/Other Compensation\n\nMedical, Dental, Life Insurance, 401K.\n\nWhy Hays?\n\nYou will be working with a professional recruiter who has intimate knowledge of the industry and market trends. Your Hays recruiter will lead you through a thorough screening process in order to understand your skills, experience, needs, and drivers. You will also get support on resume writing, interview tips, and career planning, so when there\u2019s a position you really want, you\u2019re fully prepared to get it.\n\nNervous about an upcoming interview? Unsure how to write a new resume?\n\nVisit the Hays Career Advice section to learn top tips to help you stand out from the crowd when job hunting.\n\nHays is committed to building a thriving culture of diversity that embraces people with different backgrounds, perspectives, and experiences. We believe that the more inclusive we are, the better we serve our candidates, clients, and employees. We are an equal employment opportunity employer, and we comply with all applicable laws prohibiting discrimination based on race, color, creed, sex (including pregnancy, sexual orientation, or gender identity), age, national origin or ancestry, physical or mental disability, veteran status, marital status, genetic information, HIV-positive status, as well as any other characteristic protected by federal, state, or local law. One of Hays\u2019 guiding principles is \u2018do the right thing\u2019.\n\nWe also believe that actions speak louder than words.\n\nIn that regard, we train our staff on ensuring inclusivity throughout the entire recruitment process and counsel our clients on these principles. If you have any questions about Hays or any of our processes, please contact us.\n\nIn accordance with applicable federal, state, and local law protecting qualified individuals with known disabilities, Hays will attempt to reasonably accommodate those individuals unless doing so would create an undue hardship on the company. xklufbp Any qualified applicant or consultant with a disability who requires an accommodation in order to perform the essential functions of the job should call or text 813.336.5570.\n\nDrug testing may be required; please contact a recruiter for more information.\n\n#LI-DNI",
+      "category": "Consultant",
+      "role_category": "Consultant",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
       "id": "db46541c7d78",
       "title": "Senior ServiceNow Developer",
       "company": "modis",
@@ -124,6 +250,24 @@
       "description": "We are seeking a Sr. ServiceNow Developer for a long-term, remote contract with our client.\n\nPay range: $55-$65hr; pay may be negotiable based on education, experience, geographic location and other factors.\n\nSr. ServiceNow Developer\nAs a Senior ServiceNow Developer, you play a pivotal role in successfully designing and deploying ServiceNow solutions for our clients. In this role, you will be responsible for designing, configuring, customizing, and implementing ServiceNow applications to meet specific client business requirements. Your technical expertise, attention to detail, and commitment to excellence will contribute significantly to the success of our projects and the satisfaction of our clients.\n\nYour responsibilities include:\n\u2022 Solution Discovery & Design: Work closely with Solutions Architects and Business Analysts to understand and document the business outcomes and functional requirements and translate them into effective ServiceNow solution designs.\n\n\u2022 Technical Implementation: Collaborate with cross-functional teams to implement ServiceNow solutions to align with the designed requirements and ensure solutions meet industry best practices. Develop and maintain complex scripts, business rules, and UI policies.\n\n\u2022 Data Migration: Support data migration design and activities from legacy systems to ServiceNow, ensuring data accuracy and consistency during the transition. Validate that data is migrated to the most beneficial ServiceNow data structures, leveraging out-of-the-box data schemas before designing custom tables and fields.\n\n\u2022 Integration Management: Assist architects and senior developers in the integration of ServiceNow with other systems and applications to create seamless end-to-end processes.\n\n\u2022 Technical Documentation: Create detailed documentation of configurations, customizations, data schemas, and other technical decisions for future reference.\n\n\u2022 Testing and Quality Assurance: Conduct thorough testing of ServiceNow configurations to validate functionality, data integrity, and user experience. Address any issues and perform necessary adjustments to ensure the solution meets the desired outcomes.\n\n\u2022 User Training: Support end-user training to ensure a smooth adoption of the implemented solution.\n\n\u2022 Change Management: Support change management efforts by assisting senior developers, architects, and users during the transition period, addressing inquiries, and resolving issues promptly.\n\n\u2022 Incident and Problem Resolution: Troubleshoot and resolve technical issues related to ServiceNow implementations. Collaborate with support teams to provide timely resolution to incidents and problems.\n\n\u2022 Security and Compliance: Adhere to security best practices and ensure that implemented solutions meet relevant compliance requirements.\n\nIf you are interested in this role, then please click APPLY NOW. For other opportunities available at Akkodis, or any questions, feel free to contact me at brenda.goldenmitchell@akkodis.com\n\nEqual Opportunity Employer/Veterans/Disabled\n\nBenefit offerings available for our associates include medical, dental, vision, life insurance, short-term disability, additional voluntary benefits, an EAP program, commuter benefits, and a 401K plan. Our benefit offerings provide employees the flexibility to choose the type of coverage that meets their individual needs. In addition, our associates may be eligible for paid leave including Paid Sick Leave or any other paid leave required by Federal, State, or local law, as well as Holiday pay where applicable. Disclaimer: These benefit offerings do not apply to client-recruited jobs and jobs that are direct hires to a client.\n\nTo read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.akkodis.com/en/privacy-policy.\n\nThe Company will consider qualified applicants with arrest and conviction records in accordance with federal, state, and local laws and/or security clearance requirements, including, as applicable:\n\u00b7 The California Fair Chance Act\n\u00b7 Los Angeles City Fair Chance Ordinance\n\u00b7 Los Angeles County Fair Chance Ordinance for Employers\n\u00b7 San Francisco Fair Chance Ordinance\n\nPay Details: $55.00 to $65.00 per hour\n\nBenefit offerings available for our associates include medical, dental, vision, life insurance, short-term disability, additional voluntary benefits, EAP program, commuter benefits and a 401K plan. Our benefit offerings provide employees the flexibility to choose the type of coverage that meets their individual needs. In addition, our associates may be eligible for paid leave including Paid Sick Leave or any other paid leave required by Federal, State, or local law, as well as Holiday pay where applicable.\n\nEqual Opportunity Employer/Veterans/Disabled\n\nMilitary connected talent encouraged to apply\n\nTo read our Candidate Privacy Information Statement, which explains how we will use your information, please navigate to https://www.akkodis.com/en/us/candidate-privacy-policy\n\nThe Company will consider qualified applicants with arrest and conviction records in accordance with federal, state, and local laws and/or security clearance requirements, including, as applicable:\n\u2022 The California Fair Chance Act\n\u2022 Los Angeles City Fair Chance Ordinance\n\u2022 Los Angeles County Fair Chance Ordinance for Employers\n\u2022 San Francisco Fair Chance Ordinance\n\nMassachusetts Candidates Only: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
       "category": "Developer",
       "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "0244dbe5cd15",
+      "title": "Senior ServiceNow Administrator \u2013 ITSM/ITOM, Hybrid",
+      "company": "TruLegal",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/senior-servicenow-administrator-itsm-itom-hybrid--washington--e27f1db40d7e99b00a0787880dc3b9ceb",
+      "source": "JSearch",
+      "posted": "2026-11-05T00:00:00.000Z",
+      "salary": 103000,
+      "country": "US",
+      "is_remote": false,
+      "description": "TruLegal in Washington, DC is seeking a Technology ServiceNow Administrator to manage and optimize its ServiceNow platform across ITSM, ITOM, ITAM, SecOps, Employee Center, Workspaces, and AI features. This role is hybrid, requiring one day per week onsite in the New York, Washington, DC, or Reston, VA offices.\n\nThe ideal candidate has hands-on ServiceNow experience, strong JavaScript and Glide API scripting skills, and experience with platform integrations and automation, with Agile/Scrum",
+      "category": "Administrator",
+      "role_category": "Administrator",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -216,6 +360,114 @@
       "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "70d22e616ca9",
+      "title": "IT ServiceNow Administrator | Remote, USA",
+      "company": "Optiv",
+      "location": "Washington, US",
+      "link": "https://us.trabajo.org/job-2570-6029c581a138ad104814f26b46d9bd52",
+      "source": "JSearch",
+      "posted": "2026-11-04T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": true,
+      "description": "The IT ServiceNow Administrator is responsible for the day-to-day administration, configuration, maintenance, and support of the ServiceNow platform. This role will help ensure the platform remains stable, secure, and effective while supporting ongoing improvements to IT service management processes. The ideal candidate is a hands-on administrator who can independently manage standard platform needs, troubleshoot issues, and continue developing their ServiceNow knowledge\n\nPlease read the information in this job post thoroughly to understand exactly what is expected of potential candidates.\nHow you'll make an impact\n\u2022 Administer, configure, maintain, and support the ServiceNow platform and core ITSM capabilities.\n\u2022 Manage users, groups, roles, access, forms, fields, notifications, catalog items, and standard workflows.\n\u2022 Support Incident, Request, Problem, Change, Knowledge, and Service Catalog processes.\n\u2022 Troubleshoot platform and configuration issues and partner with technical teams on more complex problems or integrations.\n\u2022 Experience configuring forms, tables, fields, UI policies, business rules, workflows, Flow Designer, notifications, reports, and dashboards.\n\u2022 Support platform upgrades, patches, testing, reporting, dashboards, and routine platform health activities.\n\u2022 Experience with ServiceNow integrations, REST/SOAP APIs, IntegrationHub, or other enterprise integration technologies is preferred.\n\u2022 Ability to support, and administer emerging ServiceNow AI capabilities, including Now Assist, Virtual Agent/chatbot functionality, and AI-driven automation.\n\u2022 Identify opportunities to improve self-service, automate manual processes, and enhance the user experience.\n\u2022 Maintain platform documentation and follow established security, change, and governance standards.\n\u2022 Performs other duties as assigned\n\u2022 Complies with all policies and standards\n\nWhat we're looking for\n\u2022 Bachelor's Degree In Computer Science, Information Technology or a related field. preferred or\n\u2022 Equivalent professional work experience. preferred\n\u2022 2-4 years Hands-on ServiceNow administration or configuration experience.\n\u2022 Working knowledge of ServiceNow ITSM and experience with users, groups, roles, forms, catalog items, workflows/Flow Designer, reports, and dashboards.\n\u2022 Strong troubleshooting, analytical, organizational, and communication skills.\n\u2022 Basic familiarity with ServiceNow scripting, integrations, or APIs is helpful; advanced development experience is not required.\n\u2022 Demonstrates a forward-looking mindset by proactively identifying opportunities to leverage AI, intelligent automation, and emerging ServiceNow capabilities to improve processes, user experience, and operational efficiency.\n\u2022 Familiarity with ITIL practices and enterprise IT service management environments.\n\u2022 Strong troubleshooting, analytical, and problem-solving skills.\n\u2022 Ability to effectively communicate technical concepts to both technical and non-technical audiences.\n\u2022 Ability to partner with stakeholders, understand requirements, evaluate alternatives, and reach consensus.\n\u2022 Ability to manage multiple priorities and work independently with limited supervision.\n\u2022 Strong attention to detail and commitment to platform stability, security, documentation, and data quality.\n\u2022 Must be US citizen\n\nLI-KG1\n\nWhat you can expect from Optiv\n\u2022 A company committed to our inclusive value through our Employee Resource Groups\n\u2022 Work/life balance\n\u2022 Professional training resources\n\u2022 Creative problem-solving and the ability to tackle unique, complex projects\n\u2022 Volunteer Opportunities. \u201cOptiv Chips In\u201d encourages employees to volunteer and engage with their teams and communities.\n\u2022 The ability and technology necessary to productively work remotely/from home (where applicable)\n\nEEO Statement\n\nOptiv is an equal opportunity employer. All qualified applicants for employment will be considered without regard to race, color, religion, sex, gender identity or expression, sexual orientation, pregnancy, age 40 and over, marital status, genetic information, national origin, status as an individual with a disability, military or veteran status, or any other basis protected by federal, state, or local law.\n\nOptiv respects your privacy. By providing your information through this page or applying for a job at Optiv, you acknowledge that Optiv will collect, use, and process your information, which may include personal information and sensitive personal information, in connection with Optiv's selection and recruitment activities. For additional details on how Optiv uses and protects your personal information in the applica",
+      "category": "Administrator",
+      "role_category": "Administrator",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "6fc7515a49d4",
+      "title": "Senior ServiceNow Specialist - ITSM/HRSD & S2P (DC)",
+      "company": "Ethereum Technologies",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/senior-servicenow-specialist-itsm-hrsd-s2p-dc--washington--e7477a41c8e6dfcd276da5457717fe8e4",
+      "source": "JSearch",
+      "posted": "2026-11-04T00:00:00.000Z",
+      "salary": 90000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Ethereum Technologies in Washington, DC is seeking an experienced ServiceNow Administrator to configure and evolve the platform across ITSM, HRSD, S2P, and ITAM, delivering scalable, secure solutions aligned with district priorities.\n\nThe role requires ownership of a ServiceNow instance, strong workflow and catalog design skills, and the ability to work onsite. Candidates should have ITIL knowledge and 5+ years of ServiceNow experience, with a focus on best practices and upgrade readiness.",
+      "category": "Administrator",
+      "role_category": "Administrator",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "fc5417880b18",
+      "title": "ServiceNow Developer: Modernization",
+      "company": "Credence company",
+      "location": "McLean, US",
+      "link": "https://us.trabajo.org/job-5381-128fbcf3e28c79f24889969801836843",
+      "source": "JSearch",
+      "posted": "2026-11-04T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Credence has an immediate need for a ServiceNow Developer to design, develop, configure, and maintain ServiceNow solutions supporting business and IT operations. The role collaborates with stakeholders, system administrators, and cross-functional teams to deliver scalable applications and integrations while driving modernization and automation.\n\nThe ideal candidate will have ServiceNow development\u00a0experience, Agile methodologies, ITSM best practices, and a US citizenship with an active Secret\nJ-18808-Ljbffr",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "1742c12dc8b6",
+      "title": "Functional Analyst (IOS Mobile / ServiceNow)",
+      "company": "Accenture Federal Services",
+      "location": "Arlington, US",
+      "link": "https://www.tealhq.com/job/functional-analyst_7ea1a8ed69d97c6415f30922486547087dbb6",
+      "source": "JSearch",
+      "posted": "2026-11-04T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "About the position\n\nAccenture Federal Services is hiring a Functional Analyst to join an agile delivery team supporting both an iOS mobile application and the ServiceNow platform. The analyst will work closely with clients to gather and clarify requirements, translate them into actionable features and user stories, test system changes, and manage the release of new features into production. The role has a varied workload across mobile and enterprise platforms and includes limited on-site meetings in the DC region, approximately once per week, in Arlington, Virginia.\n\nResponsibilities\n\u2022 Collaborate with clients to gather and analyze requirements for new features and enhancements.\n\u2022 Create and document user stories and features to address client needs.\n\u2022 Participate as an active member of an agile delivery team.\n\u2022 Test system changes to ensure quality and alignment with requirements.\n\u2022 Release updates and new features into production environments, including iOS mobile and ServiceNow applications.\n\u2022 Use JIRA to manage and track project tasks and progress.\n\u2022 Communicate effectively with team members and stakeholders, verbally and in writing.\n\u2022 Adapt to changing priorities and requirements in a fast-paced environment.\n\u2022 Attend limited on-site meetings in the DC region, approximately once per week.\n\u2022 Demonstrate initiative and work independently as a self-starter.\n\nRequirements\n\u2022 Active secret clearance.\n\u2022 Ability to attend on-site meetings in Arlington, VA once a week.\n\u2022 Comfort working with JIRA to track progress and manage agile workflows.\n\u2022 Proactive approach, adaptability to shifting priorities, and effective communication with technical and non-technical stakeholders.\n\nNice-to-haves\n\u2022 Experience with ServiceNow and/or iOS development.\n\u2022 Familiarity with agile methodologies and iterative delivery processes.\n\nBenefits\n\u2022 A collaborative and caring community.\n\u2022 Hands-on experience, certifications, and industry training.\n\u2022 A wide variety of benefits; specific benefits are not detailed in the posting.",
+      "category": "Other",
+      "role_category": "Other",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "c29794aa59c9",
+      "title": "ServiceNow SAM Engineer \u2014 Hybrid Remote; Clearance Eligible",
+      "company": "Piper Companies",
+      "location": "",
+      "link": "https://www.learn4good.com/jobs/online_remote/software_development/5587779437/e/",
+      "source": "JSearch",
+      "posted": "2026-11-04T00:00:00.000Z",
+      "salary": 150000,
+      "country": null,
+      "is_remote": true,
+      "description": "Position: ServiceNow SAM Engineer \u2014 Hybrid Remote (Clearance Eligible)\n\nZachary Piper Solutions seeks a Service Now SAM Developer to support a federal IT modernization initiative transitioning legacy service management to Service Now. Hybrid work model with potential on-site at Joint Base Andrews, MD; clearance eligibility required.\n\nThe role focuses on SAM Pro, software licensing, entitlement models, and ITAM integrations. You will implement workflows, dashboards, and reports, collaborating with architects and process owners to deliver scalable Service Now solutions.\n\nThe Service Now SAM Engineer \u2014 Hybrid Remote (Clearance Eligible) role at Piper Companies is now open for applications in Camp Springs, MD, United States.\n\nThe advertised compensation is 150..\n\nWe aim to respond to suitable candidates as soon as possible.\n\nFull responsibilities and requirements are described in the listing above.\n\nLearn more about the Service Now SAM Engineer \u2014 Hybrid Remote (Clearance Eligible) role in the description above.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "9ab5dfc07dbf",
+      "title": "ServiceNow (SNOW) UX Expert Jobs",
+      "company": "Synertex LLC",
+      "location": "Bethesda, US",
+      "link": "https://www.clearancejobs.com/jobs/9291323/servicenow-snow-ux-expert",
+      "source": "JSearch",
+      "posted": "2026-11-04T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "\ud83d\udccd Bethesda, MD\n\ud83d\udccc Full Time | On Site\n\nJoin Synertex LLC and bring your expertise to a mission that matters. We're looking for an experienced ServiceNow UX Expert to support our Intelligence Community (IC) customer. The ideal candidate will focus on creating intuitive, user-centered experiences that improve usability and efficiency across ServiceNow applications and workflows.\n\nGiven the nature of this role, the selected candidate will regularly interface with very senior IC staff and cross-functional contractors supporting separate contracts. This requires a calm, confident communication style to engage effectively with diverse stakeholders and enable mission success.\n\nAs a ServiceNow UX Expert, you will play a pivotal role in designing user-centered solutions that improve mission effectiveness, enhance usability, and support the successful delivery of ServiceNow capabilities across the enterprise.\n\nRESPONSIBILITIES:\n\nUser Experience (UX) Professional\n\nPrimary Focus:\n\n\u2022 User-centered design, user experience, and usability.\n\nKey Responsibilities:\n\n\u2022 Understand user needs and behaviors through research.\n\n\u2022 Develop user personas and user journeys.\n\n\u2022 Design intuitive and user-friendly products and services.\n\n\u2022 Create wireframes, prototypes, and high-fidelity mockups.\n\n\u2022 Conduct usability testing and iterate on designs\n\nCollaboration with Stakeholders:\n\n\u2022 Work closely with IC staff, developers, and other contractors to clarify requirements and address gaps in design and implementation.\n\n\u2022 Facilitate discussions and coordination between teams to ensure that requirements are clearly communicated and understood across contracts and workstreams.\n\n\u2022 Participate in technical exchange meetings and workshops to refine requirements in alignment with SNOW platform capabilities and best practices.\n\nDocumentation and Communication:\n\n\u2022 Document user research findings, user journeys, wireframes, prototypes, and usability recommendations.\n\n\u2022 Present UX concepts, design recommendations, and usability findings to both technical and non-technical audiences.\n\n\u2022 Provide regular updates to IC leadership regarding UX initiatives, design improvements, and user feedback.\n\nCross-Functional Leadership:\n\n\u2022 Interface confidently with senior IC officials, ensuring requirements workflows are driven by strategic priorities and communicated in a professional, poised manner.\n\n\u2022 Collaborate across multiple contractor teams, building relationships that foster open communication and alignment toward shared mission goals.\n\nWork Environment:\n\n\u2022 Collaboration: The role requires daily interaction with senior IC staff and integration with cross-functional contractor teams, where clear communication and strong interpersonal skills are essential.\n\nREQUIREMENTS:\n\n\u2022 Active TS/SCI with Poly is REQUIRED\n\nExperience & Skills:\n\n\u2022 Minimum of 8 years of relevant experience, with proven expertise in collecting and refining technical requirements for SNOW applications and workflows.\n\n\u2022 14+ years of professional experience\n\n\u2022 Strong understanding of SNOW platform capabilities, including workflows, applications, and integrations.\n\n\u2022 Experience operating in dynamic team environments, collaborating with both technical and non-technical stakeholders.\n\nSkills\n\n\u2022 User research and analysis.\n\n\u2022 Interaction design.\n\n\u2022 Visual design.\n\n\u2022 Prototyping and usability testing.\n\n\u2022 Human-centered design principles.\n\nInterpersonal & Communication Skills:\n\n\u2022 Confidence working with very senior leadership and an ability to communicate clearly, calmly, and effectively across diverse audiences.\n\n\u2022 Demonstrated ability to navigate and collaborate across multiple contractor teams, fostering alignment in cross-functional environments.\n\n\u2022 Strong analytical and interpersonal skills for bridging the gap between technical teams and mission-driven stakeholders.\n\nPreferred Qualifications:\n\n\u2022 Familiarity with Intelligence Community (IC) environments, workflows, and directives.\n\n\u2022 Experience working in agile or hybrid development environments, including collaboration with Scrum teams.\n\n\u2022 Certification in ServiceNow frameworks or business analysis methodologies such as Certified Application Specialist or Certified Business Analyst Professional (CBAP).\n\n\u2022 Capability in creating visual requirements documentation (e.g., process models, data flow diagrams) using tools like Microsoft Visio, Lucidchart, or other standard platforms.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
       "status": "active"
     },
     {
@@ -484,6 +736,42 @@
       "description": "Zachary Piper Solutions is seeking a ServiceNow SAM Developer to support a federal modernization initiative for the Air Force District of Washington and the Department of the Air Force. This remote role may require occasional travel to Andrews AFB, MD.\n\nYou will design, develop, and maintain ServiceNow SAM Pro and related ITAM capabilities, automate asset lifecycle processes, and integrate enterprise systems to improve compliance and efficiency.",
       "category": "Developer",
       "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "de26ae6d5acf",
+      "title": "ServiceNow Application Developer (Contingent)",
+      "company": "ARETUM Holdings LLC",
+      "location": "Bailey's Crossroads, US",
+      "link": "https://jobs.womenforhire.com/job/usa/baileys-crossroads-va/servicenow-application-developer-contingent-443275/",
+      "source": "JSearch",
+      "posted": "2026-11-03T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "ARETUM Holdings LLC\nDescription\n\nPublic Trust Eligibility Required\n\nThis is a contingent position, meaning employment is dependent upon the successful award of the associated contract to Aretum and completion of any required background investigation or security clearance verification.\n\nAbout Aretum\n\nAretum is a mission-driven organization committed to delivering innovative, technology-enabled solutions to our customers across defense, civilian, and homeland security sectors. Our teams work at the intersection of strategy, technology, and transformation, helping agencies solve their most critical challenges. We believe in investing in our people and creating a culture where collaboration, inclusion, and professional growth are at the forefront.\n\nJob Summary\n\nThe Application Developer is responsible for designing, developing, testing, integrating, and maintaining ServiceNow and Nuvolo-based solutions. This role develops software enhancements, resolves defects, supports platform upgrades, and ensures accessibility and operational requirements are met throughout the contract lifecycle.\n\nDue to the nature of our work as a federal consulting organization, employees may be expected to handle Controlled Unclassified Information (CUI) and must adhere to applicable safeguarding and compliance requirements.\n\nResponsibilities\n\u2022 Design, develop, configure, and implement ServiceNow and Nuvolo solutions\n\u2022 Analyze functional requirements and produce technical solution designs\n\u2022 Develop workflows, business rules, forms, integrations, reports, dashboards, and notifications\n\u2022 Build and enhance functionality supporting order fulfillment, inventory management, accessibility enhancements, KPI reporting, and customer support capabilities\n\u2022 Develop, execute, and document unit, integration, and system tests\n\u2022 Create technical documentation, including design specifications, deployment documentation, and test scripts\n\u2022 Troubleshoot and resolve software defects and production issues\n\u2022 Support O&M activities, enhancement sprints, and platform upgrades\n\u2022 Participate in demonstrations, sprint reviews, and user acceptance testing activities\n\u2022 Ensure all development activities comply with WCAG 2.2 and Section 508 requirements\n\u2022 Support release management and deployment activities across environments\n\nRequirements\n\u2022 Minimum five (5) years of experience performing software development tasks on ServiceNow platforms\n\u2022 Bachelor's degree in Computer Science, Information Systems, Engineering, or related discipline (or equivalent experience)\n\u2022 Experience with ServiceNow scripting, workflows, forms, integrations, and platform customization\n\u2022 Experience with Nuvolo implementations and support\n\u2022 Experience with Agile software development practices\n\u2022 Experience creating technical documentation and executing software testing activities\n\nPreferred Qualifications\n\u2022 ServiceNow Certified Application Developer (CAD)\n\u2022 Federal Government project experience\n\u2022 Knowledge of accessibility standards including WCAG and Section 508\n\u2022 Experience with Service Portal development and dashboard reporting\n\u2022 Experience with API integrations and automated workflow development\n\u2022 Familiarity with DevOps, CI/CD practices, and release management processes\n\u2022 SAFe Fundamentals Certification or Certified Scrum Master (CSM) certification\n\nTravel Requirements\n\nThis is a remote position; however, occasional travel may be required based on project needs, client meetings, team collaboration events, or training sessions. Travel is expected to be less than 10% and will be communicated in advance whenever possible.\n\nEEO Statement\n\nAretum is committed to fostering a workplace rooted in excellence, integrity, and equal opportunity for all. We adhere to merit-based hiring practices, ensuring that all employment decisions are made based on qualifications, skills, and ability to perform the job, without preference or consideration of factors unrelated to job performance.\n\nAs an Equal Opportunity Employer, Aretum complies with all applicable federal, state, and local employment laws.\n\nWe are proud to support our nation\u2019s veterans and military families, providing career opportunities that honor their service and experience.\n\nIf you require reasonable accommodation during the hiring process due to a disability, please contact hr@aretum.com for assistance.\n\nEqual Opportunity Employer/Veterans/Disabled\n\nU.S. Work Authorization\n\nApplicants must be U.S. citizens or currently authorized to work in the United States on a full-time basis. This position supports a federal government contract and requires the ability to obtain and maintain a Public Trust or Suitability Determination, depending on the agency\u2019s background investigation requirements. Sponsorship is not available.\n\nBenefits\n\u2022 Salary Range: $140,000\u2013$160,000 annually. Final compensation will be determined based on factors including education, experience, qualifications, skills, and applicable contract requirements.\n\u2022 Health Care Plan (Medical, Dental & Vision)\n\u2022 Retirement Plan (401k)\n\u2022 Life Insurance (Basic, Voluntary & AD&D)\n\u2022 Paid Time Off\n\u2022 Family Leave (Maternity, Paternity)\n\u2022 Short Term & Long-Term Disability\n\u2022 Training & Development\n\nARETUM is an equal opportunity employer, committed to diversity and inclusion. All qualified candidates will receive equal consideration for employment without regard to disability, race, color, religious creed, national origin, sexual orientation/gender identity, or age.\n\nARETUM utilizes e-Verify to check employment authorization.\n\nEEO/AA/F/M/Vet/Disabled.\n\nEqual employment opportunity, including veterans and individuals with disabilities.\n\nPI288147272",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "3e08b20c0100",
+      "title": "Senior ServiceNow ITSM Consultant",
+      "company": "Hadiamondstar Software Solutions",
+      "location": "Washington, US",
+      "link": "https://us.trabajo.org/job-3991-d4edb89edc016897f74da5509e4d6ebf",
+      "source": "JSearch",
+      "posted": "2026-11-03T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Hadiamondstar Software Solutions LLC is seeking an experienced ServiceNow developer to join our IT transformation team in Washington, DC. You will design, customize, and administer the ServiceNow platform in a large enterprise environment, focusing on ITSM processes and a robust CMDB.\n\nYou will work across Service Catalog, Service Portal, and Now Assist modules, collaborating with architects and stakeholders to deliver scalable solutions and clear documentation.",
+      "category": "Consultant",
+      "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -3546,7 +3834,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "140eb1ac7a78",
@@ -3564,7 +3852,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c6cc555c4a45",
@@ -3582,7 +3870,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bcca2e434400",
@@ -3600,7 +3888,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b2cd2896cd1e",
@@ -3618,7 +3906,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "Multi-Hire (2-3+ Devs / Team)",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "28c2366d1a2f",
@@ -3636,7 +3924,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1f56ec3cfcc5",
@@ -3654,7 +3942,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9e5bf3eb2293",
@@ -3672,7 +3960,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0b5880d0a124",
@@ -3690,7 +3978,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e681c9055bc7",
@@ -3708,7 +3996,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "08fabf9251b7",
@@ -3726,7 +4014,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0b7b391ece46",
@@ -3744,7 +4032,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e53a75452884",
