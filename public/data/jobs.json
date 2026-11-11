@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:06:48.145754Z",
+  "updated_at": "2026-11-11T00:23:55.785318Z",
   "count": 1571,
   "jobs": [
     {
@@ -3708,7 +3708,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9c413f572ef2",
@@ -3726,7 +3726,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b91b28f20c5a",
@@ -3744,7 +3744,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0d3931300488",
@@ -3762,7 +3762,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "Multi-Hire (2-3+ Devs / Team)",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e03616e2435f",
@@ -3780,7 +3780,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a49a7b1f6470",
@@ -3798,7 +3798,7 @@
       "role_category": "Administrator",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1626162bce34",
@@ -3816,7 +3816,7 @@
       "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "7077fb2cb1ae",
