@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-11-12T16:35:09.111673Z",
-  "count": 1590,
+  "updated_at": "2026-11-13T15:55:28.443801Z",
+  "count": 1602,
   "jobs": [
+    {
+      "id": "d5650d0152f0",
+      "title": "Senior ServiceNow Developer / ITSM Solutions Consultant",
+      "company": "Codetech",
+      "location": "Washington, US",
+      "link": "https://bebee.com/us/jobs/senior-servicenow-developer-itsm-solutions-consultant-codetech--ss-us-40aydd",
+      "source": "JSearch",
+      "posted": "2026-11-12T23:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Randstad is seeking a Senior ServiceNow Developer / ITSM Solutions Consultant to serve as a high-impact, strategic partner between our client's business stakeholders and technology teams in Washington, D.C. This hybrid role bridges the gap between technical execution and business strategy, combining advanced ServiceNow development with business analysis, process optimization, and cutting-edge AI enablement. The successful candidate will champion the transformation of ServiceNow into an enterprise-wide service delivery engine, leveraging ITSM Pro, Automation, and Now Assist (AI) capabilities to drastically improve employee experiences, streamline workflows, and drive operational efficiency.\n\nKey Responsibilities\n\n\u2022 Strategic Advisory & Business Analysis: Act as the primary liaison between business stakeholders and technical teams to gather, analyze, and document complex business requirements.\n\u2022 Process Optimization: Evaluate existing business processes and design scalable, modern workflows that maximize the value of Enterprise Service Management (ESM).\n\u2022 Core Platform Development: Configure, customize, and develop robust solutions within the ServiceNow platform, ensuring alignment with architectural best practices.\n\u2022 AI & Automation Drive: Lead the adoption and implementation of ServiceNow's advanced features, including ITSM Pro, Automation, and AI-driven capabilities via Now Assist.\n\u2022 Solution Architecture: Translate high-level business objectives into technical designs that are scalable, maintainable, and minimize technical debt.\n\u2022 Change & Adoption Support: Facilitate platform training, create documentation, and support organizational change management to ensure high user adoption of new features.\nQualifications\n\u2022 Experience: Minimum of 5\u20137 years of hands-on experience in ServiceNow development, configuration, and implementation, with a proven track record in a senior or consultative role.\n\u2022 Technical Expertise: Deep knowledge of the ServiceNow ITSM suite, workflow configuration, scripting (JavaScript), and integration points.\n\u2022 AI & Advanced Features: Direct experience or strong working knowledge of ServiceNow ITSM Pro features, automation tools, and Generative AI capabilities (Now Assist).\n\u2022 Consultative Skills: Exceptional business analysis, requirements gathering, and stakeholder management skills, with the ability to articulate technical concepts to non-technical audiences.\n\u2022 Education & Certifications: Bachelor's degree in Computer Science, Information Systems, or a related field; ServiceNow Certified Application Specialist (CAD) or Certified Implementation Specialist (CIS-ITSM) strongly preferred.\n\u2022 Location/Clearance: Ability to work on-site/hybrid in the Washington, D.C. area (and meet any specific client-side clearance or public trust requirements if applicable).\nRequired Skills :\nBasic Qualification\n\nAdditional Skills\n\nBackground Check : No\n\nDrug Screen : No",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "0eb6841e6f87",
+      "title": "ServiceNow Developer (SME)",
+      "company": "BAE Systems",
+      "location": "Herndon, US",
+      "link": "https://jobs.baesystems.com/global/en/job/130020BR/ServiceNow-Developer-SME",
+      "source": "JSearch",
+      "posted": "2026-11-12T23:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Job Description\n\nBAE Systems, a top-ten prime contractor to the U.S. Department of Defense, enables the U.S. government to transform data into intelligence and provides engineering, integration and sustainment support for critical military platforms and systems. Intelligence & Security provides services and products to the Department of Defense, the government, federal law enforcement officials, and troops deployed around the world.\n\nAt BAE Systems, we promote a strong, collaborative culture and provide our employees with the tools, skills and training they need to succeed. We are all about trust, camaraderie and a shared ambition to lead the world in defense technologies and national security services. We offer flexible work environment to support the balance in your life and keep you performing at your best. Be a part of a company that is part of the community; driven to improve our future and protect our freedom.\n\nAs a ServiceNow Developer (SME), you will designs and develop applications software and systems in the ServiceNow Platform. You will collaborates with teammates in the planning, design, development, and utilization of data processing systems. You will determine computer user needs, analyze system capabilities to resolve problems on program intent, output requirements, input data acquisition, programming techniques and controls, design and develop compilers and assemblers, utility programs, and operating systems.\n\nABC\n#LI-EE1\nRequired Education, Experience, & Skills\n\nWe are actively seeking a Software Developer to perform as a ServiceNow Developer SME with a minimum of 16 years' experience. Information Technology or Engineer Bachelor's or Master\u2019s Degrees are preferred. Specific skills should include the following:\n\u2022 Strong understanding of the ServiceNow Development Platform including, but not limited to, ITSM, ITOM, SPM, HR Module, Customer Service Management (CSM), Asset Management, Change Management, Customer Development, CMDB, and the Service Status Portal\n\u2022 Proven success developing ServiceNow products using JavaScript and other coding applications\n\u2022 Database administration (Oracle or MYSQL) experience\n\u2022 Ability to efficiently and appropriately estimate work effort requirements as part of an Agile Scrum\n\u2022 Ability to communicate effectively through written and verbal methods\n\u2022 Ability to handle multiple tasks and meet deadlines\n\u2022 Ability to work both in a team and as an individual contributor\n\u2022 Able to adapt to a constantly changing environment\n\u2022 Attitude and aptitude to work with a variety of new emerging technologies and tools as opportunities demand\n\u2022 Ability to deliver enhanced functionality, aid with new implementations, and provide continuous support within the schedule while preserving system integrity\n\u2022 High degree of initiative, creativity, and technical ability\n\u2022 Ability to identify issues and implement corrective actions\nPreferred Education, Experience, & Skills\n\u2022 ServiceNow Certified Systems Administrator (CSA)\\\n\u2022 Experience working in a team that uses Agile, Scrum, and DevSecOps\n\u2022 Familiarity with how ServiceNow can support ZTA efforts\n\nPay Information\nFull-Time Salary Range: $149603 - $254317\n\nPlease note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.\n\nEmployee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.\nAbout BAE Systems, Inc.BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it\u2019s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts \u2013 defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team\u2014making a big impact on a global scale. At BAE Systems, you\u2019ll find a rewarding career that truly makes a difference.\n\nIntelligence & Security (I&S), based in McLean, Virginia, designs and delivers advanced defense, intelligence, and security solutions that support the important missions of our customers. Our pride and dedication shows in everything we do\u2014from intelligence analysis, cyber operations and IT expertise to systems development, systems integration, and operations and maintenance services. Knowing that our work enables the U.S. military and government to recognize, manage and defeat threats inspires us to push ourselves and our technologies to new levels.\n\nThis position will be posted for at least 5 calendar days. The posting will remain active until the position is filled, or a qualified pool of candidates is identified.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "14096275a5dc",
+      "title": "Junior ServiceNow Developer - Hardware Asset Management (HAM)",
+      "company": "Conexus Staffing Inc",
+      "location": "Columbia, US",
+      "link": "https://www.ziprecruiter.com/c/conexus-staffing/Job/Junior-ServiceNow-Developer-Hardware-Asset-Management-(HAM)/-in-Columbia,MD?jid=ea79486f6bd32703",
+      "source": "JSearch",
+      "posted": "2026-11-12T00:00:00.000Z",
+      "salary": 70,
+      "country": "US",
+      "is_remote": false,
+      "description": "Junior ServiceNow Developer \u2013 Hardware Asset Management (HAM)\n\nDepartment: Information Technology (EUC) \u2013 IT Asset Management\n\nPosition Summary\n\nThe IT Asset Management (ITAM) team is seeking a motivated and technically skilled Junior ServiceNow Developer to support the development, enhancement, and administration of the ServiceNow platform with a primary focus on the Hardware Asset Management (HAM) module. This position is part of a newly established IT Asset Management team responsible for designing and implementing enterprise asset management processes, improving data quality, and delivering automation that supports the full hardware asset lifecycle.\n\nThe successful candidate will work closely with IT Asset Manager, IT Asset Management Analysts, CMDB Administrators, Infrastructure teams, Desktop (EUC) Support, and ServiceNow Administrators to develop scalable solutions that improve operational efficiency and ensure accurate asset tracking across the organization.\n\nEssential Responsibilities\n\nServiceNow Development\n\n\u00b7 Configure, develop, and maintain ServiceNow Hardware Asset Management (HAM) solutions.\n\n\u00b7 Develop workflows using Flow Designer to automate asset lifecycle processes.\n\n\u00b7 Create and maintain Business Rules, Client Scripts, UI Policies, Script Includes, Catalog Items, and Record Producers.\n\n\u00b7 Develop Service Catalog requests supporting asset management services.\n\n\u00b7 Assist with ServiceNow upgrades, testing, and release management.\n\n\u00b7 Develop reports, dashboards, and Performance Analytics to support ITAM metrics.\n\n\u00b7 Troubleshoot ServiceNow platform issues and recommend improvements.\n\n\u00b7 Assist in implementing integrations between ServiceNow and enterprise systems.\n\n\u00b7 Maintain technical documentation and development standards.\n\nHardware Asset Management\n\n\u00b7 Support the implementation and ongoing administration of the Hardware Asset Management module.\n\n\u00b7 Configure asset lifecycle states and hardware models.\n\n\u00b7 Maintain accurate asset records and ensure data integrity.\n\n\u00b7 Assist with stockroom configuration and inventory management.\n\n\u00b7 Support asset receiving, transfers, deployments, returns, repairs, and disposals.\n\n\u00b7 Participate in hardware inventory reconciliation and audit activities.\n\n\u00b7 Assist with software and hardware compliance initiatives.\n\n\u00b7 Support procurement and asset receiving processes.\n\nCMDB & Discovery Support\n\n\u00b7 Assist with CMDB data quality initiatives.\n\n\u00b7 Support ServiceNow Discovery and reconciliation efforts.\n\n\u00b7 Monitor relationships between Configuration Items (CIs) and hardware assets.\n\n\u00b7 Identify and resolve CMDB data discrepancies.\n\nCollaboration & Continuous Improvement\n\n\u00b7 Partner with Infrastructure, Security, Procurement, Desktop Support, and Service Desk teams to improve ITAM processes.\n\n\u00b7 Participate in process improvement initiatives.\n\n\u00b7 Recommend automation opportunities that improve operational efficiency.\n\n\u00b7 Stay current with new ServiceNow features and industry best practices.\n\nRequired Qualifications\n\n\u00b7 Bachelor's degree in Information Technology, Computer Science, Information Systems, or related field, or equivalent experience.\n\n\u00b7 ServiceNow Certified System Administrator (CSA).\n\n\u00b7 ServiceNow Certified Implementation Specialist \u2013 Hardware Asset Management (CIS-HAM) certification or equivalent HAM implementation experience.\n\n\u00b7 1\u20133 years of ServiceNow administration or development experience.\n\n\u00b7 Basic knowledge of JavaScript.\n\n\u00b7 Experience with ServiceNow Flow Designer.\n\n\u00b7 Understanding of CMDB concepts and IT Asset Management processes.\n\n\u00b7 Strong analytical and problem-solving skills.\n\n\u00b7 Excellent written and verbal communication skills.\n\n\u00b7 Strong attention to detail and organizational skills.\n\nPreferred Qualifications\n\n\u00b7 Experience implementing ServiceNow Hardware Asset Management.\n\n\u00b7 Knowledge of ServiceNow Discovery.\n\n\u00b7 Experience with IntegrationHub.\n\n\u00b7 Experience with Import Sets and Transform Maps.\n\n\u00b7 Knowledge of REST APIs.\n\n\u00b7 Familiarity with ITIL processes.\n\n\u00b7 Experience supporting enterprise inventory management.\n\n\u00b7 Healthcare IT experience is preferred.\n\nTechnical Skills\n\n\u00b7 ServiceNow Platform\n\n\u00b7 Hardware Asset Management (HAM)\n\n\u00b7 CMDB\n\n\u00b7 Flow Designer\n\n\u00b7 Business Rules\n\n\u00b7 Client Scripts\n\n\u00b7 Script Includes\n\n\u00b7 UI Policies\n\n\u00b7 Catalog Development\n\n\u00b7 JavaScript\n\n\u00b7 Import Sets\n\n\u00b7 Transform Maps\n\n\u00b7 REST APIs\n\n\u00b7 Microsoft Excel\n\n\u00b7 Microsoft Office Suite\n\nCore Competencies\n\n\u00b7 Customer-focused mindset\n\n\u00b7 Strong analytical and troubleshooting skills\n\n\u00b7 Excellent organizational skills\n\n\u00b7 Ability to manage multiple priorities\n\n\u00b7 Effective written and verbal communication\n\n\u00b7 Collaborative team player\n\n\u00b7 Continuous learning mindset\n\n\u00b7 Attention to detail\n\n\u00b7 Problem-solving and process improvement",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
     {
       "id": "2da3ccd8e0d6",
       "title": "Senior ServiceNow Architect \u2013 Remote, Gov DevSecOps",
@@ -9,7 +63,7 @@
       "location": "Washington, US",
       "link": "https://www.jobleads.com/us/job/senior-servicenow-architect-remote-gov-devsecops--washington--ec75e2c61a5ba933631efb0737a481221",
       "source": "JSearch",
-      "posted": "2026-11-11T23:00:00.000Z",
+      "posted": "2026-11-11T00:00:00.000Z",
       "salary": 120000,
       "country": "US",
       "is_remote": true,
@@ -70,6 +124,78 @@
       "description": "The KPMG Advisory practice is at the forefront of transformation, offering excellent opportunities for individuals to advance their careers and expertise with KPMG. Looking ahead, we anticipate continued evolution and success within the practice, fostering both personal and professional development, thereby creating new pathways for growth. In this ever-changing market environment, our professionals must be adaptable and thrive in a collaborative, team-driven culture. At KPMG, our people are our number one priority. With a wealth of learning and career development opportunities, a world-class training facility, and leading market tools, we help our people continue to grow both professionally and personally. If you're looking for a firm with a strong team connection where you can be your whole self, have an impact, advance your skills, deepen your experiences, and have the flexibility and access to constantly find new areas of inspiration and expand your capabilities, then consider a career in Advisory.\n\nKPMG is currently seeking a Director, ServiceNow IRM to join our Advisory Services practice.\n\nResponsibilities:\n\n\u2022 Serve as a market-facing leader for the Governance, Risk, and Compliance (GRC) practice, driving thought leadership and developing innovative ServiceNow IRM solutions\n\u2022 Drive business development activities by identifying new opportunities, leading pursuits, and strengthening the ServiceNow Alliance relationship to grow revenue\n\u2022 Act as a trusted advisor to executive stakeholders, helping organizations develop and execute Integrated Risk Management strategies that span enterprise, cyber, and third-party risk\n\u2022 Lead the strategy, architecture, and delivery of large-scale ServiceNow IRM transformation programs, ensuring quality, risk management, and client satisfaction\n\u2022 Advise clients on modernizing risk operating models and navigating emerging domains, including regulatory changes and AI governance within the Agentic AI economy\n\u2022 Build, mentor, and develop high-performing teams, fostering a culture of innovation, collaboration, and client service excellence\n\u2022 Act with integrity, professionalism, and personal responsibility to uphold KPMG's respectful and courteous work environment\n\nQualifications:\n\n\u2022 Minimum ten years of recent progressive experience In Governance, Risk & Compliance (GRC), Integrated Risk Management (IRM), risk transformation, compliance, internal audit, or related technology consulting disciplines, including leadership of large-scale transformation programs\n\u2022 Master's degree from an accredited college or university is preferred; minimum of a Bachelor's degree from an accredited college or university is required\n\u2022 Extensive ServiceNow IRM implementation, architecture, and advisory experience, with expertise across risk management, Policy & Compliance, audit, and third-party risk management, including designing solutions to unify legacy data\n\u2022 Deep understanding of enterprise risk management frameworks, regulatory compliance requirements, internal controls, and modern cyber and technology risk management processes\n\u2022 Demonstrated experience advising executive stakeholders (including board and C-suite) on risk transformation, governance modernization, and emerging risk practices such as AI governance\n\u2022 Proven track record of business development success, including client relationship management, pipeline development, proposal leadership, and revenue growth; professional certifications such as ServiceNow Certified Implementation Specialist (CIS-Risk and Compliance or IRM) or Certified ServiceNow Architect are strongly preferred, along with other relevant credentials (CISA, CRISC, CISSP)\n\u2022 Ability to travel as required to meet business needs (up to 50%)\n\u2022 Applicants must be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future; KPMG LLP will not sponsor applicants for U.S. work visa status for this opportunity (no sponsorship is available for H-1B, L-1, TN, O-1, E-3, H-1B1, F-1, J-1, OPT, CPT, or any other employment-based visa)\n\nKPMG LLP and its affiliates and subsidiaries (\u201cKPMG\u201d) complies with all local/state regulations regarding displaying salary ranges. If required, the ranges displayed below or via the URL below are specifically for those potential hires who will work in the location(s) listed. Any offered salary is determined based on relevant factors such as applicant's skills, job responsibilities, prior relevant experience, certain degrees and certifications and market considerations. In addition, KPMG LLP is proud to offer a comprehensive, competitive benefits package, with options designed to help you make the best decisions for yourself, your family, and your lifestyle. Available benefits are based on eligibility. Depending on job classification, standard work hours, and years of service, KPMG LLP provides a Total Rewards Package that includes 401(k) and medical and may include dental, vision, disability and life insurance, personal well-being and Personal Time Off. Additionally, each year KPMG publishes a calendar of holidays to be observed during the year depending on your job classification and entity affiliation. Additional details about our benefits can be found towards the bottom of our KPMG US Careers site at Benefits & How We Work.\n\nFollow this link to obtain salary ranges by city outside of CA:\n\nhttps://kpmg.com/us/en/how-we-work/pay-transparency.html/?id=M127ADV_2_26 California Salary Range: $165395 - $337295\n\nKPMG LLP and its affiliates and subsidiaries (\"KPMG\") is an equal opportunity employer. KPMG complies with all applicable federal, state, and local laws regarding recruitment and hiring. All qualified applicants are considered for employment without regard to race/ethnicity, color, creed, religion, age, sex/gender, national origin, ancestry, citizenship status, marital status, sexual orientation, gender identity or expression, disability, pregnancy, childbirth or other related condition, military/veteran status, genetic information, status as a victim of domestic violence or sexual abuse or any other legally protected status. The attached link contains further information regarding the firm's compliance with federal, state, and local recruitment and hiring laws.\n\nKPMG recruits on a rolling basis. Candidates are considered as they apply, until the opportunity is filled. Candidates are encouraged to apply expeditiously to any role(s) for which they are qualified that is also of interest to them.\n\nLos Angeles County applicants: Material job duties for this position are listed above. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness, and safeguard business operations and company reputation. Pursuant to the California Fair Chance Act, Los Angeles County Fair Chance Ordinance for Employers, Fair Chance Initiative for Hiring Ordinance, and San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
       "category": "Other",
       "role_category": "Other",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "c97ba55b7370",
+      "title": "ServiceNow Developer - $198K \u2013 $220K | RCT Systems | Handshake",
+      "company": "RCT Systems",
+      "location": "Chantilly, US",
+      "link": "https://app.joinhandshake.com/public/jobs/11926558",
+      "source": "JSearch",
+      "posted": "2026-11-11T00:00:00.000Z",
+      "salary": 198000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Seeking an experienced ServiceNow Developer to provide development, administration, and operations and maintenance (O&M) support for a mission-critical ServiceNow platform. The developer will design, customize, and implement ServiceNow solutions, build custom workflows, manage platform integrations, and support the full software development lifecycle using Agile methodologies.\n\nKey Responsibilities\n\n\u2022 Develop, configure, and customize ServiceNow modules and workflows.\n\n\u2022 Define and modify ServiceNow tables, business rules, and platform logic.\n\n\u2022 Administer ServiceNow users, roles, groups, and permissions.\n\n\u2022 Provide ongoing platform maintenance, troubleshooting, and production support.\n\n\u2022 Manage update set migrations across development, test, and production environments.\n\n\u2022 Support data transformations and integrations with external systems and applications.\n\n\u2022 Collaborate with project managers, systems engineers, architects, and integrators to deliver mission requirements.\n\n\u2022 Support governance and change management processes.\n\nRequired Qualifications\n\n\u2022 Demonstrated experience with JavaScript and ServiceNow scripting.\n\n\u2022 TS/SCI with Polygraph\n\n\u2022 Experience with web technologies (HTML, XML, and/or CSS).\n\n\u2022 Experience with relational databases.\n\n\u2022 Hands-on experience implementing and customizing ServiceNow modules.\n\n\u2022 Experience modifying ServiceNow tables and developing business rules.\n\n\u2022 Experience administering and troubleshooting ServiceNow platforms.\n\n\u2022 Experience providing application integration and development support.\n\nDesired Qualifications\n\n\u2022 Experience working with the Sponsor's ServiceNow platform.\n\n\u2022 Experience developing custom ServiceNow workflows.\n\nRCT Systems offers:\n\n\u2022 Competitive benefits package (medical, dental, vision, life insurance)\n\n\u2022 Immediate 401k vesting\n\n\u2022 Generous PTO and flexible schedules\n\n\u2022 $500.00 annual technology allowance\n\nRCT Systems is committed and proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex (to include pregnancy and related conditions, sexual orientation, and gender identity), national origin, disability, veteran status, or any other federally protected class.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "1b7a2ceada3b",
+      "title": "Senior QA Lead ServiceNow & Defense IT Programs",
+      "company": "Axiologic Solutions",
+      "location": "Washington, US",
+      "link": "https://bebee.com/us/jobs/senior-qa-lead-servicenow-defense-it-programs-axiologic-solutions-washington--lensa-7428_b674331931c070a642e27e423f46113f71a397693b63c502d30b4dd96dc57ae4",
+      "source": "JSearch",
+      "posted": "2026-11-11T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "RPMGlobal is seeking an experienced Quality Assurance Manager to lead QA activities for the Defense Intelligence Agency. This position involves ensuring compliance with DIA quality standards, developing QA processes, and overseeing ServiceNow implementations.\n\nThe successful candidate will possess a Master\u2019s degree in a related field and 12 years of experience in quality assurance. The role operates in a professional office environment with a full-time commitment of 40 hours per week.",
+      "category": "Other",
+      "role_category": "Other",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "48d1c9568de8",
+      "title": "ServiceNow Specialist",
+      "company": "HII",
+      "location": "Springfield, US",
+      "link": "https://www.indeed.com/viewjob?jk=b8b251ac95077aa1",
+      "source": "JSearch",
+      "posted": "2026-11-11T00:00:00.000Z",
+      "salary": 76164,
+      "country": "US",
+      "is_remote": false,
+      "description": "Date: Nov 11, 2026\n\nLocation: Springfield, VA, Virginia, United States\n\nCompany: HII's Mission Technologies division\n\nRequisition Number: 31109\n\nRequired Travel: 0 - 10%\n\nEmployment Type: Full Time/Salaried/Exempt\n\nAnticipated Salary Range: $76,164.00 - $150,000.00\n\nSecurity Clearance: TS/SCI\n\nLevel of Experience: Mid\n\nThis opportunity resides with Warfare Systems (WS), a business group within HII\u2019s Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems.\n\nHII works within our nation\u2019s intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners.\n\nMeet HII\u2019s Mission Technologies Division\n\nOur team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense \u2013 the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that\u2019s right for you. Apply today. We look forward to meeting you.\n\nTo learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072\n\nJob Description\n\nJoin a Team That's Powering the Future of National Security\n\nAt Mission Technologies, a division of HII, we don't just support the mission - we help shape it. We are currently hiring multiple ServiceNow Developers to assist in building next-generation capabilities that strengthen national defense, safeguard critical infrastructure, and keep our nation's most important missions moving forward.\n\nThis role sits within our Cyber & Intelligence division, where we drive large-scale IT modernization and enterprise security initiatives across cyber operations, infrastructure, facilities, and personnel systems. As part of a high-impact government program, you'll help engineer and protect mission-critical environments, ensuring they remain resilient, secure, and ready for-whatever comes next.\n\nServiceNow Developer Opportunities\n\n\u2022 Software Development Analyst 1: $85,913 - $125,447\n\n\u2022 Software Development Analyst 2: $110,846 - $157,493\n\nWhat You'll Do\n\nYou'll be hands-on in designing and delivering solutions that keep enterprise systems running at peak performance. In this role, you will:\n\n\u2022 Research, design, develop, and enhance enterprise-wide applications and platforms\n\n\u2022 Participate in planning and deploying major system updates and new capabilities\n\n\u2022 Ensure all software meets compliance, quality, and security standards\n\n\u2022 Evaluate how systems, software, and hardware integrate and interact\n\n\u2022 Document testing, updates, fixes, and enhancements to ensure long-term stability\n\nWhat You Bring\n\n\u2022 Bachelor's degree and 1+ year experience\n\n\u2022 Proven ability to develop and maintain Business Rules, Client Scripts, Script Includes, UI Policies, UI Actions, and Flow Designer/Workflow\n\n\u2022 Experience building ServiceNow integrations using REST/SOAP APIs\n\n\u2022 Familiarity working within Agile development environments\n\n\u2022 Ability to support ITSM implementations and platform configuration\n\n\u2022 Experience with custom application development\n\n\u2022 Active TS/SCI clearance at start, with ability to obtain a CI Poly\n\nSoftware Development Analyst 1: 0 years experience with Bachelors in related field; or High School Diploma or equivalent and 4 years relevant experience.\n\nSoftware Development Analyst 2: 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience.\n\nExtra Points For\n\n\u2022 5+ years of hands-on ServiceNow platform development, delivering high-quality solutions in complex enterprise environments\n\n\u2022 Proven expertise building and maintaining advanced platform components, including:\n\n\u2022 Business Rules\n\n\u2022 Client Scripts\n\n\u2022 Script Includes\n\n\u2022 UI Policies and UI Actions\n\n\u2022 Flow Designer / Workflow automation\n\n\u2022 Strong background developing robust integrations using REST and SOAP APIs\n\n\u2022 Experience thriving in Agile teams, contributing to iterative delivery and continuous improvement\n\n\u2022 Ability to support full lifecycle ITSM implementations, from configuration to deployment\n\n\u2022 Demonstrated success building custom applications that extend and elevate the ServiceNow platform\n\nThe listed salary range for this role is intended as a good faith estimate based on the role's location, expectations, and responsibilities. When extending an offer, HII's Mission Technologies division takes a variety of factors into consideration which include, but are not limited to, the role's function and a candidate's education or training, work experience, and key skills.\n\nTogether we are working to ensure a future where everyone can be free and thrive.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\n\nDo You Need Assistance?\n\nIf you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "Multi-Hire (2-3+ Devs / Team)",
+      "status": "active"
+    },
+    {
+      "id": "2874fbb89253",
+      "title": "ServiceNow Architect with Security Clearance",
+      "company": "Intact Technology, Inc",
+      "location": "Lorton, US",
+      "link": "https://us.trabajo.org/job-3013-a6cd0284e801437a3c9b19fa378cfdd7",
+      "source": "JSearch",
+      "posted": "2026-11-11T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "ServiceNow Architect | Lorton, VA | TS / SCI Eligible LOCATION: Lorton, VA - 5 days onsite in a secure environment\nCLEARANCE: TS with SCI eligibility; recent SCI access preferred ABOUT US: Intact Technology is an award-winning ServiceNow Elite Partner supporting federal agencies and highly regulated organizations. Recognized as the 2026 ServiceNow U.S. Federal Partner of the Year and Worldwide AI Customer Value Partner of the Year, we combine technical expertise, innovation, and an outcome-driven approach to deliver meaningful results. Our culture values individuality, autonomy, and empowerment. We encourage our people to take ownership, think creatively, and make an impact, while supporting their growth through professional development and comprehensive benefits. THE ROLE:\nWe're looking for an experienced ServiceNow Architect to lead complex platform solutions supporting federal customers in Lorton, VA. You'll own solution architecture, guide technical decisions, and collaborate with experienced delivery teams to deliver scalable, secure ServiceNow solutions. TO BE SUCCESSFUL HERE YOU WILL:\n\u2022 Lead the architecture, design, and technical delivery of complex ServiceNow solutions.\n\u2022 Establish architectural standards, technical guidelines, and implementation strategies to ensure scalable, secure, and maintainable solutions.\n\u2022 Partner with federal customers, Project Managers, and delivery teams to translate complex requirements into effective technical solutions.\n\u2022 Design and oversee ServiceNow integrations with enterprise systems and third-party applications.\n\u2022 Provide technical leadership, mentorship, and guidance to developers and other technical team members.\n\u2022 Collaborate with technical peers on architecture decisions, prototypes, system designs, and enterprise initiatives.\n\u2022 Contribute to technical solutioning, estimates, reusable assets, and continuous improvement across the ServiceNow practice.\n\u2022 Provide hands-on ServiceNow development and configuration support as needed. REQUIRED QUALIFICATIONS:\n\u2022 Must have held an active Top Secret (TS) clearance within the past five years and be eligible to obtain SCI access.\n\u2022 Must be willing to work onsite five days per week in a secure SCIF environment in the Northern Virginia/DMV area.\n\u2022 8+ years of ServiceNow development and/or solution architecture experience.\n\u2022 Broad, deep knowledge of the ServiceNow platform, with advanced expertise in at least one to two ServiceNow product areas.\n\u2022 ServiceNow Certified System Administrator (CSA) and Certified Application Developer (CAD) certifications.\n\u2022 Demonstrated experience designing, architecting, and configuring multiple ServiceNow applications and modules.\n\u2022 Experience architecting complex integrations between ServiceNow and third-party applications.\n\u2022 Strong understanding of microservices architecture and enterprise integration patterns.\n\u2022 Experience delivering systems using Agile/Scrum methodologies.\n\u2022 Demonstrated experience leading major ServiceNow module implementations, including at least two recent implementations in an Architect role.\n\u2022 Strong communication and client relationship skills, with the ability to communicate complex technical concepts effectively to both technical and non-technical audiences. PREFERRED QUALIFICATIONS:\n\u2022 Previous SCI access within the past 24 months is highly preferred.\n\u2022 Two or more ServiceNow Certified Implementation Specialist (CIS) certifications.\n\u2022 Relevant ServiceNow micro-certifications.\n\u2022 ServiceNow Certified Master Architect (CMA) or Certified Technical Architect (CTA) certification.\n\u2022 Candidates who do not currently hold the preferred ServiceNow certifications should be willing to obtain applicable certifications within six months of hire. OUR BENEFITS:\n\u2022 Ongoing personal and professional development opportunities.\u202f\n\u2022 Flexible paid time off, plus 12 paid holidays.\u202f\n\u2022 Premium healthcare plans \u2014 Medical, Dental, Vision \u2014 including HSA and FSA options.\u202f\n\u2022 Qualified 401(k) program.\u202f\n\nPHYSICAL DEMANDS\nThis position is primarily sedentary and requires the ability to maintain focus on computer screens for extended periods. Frequent interaction with team members is necessary to clearly articulate ideas and information. The role involves extensive reading, transcribing, and repetitive hand and wrist motions related to typing and/or using a mouse. Reasonable accommodation may be provided to enable qualified individuals with disabilities to perform essential job functions. WORK ENVIRONMENT\nThis position requires working onsite five days per week in a secure Sensitive Compartmented Information Facility (SCIF) in Lorton, VA. Employees must comply with all applicable security protocols, access requirements, and restrictions associated with working in a classified environment. Work is primarily performed in a professional office setting using standard office equipment. EQUAL OPPORTUNITY",
+      "category": "Developer",
+      "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -142,6 +268,42 @@
       "description": "Job Title: ServiceNow Developer Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required: None Type of Travel: None * * * Description CACI is seeking a ServiceNow Developer to join our Development Team on the Luke Program. You will support our client with design, creation, deployment, and maintenance of ServiceNow core ITSM platform and scoped applications supporting the Intelligence Community. Bring your talent, sense of urgency, and innovative ideas to our development team who are currently developing solutions and solving business problems using ServiceNow Responsibilities: * Develop, maintain, and enhance applications on the ServiceNow platform including, but not limited to, ITSM, SPM>PPM, CMDB, ITOM/ITAM, CSM, ATF, VTBs, Agile, Service Portal, HR Service Delivery, Change Management, Custom Development, etc.\n\u2022 Implement ITIL principles and translate into ServiceNow workflows, including incident, problem, change, and service request management. * Managing and maintaining data structures within ServiceNow, including tables, relationships, and data modeling, while designing and delivering comprehensive reports and dashboards that provide actionable business insights * Develop and unit test, hold code reviews, and help to build the pipeline for continuous integration/continuous delivery.\n\u2022 Customize ServiceNow applications and facilitate roll out of new applications and modules and configure application UI, workflow, and API.\n\u2022 Create, maintain configuration management on the ServiceNow platform in all environments.\n\u2022 Collaborate effectively with other ServiceNow administrators to develop solutions and handle general updates and configuration changes/requests.\n\u2022 Confer with Mission Partners to define their information technology goals and advise in the re-engineering of business processes to meet those goals.\n\u2022 Provide expertise in standards and validations (e.g., ISO 9000).\n\u2022 Provide group facilitation, interviewing, training, and additional forms of knowledge transfer.\n\u2022 Coordinate between multiple project teams to ensure enterprise-wide integration of re-engineering efforts.\n\u2022 Develop process documentation, testing, workflows, and work plans.\n\u2022 Lead and/or participate in requirements presentations to leadership\n\u2022 Coordinate with multiple departments within and outside of the customer's organization to accomplish project tasks. Qualifications: Required: * Must be a U.S. Citizen with an active Top Secret (TS)/SCI Clearance with Polygraph.\n\u2022 Bachelor's degree preferably in an IT related field and a minimum of 6 years of related experience; or a Master's with 4 years of experience; an Associates with 8 years of experience.\n\u2022 Extensive backend development experience with JavaScript's programming language and how it applies to ServiceNow, along with ServiceNow Glide.\n\u2022 ServiceNow developer certification, preferably Certified System Administrator (CSA).\n\u2022 Firm understanding of ServiceNow, best practices across both commercial and federal sectors as it relates to workflow and process management.\n\u2022 Excellent interpersonal skills with proven ability to team with industry partners.\n\u2022 Ability to estimate work effort requirements efficiently and appropriately.\n\u2022 Ability to communicate effectively in a fast-paced environment.\n\u2022 Experience in scrum and agile frameworks for development to include task management, participating in stand-ups and sprint reviews, gathering requirements, and creating documentation. Desired: * Configuration Management experience and certifications.\n\u2022 Graphics design or UX/UI design experience.\n\u2022 Experience in HTML/CSS and Jelly scripting.\n\u2022 Previous work within the Intelligence Community. - What You Can Expect: A culture of integrity. At CACI, we place character and innovation at the center of everything we do. As a valued team member, you'll be part of a high-performing group dedicated to our customer's missions and driven by a higher purpose - to ensure the safety of our nation. An environment of trust. CACI values the unique contributions that every employee brings to our company and our customers - every day. You'll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality. A focus on continuous growth. Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground - in your career and in our legacy. Pay Range: There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the",
       "category": "Developer",
       "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "3cc5bf9e64da",
+      "title": "ServiceNow Consultant - Remote (m/w/d)",
+      "company": "Accenture Federal Services",
+      "location": "Suitland-Silver Hill, US",
+      "link": "https://bebee.com/us/jobs/servicenow-consultant-remote-accenture-federal-services-suitland-md--jooble-7275523412405714117",
+      "source": "JSearch",
+      "posted": "2026-11-10T00:00:00.000Z",
+      "salary": 106000,
+      "country": "US",
+      "is_remote": true,
+      "description": "Senior ServiceNow DeveloperAt Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and safer and life better for people. Our 13,000+ people are united in a shared purpose to pursue the limitless potential of technology and ingenuity for clients across defense, national security, public safety, civilian, and military health organizations.\n\nJoin Accenture Federal\n\nServices, a technology company within global Accenture. Recognized as a Glassdoor Top 100 Best Place to Work, we offer a collaborative and caring community where you feel like you belong and are empowered to grow, learn and thrive through hands-on experience, certifications, industry training and more. As the top-ranked ServiceNow solution provider, we offer federal agencies the deepest capabilities, resources, and experience for their projects.\n\nJoin our team as a developer implementing ServiceNow for a large federal agency. Work on a team responsible for the implementation and configuration of multiple modules and capabilities, specifically within the IT Service Management suite of applications.Develops the application including configuration, report development and data migration, where applicablePerforms custom development (as required) and 3rd party integrationsCarries out unit-testing and defect resolutionCarries out migration of the changes to productionAssists with technical design and documentationCollaborates with internal stakeholders and team members to build solutions in ServiceNow that support business requirementsHere's what you need:5+ years of experience with ServiceNow development or administrator experienceBonus Points if you have:Security + CEITSM, HAM, SAM and/or CSM experienceServiceNow Certified System Administrator certification (CSA)Custom application development experienceBachelor's degreeSecurity Clearance:Active TS/SCI clearance#clearancejobsAs required by local law, Accenture Federal Services provides reasonable ranges of compensation for hired roles based on labor costs in the states of California, Colorado, Hawaii, Illinois, Maine, Maryland, Massachusetts, Minnesota, New Jersey, New York, Vermont, Virginia, Washington, and the District of Columbia, and the city of Cleveland.\n\nCompensation for roles at Accenture Federal Services varies depending on a wide array of factors, including but not limited to office location, role, skill set, and level of experience. We accept applications on an on-going basis and there is no fixed deadline to apply.All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.\n\nFor details, view a copy of the Accenture Federal Services Equal Opportunity Policy Statement. Additionally, as an Affirmative Action Employer for Veterans and Individuals with Disabilities, Accenture Federal Services is committed to providing veteran employment opportunities to our service men and women.Requesting An Accommodation Accenture Federal Services is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are being considered for employment opportunities with Accenture Federal Services and need an accommodation for a disability or religious observance during the interview process or for the job you are interviewing for, please speak with your recruiter.Other Employment Statements Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.\n\nAdditionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information. If you are a California resident, live in or plan to work from Los Angeles County upon being hired for this position, please click here for additional important information.",
+      "category": "Consultant",
+      "role_category": "Consultant",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "e4667b118f7f",
+      "title": "Cyber ServiceNow - Senior Consultant",
+      "company": "Deloitte",
+      "location": "Arlington, US",
+      "link": "https://www.linkedin.com/jobs/view/cyber-servicenow-senior-consultant-at-deloitte-4489635360?position=45&pageNum=0&refId=iA5swEou9uCgQyiOVahTxA%3D%3D&trackingId=4GredwCngaoDV4ppKvGnrg%3D%3D",
+      "source": "JSearch",
+      "posted": "2026-11-10T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "ServiceNow Senior Consultant\n\nOur Deloitte Cyber team understands the unique challenges and opportunities businesses face in cybersecurity. Join our team to deliver powerful solutions that help clients navigate an evolving threat landscape. Through solutions and managed services that simplify complexity, we help clients operate with resilience, grow with confidence, and proactively manage cyber, risk, and technology programs.\n\nRecruiting for this role ends on 5/31/2027.\n\nWork you'll do\n\nAs a Senior Consultant - ServiceNow on the Cyber Strategy & Transformation team, you will be responsible for...\n\n\u2022 Leading requirements workshops and stakeholder interviews to capture, validate, and document business requirements, user stories, and current-state and future-state process flows\n\u2022 Analyzing processes, controls, and tools to identify opportunities for ServiceNow configuration and automation across IT Operations Management, IT Asset Management, Integrated Risk Management, Security Operations, Third-Party Risk Management, and ServiceNow AI Control Tower use cases\n\u2022 Supporting functional design and configuration of ServiceNow solutions, including forms, workflows, notifications, service level agreements, dashboards, reports, roles, and access controls\n\u2022 Documenting data models, taxonomies, workflows, controls, and reporting requirements for cyber, risk, and artificial intelligence governance use cases\n\u2022 Producing project artifacts, including requirements documentation, functional designs, test scenarios, training materials, release notes, and deployment support materials\n\u2022 Collaborating with client stakeholders, functional teams, and technical teams to support demonstrations, user acceptance testing, defect triage, training, cutover activities, and solution adoption\n\nA successful candidate would possess these skills:\n\n\u2022 Ability to work independently and collaborate as part of a team\n\u2022 Effective written and verbal communication skills\n\u2022 Meticulous attention to detail and quality of work product\n\u2022 Ability to build and sustain professional relationships\n\u2022 Ability to lead projects or workstreams\n\u2022 Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment\n\u2022 Strong interpersonal skills and professional demeanor\n\u2022 Ability to meet deadlines\n\u2022 Ability to provide clear guidance to others\n\nThe team\n\nOur Cyber Strategy & Transformation offering develops and transforms cyber programs in line with a client's strategic objectives, regulatory requirements, and risk appetite. It keeps the enterprise a step ahead of the evolving threat landscape and gives stakeholders confidence in the organization's cyber posture. Includes design of the cyber organization, governance, and risk assessments.\n\nQualifications\n\nRequired:\n\n\u2022 Bachelor's degree in Computer Science, Information Systems, Cyber Security, Engineering, Information Technology, Finance, Business or related area\n\u2022 4+ years of experience supporting ServiceNow implementation projects in a client-facing consulting role\n\u2022 4+ years of experience gathering business requirements, facilitating workshops, documenting process flows or user stories, and producing functional documentation\n\u2022 4+ years of experience designing, configuring, or implementing ServiceNow solutions in one or more of the following modules: IT Operations Management, IT Asset Management, Integrated Risk Management, Security Operations, or Third-Party Risk Management\n\u2022 4+ years of experience configuring ServiceNow forms, workflows, notifications, service level agreements, reports, dashboards, roles, or access controls\n\u2022 Ability to travel 50%, on average, based on the work you do and the clients and industries/sectors you serve.\n\u2022 Limited immigration sponsorship may be available.\n\nPreferred:\n\n\u2022 ServiceNow Certified System Administrator (CSA)\n\u2022 ServiceNow Certified Application Developer (CAD)\n\u2022 ArchX (Architecture Excellence)\n\u2022 One or more ServiceNow Certified Implementation Specialist (CIS) certifications, including CIS-Risk and Compliance (CIS-RC), CIS-Security Incident Response (CIS-SIR), CIS-Vulnerability Response (CIS-VR), CIS-Third-Party Risk Management (CIS-TPRM), CIS-Hardware Asset Management (CIS-HAM), CIS-Software Asset Management (CIS-SAM), CIS-Service Mapping (CIS-SM), CIS-Discovery (CIS-DISCO), CIS-Event Management (CIS-EM), CIS-Data Foundations (CIS-DF), or CIS-Strategic Portfolio Management (CIS-SPM)\n\u2022 Experience supporting implementation and configuration of ServiceNow AI Control Tower capabilities, including AI inventory management, intake and approval workflows, lifecycle oversight, issue management, dashboards, and reporting\n\u2022 Experience supporting identity governance for human and non-human actors using Veza, or cyber asset discovery and configuration management database (CMDB) integration using Armis\n\n#CyberServiceNow\n\nFor individuals assigned and/or hired to work in a Remote role, Deloitte is required by law to include a reasonable estimate of the compensation range for this role. This compensation range is specific to a Remote role and takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $105,400 to $207,800.\n\nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.",
+      "category": "Consultant",
+      "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -273,6 +435,24 @@
       "status": "active"
     },
     {
+      "id": "a6b9aa2a00e5",
+      "title": "Senior ServiceNow Architect - ITSM/HRSD & S2P (Contract)",
+      "company": "Dhaka Technology Limited",
+      "location": "Washington, US",
+      "link": "https://us.jobrapido.com/jobpreview/7731765527076405248",
+      "source": "JSearch",
+      "posted": "2026-11-08T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Dhaka Technologies Limited Company (DTLC) is hiring a Sr. ServiceNow Developer to support DC Public Schools' ServiceNow platform.\n\nThis full-time (contract) role focuses on configuring, administering, and advancing enterprise workflows across ITSM, HRSD, S2P, and ITAM modules within DCPS. The ideal candidate will serve as the primary admin for the DCPS instance, collaborate with business stakeholders, and ensure solutions are scalable, secure, and upgrade-ready, while guiding continuous service\n\n#J-18808-Ljbffr",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
       "id": "535c54801111",
       "title": "ServiceNow SPM Lead (service now with SPM experience)-100 % remote",
       "company": "Saksoft",
@@ -320,6 +500,42 @@
       "country": "US",
       "is_remote": false,
       "description": "Chenega Military, Intelligence & Operations Support (MIOS) invites a seasoned ServiceNow Developer to lead architecture, development, and modernization of ServiceNow-based solutions in a government contracting context. You will collaborate with architects and engineers to deliver enterprise capabilities, enabling AI-enabled automation and intelligent service management.\n\nThis role emphasizes senior technical leadership and mission-focused outcomes.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "2e6584ec67dd",
+      "title": "ServiceNow SPM Lead",
+      "company": "Saksoft",
+      "location": "",
+      "link": "https://us.trabajo.org/job-4112-5f7bb1d81cb460ca13969ded6bfbdb7e",
+      "source": "JSearch",
+      "posted": "2026-11-07T00:00:00.000Z",
+      "salary": null,
+      "country": null,
+      "is_remote": true,
+      "description": "Job Description\n\nKey Responsibilities\n\nLead endtoend ServiceNow SPM transformation and implementation programs for enterprise customers\n\nOwn delivery governance scope schedules milestones budget and quality metrics\n\nCollaborate with business stakeholders to define portfolio project demand and resource management processes\n\nDrive solution planning and execution across ServiceNow SPM modules including PPM Demand Management Resource Management and Agile frameworks\n\nProvide strategic guidance and roadmap recommendations aligned with client business objectives\n\nManage onsiteoffshore delivery teams and ensure adherence to delivery commitments\n\nFacilitate executive steering committee meetings governance reviews and status reporting\n\nIdentify project risks dependencies and mitigation strategies proactively\n\nEnsure compliance with ServiceNow best practices development standards and platform governance\n\nCoordinate with architects developers business analysts and testing teams for successful release execution\n\nSupport presales estimation solution planning and proposal activities when required\n\nEstablish strong relationships with client leadership and key business sponsors\n\nQualifications Certifications\n\nBachelors degree in Engineering Computer Science Information Systems or related discipline\n\nServiceNow Certified Implementation Specialist Strategic Portfolio Management Preferred\n\nServiceNow Certified System Administrator CSA\n\nPMP PRINCE2 Certification Preferred\n\nSAFe Agilist Certification Desired\n\nNicetoHave Skills\n\nDigital Transformation Programs\n\nFinancial Planning Portfolio Governance\n\nExecutive Dashboarding Reporting\n\nMultivendor Program Management\n\nEnterprise PMO Experience\n\nSkills\n\nMandatory Skills: ServiceNow-SPM\n\nServiceNow Strategic Portfolio Management SPM\n\nProject Portfolio Management PPM\n\nDemand Management\n\nResource Management\n\nAgile Development Delivery\n\nProgram Portfolio Governance\n\nServiceNow Platform Delivery\n\nStakeholder Executive Management\n\nSDLC Agile Methodologies\n\nRisk Issue Management\n\nSecondary Skills GoodtoHave\n\nITSM\n\nAPM Application Portfolio Management\n\nEnterprise Agile Planning EAP\n\nIntegrationHub\n\nPerformance Analytics\n\nCMDB\n\nSAFe Agile\n\nCloud Platforms AzureAWS",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "d70c2c87a9f5",
+      "title": "Senior ServiceNow CMDB Engineer \u2013 Hybrid DC",
+      "company": "Lightfeather Io Llc",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/senior-servicenow-cmdb-engineer-hybrid-dc--washington--ec9d5ee0690e96109fbd30374e5d9827e",
+      "source": "JSearch",
+      "posted": "2026-11-07T00:00:00.000Z",
+      "salary": 180000,
+      "country": "US",
+      "is_remote": false,
+      "description": "LightFeather is seeking a ServiceNow Developer to design, build, and optimize ServiceNow solutions across CMDB, ITSM, Service Catalog, and custom apps. The role involves stakeholder collaboration, high\u2011quality deployments, and strong platform governance in a fast\u2011paced federal contracting environment.\n\nThe ideal candidate has 5+ years of hands\u2011on ServiceNow experience, CAD certification, and experience with CMDB/Discovery and integrations.",
       "category": "Developer",
       "role_category": "Developer",
       "is_agency_lead": false,
@@ -3744,7 +3960,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c13798052e75",
@@ -3762,7 +3978,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "71ac59411ee3",
@@ -3780,7 +3996,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bc89572e271b",
@@ -3798,7 +4014,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2aa8e7c244c6",
@@ -3816,7 +4032,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9cadb7031495",
@@ -3834,7 +4050,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "9fc7388bc412",
@@ -3852,7 +4068,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c579027a0895",
@@ -3870,7 +4086,7 @@
       "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "020c0b520534",
