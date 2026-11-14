@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:55:28.443801Z",
+  "updated_at": "2026-11-14T00:38:11.056637Z",
   "count": 1602,
   "jobs": [
     {
@@ -3780,7 +3780,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ff2b976fd692",
@@ -3798,7 +3798,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bb1e533e208e",
@@ -3816,7 +3816,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "Multi-Hire (2-3+ Devs / Team)",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "23535d9f5ef1",
@@ -3834,7 +3834,7 @@
       "role_category": "Other",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c4c6704dcbbc",
@@ -3852,7 +3852,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "623e1de9169a",
@@ -3870,7 +3870,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "434992774ddd",
@@ -3888,7 +3888,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "28c1fcee1362",
@@ -3906,7 +3906,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3c807360033c",
@@ -3924,7 +3924,7 @@
       "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "5446def66e95",
@@ -3942,7 +3942,7 @@
       "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3cb63be2ca23",
