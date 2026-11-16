@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T23:43:52.686733Z",
-  "count": 1610,
+  "updated_at": "2026-11-16T17:58:14.119840Z",
+  "count": 1617,
   "jobs": [
     {
       "id": "8b16d06628ab",
@@ -9,7 +9,7 @@
       "location": "Washington, US",
       "link": "https://www.jobleads.com/us/job/senior-servicenow-developer-itsm-service-portal-specialist--washington--ed5ba77344afe5fd5dec20fda8fa51fc9",
       "source": "JSearch",
-      "posted": "2026-11-13T23:00:00.000Z",
+      "posted": "2026-11-13T00:00:00.000Z",
       "salary": 120000,
       "country": "US",
       "is_remote": false,
@@ -34,6 +34,24 @@
       "description": "LightFeather IO LLC seeks a skilled ServiceNow Developer to design, build, and optimize ServiceNow solutions across CMDB, ITSM, and Service Catalog. You will work with stakeholders to translate business needs into scalable technical solutions, designing and implementing both baseline and custom apps with a focus on platform stability.\n\nThe role emphasizes CMDB health, governance, and integrations using REST/SOAP and IntegrationHub, with a mix of client-facing design discussions and rigorous",
       "category": "Developer",
       "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "5b3d23a879b3",
+      "title": "Senior ServiceNow Admin \u2014 ITSM/HRSD & Integrations",
+      "company": "Quantum Technologies. LLC",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/senior-servicenow-admin-itsm-hrsd-integrations--washington--e4bf60666332ab17a9ab605734aa3f398",
+      "source": "JSearch",
+      "posted": "2026-11-13T00:00:00.000Z",
+      "salary": 120000,
+      "country": "US",
+      "is_remote": false,
+      "description": "Quantum Technologies. LLC is seeking an experienced ServiceNow Administrator to configure and evolve the DCPS ServiceNow instance across ITSM, HRSD, S2P, and ITAM.\n\nYou will implement scalable, secure solutions and drive upgrade readiness while partnering with stakeholders to deliver aligned technical outcomes. The role requires 5+ years of hands-on ServiceNow experience, ITIL knowledge, and strong module ownership, with 100% onsite work in Washington, DC.",
+      "category": "Administrator",
+      "role_category": "Administrator",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -106,6 +124,24 @@
       "description": "Modern Technology Solutions, Inc. (MTSI) is seeking an Applications Administrator to manage the ServiceNow platform, Knowledge Base governance, testing, and release readiness. The role focuses on reliability, documentation, and end-user satisfaction across enterprise applications.\n\nYou will coordinate testing activities, maintain governance standards, and contribute to continuous improvement while\u00a0supporting other business systems as needed. A U.S. government security clearance is required.",
       "category": "Administrator",
       "role_category": "Administrator",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "385f06f40eba",
+      "title": "ServiceNow Forward Deployed Engineer Jobs",
+      "company": "Deloitte",
+      "location": "Arlington, US",
+      "link": "https://www.clearancejobs.com/jobs/9310544/servicenow-forward-deployed-engineer",
+      "source": "JSearch",
+      "posted": "2026-11-12T00:00:00.000Z",
+      "salary": 134000,
+      "country": "US",
+      "is_remote": false,
+      "description": "At Deloitte, Forward Deployed Engineers (FDE) don't just build AI solutions, they help clients turn AI ambition into enterprise-scale impact, pairing leading class engineering with pod-based delivery and vertical expertise. If you thrive at the intersection of product, engineering, problem-solving, and client impact, this role puts you at the forefront of AI transformations.\n\nWork you'll do\n\nAs a ServiceNow Forward Deployed Engineer, you will work side by side with senior functional and technical client team members to rapidly prototype and deliver high-impact GenAI-enabled solutions. This requires a highly motivated practitioner who moves with speed and precision, building working software, engaging confidently with senior stakeholders and engineers to bring measurable business impact from day one. Additional responsibilities include:\n\nClient Engagement\n\u2022 Embed with clients to identify business needs and translate high-value GenAI use cases into solutions.\n\u2022 Partner with leaders, product owners, architects, and engineers to align priorities and delivery.\n\u2022 Lead working sessions to shape solutions and drive client outcomes.\n\u2022 Prototype and deliver working AI solutions using industry expertise and emerging capabilities.\n\u2022 Contribute independently within an FDE pod while mentoring newer team members.\n\nSolution Engineering\n\u2022 Build AI-enabled solutions, agentic platforms, and workflows across enterprise AI platforms.\n\u2022 Develop scalable AI engineering patterns, tool-use approaches, and human-in-the-loop controls.\n\u2022 Apply architecture decisions that balance quality, safety, latency, cost, and model risk.\n\u2022 Deliver production-quality code using strong practices in testing, CI/CD, logging, versioning, and documentation.\n\u2022 Design extensible functionality, support sprint sizing, and align solutions with senior team members.\n\u2022 Contribute reusable assets including code, prompt libraries, runbooks, and reference implementations.\n\nThe team\n\nDeloitte's Government & Public Services (GPS) practice - our people, ideas, technology and outcomes - is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.\n\nOur ServiceNow offering designs, implements, and delivers strategies and technologies to increase the efficient and value delivery by the enterprise IT function.\n\nQualifications\n\nRequired:\n\u2022 Bachelor's degree (or equivalent) in Computer Science, Data Science or Engineering.\n\u2022 4+ years of experience in software engineering, data engineering, data science, or analytics engineering.\n\u2022 1+ years of experience with the ServiceNow platform.\n\u2022 1+ years of hands-on experience building and deploying GenAI/LLM-powered solutions in client or production environments.\n\u2022 Active ServiceNow Systems Administrator certification.\n\u2022 Active ServiceNow Application Developer certification.\n\u2022 Active ServiceNow ITSM Implementation Specialist certification (CIS-ITSM).\n\u2022 1+ years of experience leading project workstreams/engagements and translating business problems into AI solutions.\n\u2022 1+ years of experience building reliable, maintainable, and well-documented code.\n\u2022 Ability to travel 50%, on average, based on the work you do and the clients and industries/sectors you serve.\n\u2022 Ability to obtain and maintain a US government security clearance.\n\nPreferred:\n\u2022 Experience with cloud environments (AWS, Azure, and/or Google Cloud) and common platform services (storage, compute, identity and access management, networking).\n\u2022 Demonstrated ability to work directly alongside client technical teams and program stakeholders in fast-paced, ambiguous delivery environments.\n\u2022 Data engineering experience with Spark, Airflow/dbt, streaming, data modeling, or machine learning/data science background in feature engineering, experimentation, or model evaluation.\n\u2022 Experience with MLOps/LLMOps practices, including evaluation frameworks, model monitoring, and prompt management.\n\u2022 Experience integrating LLM solutions with enterprise systems via APIs, microservices, or event-driven architectures.\n\u2022 Experience operating within hybrid onshore/offshore teams.\n\u2022 Familiarity with security, privacy, and compliance considerations.\n\nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $134,500 to $265,100.\n\nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.\n\nSNOW_FY27_Social",
+      "category": "Developer",
+      "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -255,24 +291,6 @@
       "status": "active"
     },
     {
-      "id": "52ef7890478c",
-      "title": "Student Volunteer - ServiceNow Support and IT Operations",
-      "company": "Office of Management and Policy",
-      "location": "Washington, US",
-      "link": "https://mindpal.co/jobs/118388",
-      "source": "JSearch",
-      "posted": "2026-11-11T00:00:00.000Z",
-      "salary": null,
-      "country": "US",
-      "is_remote": false,
-      "description": "Quick Facts Unpaid student volunteer position (Spring 2027) Focus: ServiceNow application support and IT operations Schedule: 8\u201320 hours per week for at least 90 days Description Help make an impact while you learn through a program-based project that supports real federal missions. This Spring 2027 opportunity provides hands-on experience with IT service management and enterprise application support by assisting with the ServiceNow application. You\u2019ll work with IT professionals while building technical, analytical, communication, and problem-solving skills. Responsibilities Assist with ServiceNow application testing and troubleshooting; document issues and help research solutions Contribute to documentation and knowledge management (user guides, SOPs, and knowledge base articles) Help generate ServiceNow reports, dashboards, and performance metrics for service delivery monitoring and process improvement Support basic ServiceNow user inquiries; assist with training materials, presentations, and instructional resources Identify opportunities to streamline IT workflows and improve efficiency using ServiceNow Support IT project activities including research, documentation, coordination, and tracking; become familiar with project lifecycle and change/configuration control processes Requirements U.S. citizen At least 16 years old Enrolled at least half-time in an accredited educational institution and in good academic standing Continue enrollment for the duration of the volunteer service Commit to 8\u201320 hours per week for a minimum of 90 days (or more based on eligibility) Submit proof of current enrollment (transcript) with the application Obtain the necessary security/investigation level required for the role Not telework eligible; must report to the physical office location as required Benefits Transit benefits may be available Unpaid volunteer role with no federal employee benefits (no leave accrual; not eligible for noncompetitive conversion)",
-      "category": "Other",
-      "role_category": "Other",
-      "is_agency_lead": false,
-      "agency_badge": "",
-      "status": "active"
-    },
-    {
       "id": "24d2baf9b326",
       "title": "Senior ServiceNow Developer | Dev Technology Group | Handshake",
       "company": "Dev Technology Group",
@@ -284,6 +302,78 @@
       "country": "US",
       "is_remote": false,
       "description": "Senior ServiceNow Developer #1135\n\nClearance: DHS Public Trust or the ability to obtain a DHS Public Trust clearance. **MUST be US Citizen\n\nWhat You'll Be Doing:\n\nServe as a ServiceNow developer on a cross-functional development team\n\n\u2022 Design and develop custom-scoped and configure out of the box applications on the Now Platform to meet business requirements, including implementation of client scripts, business rules, workflows, integrations and script includes\n\n\u2022 Work with ServiceNow modules like Security Incident (SIR), CSM, Threat Hunt\n\n\u2022 Apply analytical techniques when gathering information from users, define work problems, design technology solutions, and develop procedures to resolve the problems.\n\n\u2022 Analyze methods of approach.\n\n\u2022 Provide technical leadership. Apply this leadership in any phase of the system development life cycle support as task requirements dictate and may have a high level of expertise in one area.\n\n\u2022 Plan, recommend, and perform changes.\n\n\u2022 Provide technical assistance and advice on complex activities.\n\n\u2022 Excellent communications skills\n\n\u2022 Excellent teamwork skills\n\nRequired Education, Skills and Experience:\n\n\u2022 Act independently under general direction.\n\n\u2022 15 years of ServiceNow experience\n\n\u2022 Bachelor\u2019s degree in a related discipline\n\n\u2022 Experience with use of Agile methodologies for software development\n\n\u2022 Experience developing, updating, and interpreting JavaScript on the ServiceNow platform\n\n\u2022 Certified Administrator ServiceNow Certification (CSA)\n\n\u2022 Experience with use of Agile methodologies for software development\n\nPreferred Education Skills and Experience:\n\n\u2022 Certified Application Developer ServiceNow Certification (CAD)\n\n\"Our estimated salary range for this position is $120,000 - $155,000, this presented salary range is not a guarantee of compensation or salary. Offered salary is based on experience, geographic location, and possibly contractual requirements as appropriate to the role. *Salary could fall outside of this range. \"\n\nWho We Are\nDev Technology is a growing IT company with an employee-centric culture that works on mission-critical projects for the federal government. We partner with our federal customers to deliver technology services and solutions, and to drive our client\u2019s missions forward through innovation. We use Agile and DevSecOps principles to provide services including application development, biometrics and identity management, cloud and infrastructure optimization, IT and legacy modernization, and data management.\n\nAs a Washington Post Top Workplace award winner for the past THIRTEEN years in a row, the Top Workplaces USA for the past five years, and a recipient of the Companies As Responsive Employers (CARE) Award for the past six years, Dev Technology employees enjoy:\n\n\u2022 Generous and flexible time-off policy\n\n\u2022 Flexible work schedules and telework options, including remote work availability for eligible projects\n\n\u2022 Career development opportunities including a mentorship program, technical and management training through Dev University, hands-on learning through DevLab, tuition reimbursement, and paid training opportunities\n\n\u2022 Industry-leading benefits including a choice of two health plans that include dental and vision, flexible spending account, commuter benefits, life insurance, and more\n\n\u2022 401K matching with a 5% matching contribution\n\n\u2022\nRegular team and company social events including our annual party, happy hours, fitness challenges, and more\n\n\u2022 A focus on community engagement including company wide support activities, employer match for donations, and time off for volunteer efforts\n\n\u2022 To learn more about working at Dev Technology, visit Working At Dev Technology Group\n\nEqual Opportunity Employer / Individuals with Disabilities / Protected Veterans\n\nDev Technology Group operates in the following states: AL, AR, AZ, CO, DC, FL, GA, ID, IL, IN, MD, MA, ME, MI, MN, MO, MS, NC, NJ, OH, OR, PA, SC, TN, TX, VA, WV.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "afcf1973554d",
+      "title": "ServiceNow SAM Developer-Secret",
+      "company": "Sunayu, LLC",
+      "location": "Suitland-Silver Hill, US",
+      "link": "https://www.career.com/job/sunayu-llc/servicenow-sam-developer-secret/j202610181209245792697",
+      "source": "JSearch",
+      "posted": "2026-11-11T00:00:00.000Z",
+      "salary": 107900,
+      "country": "US",
+      "is_remote": false,
+      "description": "Location: Camp Springs, Maryland\n\nCategory: Software Engineer\nTravel Required: No\nRemote Type: No\nClearance: Secret\n\nAs a ServiceNow Developer, you will be the hands-on engineering force behind the IT Service Management (ITSM) modernization efforts for the Air Force District of Washington (AFDW) and the Department of the Air Force (DAF). Working in close coordination with architects and business stakeholders, you will build, configure, and deploy the automated workflows, custom applications, and system integrations that replace legacy, siloed processes. Your ability to write clean code, establish modern API integrations, and leverage ServiceNow out-of-the-box capabilities is vital to delivering secure, efficient, and user-centric solutions that directly support DAF mission readiness and day-to-day operations.\n\nJob Duties:\n\u2022 SAM & ITAM Module Engineering.\n\u2022 Module Configuration: Build, configure, and maintain ServiceNow SAM Pro, SaaS Management, and related HAM Pro integrations.\n\u2022 License & Compliance Operations: Implement and maintain software entitlement models, license metrics, normalization rules, and automated reconciliation engines.\n\u2022 Lifecycle Automation: Design end-to-end asset lifecycle automations (e.g., software request, allocation, harvesting/reclamation, renewal, and retirement) using Flow Designer, Workflow Editor, and Scoped Applications.\n\u2022 Platform Development & Customization.\n\u2022 Full-Lifecycle Development: Design, code, debug, test, document, and deploy scalable solutions across the ServiceNow platform.\n\u2022 Core Scripting & Logic: Implement clean, maintainable logic using Script Includes, Business Rules, Client Scripts, UI Actions, UI Policies, and Service Portal widgets following strict enterprise coding standards.\n\u2022 Data Architecture: Optimize ServiceNow data models, CMDB relationships, and asset table schemas for performance and integrity.\n\u2022 Integrations, Data Management & Reporting.\n\u2022 Data Ingestion & Mapping: Execute data imports, transform maps, and scheduled jobs to synchronize third-party discovery data, vendor portals, and procurement systems.\n\u2022 Analytics & Visibility: Build and maintain actionable SAM dashboards, executive compliance reports, custom database views, and automated audit reports.\n\u2022 Release, Maintenance & Governance.\n\u2022 Deployment & Change Management: Prepare technical design specifications and migrate update sets/scoped applications across sub-production and production instances.\n\u2022 Upgrades & Testing: Lead unit testing, resolve defects, support platform upgrades, patching, and automated test framework (ATF) validations.\n\u2022 Emerging Platform Capabilities: Explore and integrate ServiceNow AI innovations (e.g., Now Assist and AI agents) to optimize asset operations and user self-service.\n\u2022 Stakeholder Collaboration & Enablement.\n\u2022 Requirements Translation: Partner closely with IT Asset Managers, Procurement, and ITIL process owners to translate business licensing rules into technical platform specifications.\n\u2022 Knowledge Transfer: Author technical architecture documents, administrative runbooks, and user-facing knowledge bases; mentor and onboard fellow team members.\n\nWhat Sets You Apart:\n\u2022 Requires a Bachelors degree computer science, Information Systems, IT, Engineering, or related field and 8 years of prior relevant experience or a Masters degree with 6 years of prior relevant experience additional years of experience will be accepted in lieu of a degree.\n\u2022 At least 4 years of ServiceNow development and scripting experience (JavaScript, Glide APIs, HTML, XML), with deep proficiency in Flow Designer, IntegrationHub, and API integrations.\n\u2022 ServiceNow Certified System Administrator or ServiceNow Certified Application Developer, required.\n\u2022 Advanced ServiceNow Certifications: Certified Implementation Specialist (CIS) in ITSM, preferred.\n\u2022 Strong expertise in ITAM (SAM/HAM) and ITOM (CMDB, Discovery, Service Mapping) modules.\n\u2022 Proven experience in large-scale ServiceNow implementations and platform governance.\n\nYou Might Also Have:\n\u2022 Master's degree in IT or a related field.\n\u2022 Certified Application Developer.\n\u2022 ITIL v4 Foundations Certification, a plus.\n\u2022 BMC Helix or BMC Remedy experience.\n\nWho We Are\n\nSunayu, LLC serves as a premier technology partner to the Defense and Intelligence communities, delivering mission-critical engineering solutions across the nation. Our operations are anchored in a commitment to trust, accountability, and ethical transparency, ensuring the high-performance outcomes necessary to protect our country's most vital interests.\n\nCulture\n\nOur strength lies in our community: Our team prioritizes collaboration, professional growth, and encourages open communication. At Sunayu, we don't just secure the mission-we grow together.\n\nCareer Development\n\nWe support and encourage our team members to continue their professional growth by providing company-reimbursed training and continuing education of up to $5,000 per year. We also participate in many industry conferences and events where we share our expertise and experiences.\n\nPay Rate\n\nSalary range considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills, as well as market and business considerations when extending an offer.\n\nBenefits\n\u2022 3 Medical Plan Options\n\u2022 Dental and Vision\n\u2022 FSA, DCFSA, HSA\n\u2022 Life/AD&D Insurance\n\u2022 Short-Term & Long-Term Disability\n\u2022 Employee Assistance Program (EAP)\n\u2022 Training and Educational Assistance\n\u2022 Paid Time Off (PTO)\n\u2022 11 Federal holidays\n\u2022 401k plan with up to a 6% match (100% immediate vesting)\n\nEqual Opportunity Employer\n\nSunayu, LLC is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, age, protected veteran status, disability status, marital status, genetic information, medical condition, or any other characteristic protected by law.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "ff95e7f5b587",
+      "title": "Service Now Developer",
+      "company": "Emergent Technologies Inc",
+      "location": "Herndon, US",
+      "link": "https://us.trabajo.org/job-2402-44ff90292f06604f125337d7dbeb07cb",
+      "source": "JSearch",
+      "posted": "2026-11-11T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Job DescriptionJob DescriptionBenefits:\n\u2022 401(k) matching\n\u2022 Competitive salary\n\u2022 Dental insurance\n\u2022 Paid time off\n\u2022 Vision insurance\n\nEmergent Technologies Inc. is seeking a talented and motivated ServiceNow Developer / Integration Engineer to join our growing technology team in support of a mission-critical Government customer. In this role, you will play a key part in designing, implementing, and maintaining integrations between ServiceNow ITSM/ITOM and enterprise network monitoring platforms. Your work will help drive automation, enhance network visibility, and elevate IT service delivery across the organization.\n\nThis is an exciting opportunity for a hands-on technologist who enjoys solving complex integration challenges and collaborating with cross-functional teams to deliver impactful solutions.\n\nPOS-127\n\nKey Responsibilities\n\u2022 Design, build, and configure integrations between ServiceNow and external systems using APIs, connectors, and custom scripting\n\u2022 Develop and automate workflows for incident management, change management, and network provisioning\n\u2022 Troubleshoot integration issues and provide ongoing operational support\n\u2022 Monitor integration performance and optimize reliability, scalability, and efficiency\n\u2022 Collaborate closely with ServiceNow administrators, network engineers, and stakeholders to align technical solutions with mission objectives\n\u2022 Provide training, documentation, and knowledge transfer to ensure long-term team success\n\nRequired Education, Experience & Skills\n\nWe are seeking experienced ServiceNow Developers / Integration Specialists with a passion for enterprise technology and automation. A Bachelor\u2019s or Master\u2019s degree in Computer Science (or a related field) is preferred, along with 11+ years of relevant experience, including:\n\u2022 Hands-on experience with ServiceNow, including ITSM, ITOM, and CMDB\n\u2022 Strong experience integrating network management and monitoring applications via APIs and orchestration tools\n\u2022 Proficiency in scripting languages such as JavaScript, Python, and PowerShell\n\u2022 Experience working with REST/SOAP APIs, JSON, and XML\n\u2022 Solid understanding of networking fundamentals, including routing, VPNs, firewalls, and QoS\n\u2022 Excellent analytical, problem-solving, and communication skills\n\nPreferred Education, Experience & Skills\n\u2022 ServiceNow Certified System Administrator or Implementation Specialist certification\n\u2022 Experience with SD-WAN technologies\n\u2022 Familiarity with CI/CD pipelines and DevOps practices\n\u2022 Background supporting large-scale enterprise IT environments with complex system integrations",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "76ec5ad3e1cf",
+      "title": "ServiceNow Architect/Technical Lead",
+      "company": "PBG",
+      "location": "Washington, US",
+      "link": "https://www.jobleads.com/us/job/servicenow-architect-technical-lead--district-of-columbia--e29739fcd979d69976f0962596fc38db8",
+      "source": "JSearch",
+      "posted": "2026-11-11T00:00:00.000Z",
+      "salary": 140000,
+      "country": "US",
+      "is_remote": false,
+      "description": "PBG delivers mission-focused solutions that eliminate inefficiency and power transformation for federal agencies requiring agility, security, and impact.\n\nLocation: Hybrid - primarily remote, with occasional on-site presence at the Customer's facilities in Washington, DC as required.\n\nPosition Summary\n\nPBG is seeking an experienced ServiceNow Architect/Technical Lead to serve as the technical subject matter expert (SME) for the Service Desk modernization at our customer. As the Customer consolidates distributed Level 1 (L1) IT support into a unified Service Desk delivered by a Managed Service Provider (MSP), ServiceNow is the platform that enables its workflows, Service Level Agreement (SLA) monitoring, knowledge management, and self-service.\n\nThis key position assesses the Customer's current ServiceNow configuration, designs the future-state platform, and leads configuration, integration, testing, and administrator training when those phases are exercised.\n\nKey Responsibilities\n\n\u2022 Assess the Customer's current ServiceNow configuration, including activated modules, customizations, workflows, knowledge base (KB), reporting, integrations, and technical debt, and analyze at least 12 months of historical ticket data.\n\n\u2022 Design the future-state ServiceNow configuration, including incident and request workflows aligned with the L1, Level 2 (L2), and Level 3 (L3) tier model, SLA configuration specifications, a configuration requirements workbook, and a transition plan with rollback procedures.\n\n\u2022 Design 15-20 dashboards, 30-40 reports, and a self-service portal with 15-20 self-service capabilities, including wireframes, user journey maps, and Section 508 accessibility requirements.\n\n\u2022 Develop integration specifications for Active Directory, email, privileged access management (PAM), remote access tools, and monitoring systems, and define ServiceNow-to-PAM integration requirements with Customer IT Security.\n\n\u2022 Configure ServiceNow incident and request management workflows, including assignment groups and rules, escalation triggers, the P1-P4 priority matrix, service catalog categories, and SLA definitions with breach warnings.\n\n\u2022 Configure the ServiceNow Knowledge module, build SLA monitoring, agent performance, executive, and knowledge effectiveness dashboards and reports, and implement the self-service portal.\n\n\u2022 Implement ServiceNow integrations with Customer systems, including the ServiceNow side of the integration with the Customer's PAM solution, and configure ServiceNow audit logging.\n\n\u2022 Provide oversight and validation of ServiceNow configuration against design specifications, whether the work is performed by Customer staff, other contractors, or PBG.\n\n\u2022 Conduct unit, integration, performance, and failover testing, support user acceptance testing (UAT), and support technical go-live readiness.\n\n\u2022 Develop ServiceNow configuration documentation and an administration guide and deliver hands-on training to Customer ServiceNow administrators.\n\n\u2022 Direct the work of non-key personnel assigned to ServiceNow development and testing.\n\nMinimum Qualifications\n\n\u2022 Seven (7) years of ServiceNow platform experience.\n\n\u2022 Five (5) years configuring ServiceNow IT Service Management (ITSM) modules (Incident, Request, Knowledge, Service Catalog).\n\n\u2022 Strong experience with ServiceNow workflow design and business rules.\n\n\u2022 Experience with ServiceNow integrations (Active Directory, single sign-on (SSO), email).\n\n\u2022 Knowledge of JavaScript and ServiceNow scripting.\n\n\u2022 Experience with ServiceNow reporting and dashboard development.\n\n\u2022 ServiceNow upgrade and version management experience.\n\n\u2022 ServiceNow Certified Implementation Specialist (CIS) in ITSM or Certified System Administrator (CSA).\n\n\u2022 S. Citizenship.\n\n#WHYPBG\n\nWe have successfully built a company culture based on our single most important asset - our employees. At PBG we are passionate about employee engagement and make it our business to provide our employees a range of challenging and rewarding opportunities that align with business strategy, promoteteam workand inspire innovation. A job is where you are spending most of your day, so PBG believes in making it a fun, collaborative and productive environment. We want our employees to have the opportunity to grow and be part of a company that is making a lasting contribution to our customers.\n\nBenefits:\n\n\u2022 401K Retirement Plan\n\n\u2022 Medical Plan options with significant financial investments from PBG\n\n\u2022 Prescription benefit plan\n\n\u2022 Dental and Vision coverage\n\n\u2022 Employee Assistance Program\n\n\u2022 Short term / Long-term disability\n\n\u2022 Supplemental group life and AD&D options\n\n\u2022 Yearly Bonuses\n\n\u2022 Generous Paid Time Off / Paid Holidays\n\n\u2022 Career/Professional Development Program\n\n\u2022 Spot Bonus Program\n\nEqual Employment Opportunity Statement:\n\nPBG is an equal opportunity employer and makes all employment decisions based on job-related qualifications, skills, experience, and business needs. We do not discriminate against any applicant or employee based on legally protected characteristics, including but not limited to race, color, religion, sex, national origin, age, disability, genetic information, or veteran status, in accordance with applicable federal, state, and local laws. PBG complies with all laws regarding non-discrimination in employment in every location in which the company operates\n\nDisclaimer:\n\nThis job description reflects management's assignment of essential job functions but is not intended to be a comprehensive list of all activities, duties and responsibilities required by the job incumbent. Nothing in the herein restricts management's right to assign or reassign duties and responsibilities to this job at any time.\nThis document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": true,
+      "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "aab07fc2e242",
+      "title": "Remote ServiceNow Developer - ITSM & Automation Pro",
+      "company": "Federal Staffing Solutions Inc.",
+      "location": "Fort Meade, US",
+      "link": "https://bebee.com/us/jobs/remote-servicenow-developer-itsm-automation-pro-federal-staffing-solutions-inc-fort-meade--lensa-7428_53da5cd29d7382c64b30475fbdba82c51c27b4372d6eaf7afa2cb48a3f962e1e",
+      "source": "JSearch",
+      "posted": "2026-11-11T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": true,
+      "description": "Federal Staffing Solutions Inc. is seeking a ServiceNow Developer for a role based in Fort Meade, MD.\n\nThe position is primarily remote with about one week per month in the Fort Meade office and requires US citizenship with an active DoD Secret clearance. The candidate will configure, develop, support, and maintain ServiceNow implementations, focusing on ITIL processes and Service Catalog-driven automation, while collaborating with internal and external stakeholders to deliver digital",
       "category": "Developer",
       "role_category": "Developer",
       "is_agency_lead": false,
@@ -304,6 +394,24 @@
       "description": "Position: ServiceNow Developer (TS Clearance)\n\nIf you are unable to complete this application due to a disability, contact this employer to ask for an accommodation or an alternative application process.\nService Now Developer (TS Clearance)\n\nRegular Full-Time Reston, VA, US\n\n30+ days ago Requisition\n\nSalary Range: $ To $ Annually\n\nPOSITION TITLE:\nService Now Developer\n\nThe work you build here won\u2019t sit in a backlog \u2013 it will directly support critical government missions.\n\nAt Intact Technology, you\u2019ll solve complex Service Now challenges in highly secure environments, work alongside experienced platform experts, and have the freedom to own solutions from concept to deployment. If you\u2019re looking for more technical ownership, greater impact, and fewer layers of bureaucracy, we\u2019d love to meet you.\nABOUT US:\n\nAt Intact Technology, we are driven by a shared commitment to customer success, employee fulfillment, and meaningful impact. We combine human ingenuity with intelligent tools to deliver smarter solutions, faster outcomes, and exceptional value for our clients and partners.\n\nWe operate in an AI-enabled, outcome-based delivery model, where technology accelerates execution and our teams focus on judgment, problem solving, client impact, and accountability. Success at Intact requires the ability to leverage tools effectively while applying a critical, thoughtful approach to client solutions and delivery outcomes.\n\nOur culture is built around individuality, autonomy, and empowerment, with the freedom to think creatively, act boldly, and make an impact. We support that with a flexible work environment, comprehensive benefits, and continued investment in learning and career growth.\nTHE ROLE:\n\nWe\u2019re looking for a Service Now Developer to design, develop, and enhance Service Now Solutions within secure federal environments. If you enjoy solving complex technical challenges, taking ownership of your work, and building solutions that directly support mission\u2011critical government operations, this is an opportunity to make a meaningful impact.\n\nYou\u2019ll collaborate with clients, architects, developers, and government stakeholders to deliver secure, scalable solutions across the Service Now platform, with a primary focus on ITSM and related workflows. You\u2019ll also have opportunities to work with platform integrations, automation, AI\u2011enabled workflows, and emerging Service Now capabilities that help modernize service delivery.\n\nSuccess in this role requires strong technical expertise, problem\u2011solving skills, attention to detail, and the ability to thrive in fast\u2011paced, mission\u2011driven environments. If you\u2019re looking to work on high\u2011impact programs alongside experienced professionals while delivering results that matter, we\u2019d love to hear from you.\nTO BE SUCCESSFUL HERE YOU WILL:\n\u2022 Own the end\u2011to\u2011end development lifecycle for enterprise Service Now solutions, from technical design through deployment.\n\u2022 Design, build, and enhance custom Service Now solutions that support secure government environments.\n\u2022 Develop scalable workflows, integrations, and automations that improve operational efficiency for federal customers.\n\u2022 Collaborate closely with stakeholders and mission leads to deliver highly tailored ITSM capabilities.\n\u2022 Lead module development, integrations, and enhancements across the Service Now suite.\n\u2022 Ensure platform stability, performance, and secure configuration under TS protocols.\n\u2022 Mentor junior developers and provide technical direction on best practices in a high\u2011stakes, cleared environment.\n\u2022 Continuously identify opportunities to improve platform performance, usability, and maintainability through thoughtful development and innovation.\nREQUIRED QUALIFICATIONS:\n\u2022 Must possess a current Top Secret (TS) security clearance.\n\u2022 Must be willing and eligible to obtain SCI access as required for\u2026",
       "category": "Developer",
       "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "52ef7890478c",
+      "title": "Student Volunteer - ServiceNow Support and IT Operations",
+      "company": "Office of Management and Policy",
+      "location": "Washington, US",
+      "link": "https://mindpal.co/jobs/118388",
+      "source": "JSearch",
+      "posted": "2026-11-10T00:00:00.000Z",
+      "salary": null,
+      "country": "US",
+      "is_remote": false,
+      "description": "Quick Facts Unpaid student volunteer position (Spring 2027) Focus: ServiceNow application support and IT operations Schedule: 8\u201320 hours per week for at least 90 days Description Help make an impact while you learn through a program-based project that supports real federal missions. This Spring 2027 opportunity provides hands-on experience with IT service management and enterprise application support by assisting with the ServiceNow application. You\u2019ll work with IT professionals while building technical, analytical, communication, and problem-solving skills. Responsibilities Assist with ServiceNow application testing and troubleshooting; document issues and help research solutions Contribute to documentation and knowledge management (user guides, SOPs, and knowledge base articles) Help generate ServiceNow reports, dashboards, and performance metrics for service delivery monitoring and process improvement Support basic ServiceNow user inquiries; assist with training materials, presentations, and instructional resources Identify opportunities to streamline IT workflows and improve efficiency using ServiceNow Support IT project activities including research, documentation, coordination, and tracking; become familiar with project lifecycle and change/configuration control processes Requirements U.S. citizen At least 16 years old Enrolled at least half-time in an accredited educational institution and in good academic standing Continue enrollment for the duration of the volunteer service Commit to 8\u201320 hours per week for a minimum of 90 days (or more based on eligibility) Submit proof of current enrollment (transcript) with the application Obtain the necessary security/investigation level required for the role Not telework eligible; must report to the physical office location as required Benefits Transit benefits may be available Unpaid volunteer role with no federal employee benefits (no leave accrual; not eligible for noncompetitive conversion)",
+      "category": "Other",
+      "role_category": "Other",
       "is_agency_lead": false,
       "agency_badge": "",
       "status": "active"
@@ -432,6 +540,42 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
+      "status": "active"
+    },
+    {
+      "id": "955c38f7d44c",
+      "title": "ServiceNow Platform Admin & QA Specialist",
+      "company": "Mtsi Va",
+      "location": "Alexandria, US",
+      "link": "https://www.jobleads.com/us/job/servicenow-platform-admin-qa-specialist--alexandria--e20682a6f36e1b9f561e92c95f213a327",
+      "source": "JSearch",
+      "posted": "2026-11-10T00:00:00.000Z",
+      "salary": 100000,
+      "country": "US",
+      "is_remote": false,
+      "description": "MTSI is seeking an Applications Administrator to manage the ServiceNow platform, govern knowledge bases, and coordinate testing and QA activities. The role ensures platform reliability, accurate documentation, and smooth release readiness.\n\nResponsibilities include platform upgrades, performance monitoring, governance of knowledge content, and developing configurations and dashboards to improve automation and user experience.",
+      "category": "Administrator",
+      "role_category": "Administrator",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
+    {
+      "id": "1bd1a3cf61a5",
+      "title": "ServiceNow Integration Engineer \u2014 Remote 2\u20133 Days/Week",
+      "company": "Apex Systems",
+      "location": "Fort Meade, US",
+      "link": "https://www.jobleads.com/us/job/servicenow-integration-engineer-remote-2-3-days-week--fort-meade--ec82ffafcbaa785647c9ec8e434eecb5f",
+      "source": "JSearch",
+      "posted": "2026-11-10T00:00:00.000Z",
+      "salary": 83000,
+      "country": "US",
+      "is_remote": true,
+      "description": "Everforth Apex is seeking a ServiceNow Integration Engineer to stand up and configure ITSM, ITOM, TSM, TSOM modules and develop custom integrations. Candidates must be U.S. citizens eligible for DoD clearance and have 2+ years of ServiceNow experience.\n\nPosition offers a 2-3 days remote weekly schedule, 48+ month contract, and exposure to enterprise tools like Elastic, Netcool, and Kafka in a fast-paced Agile environment.",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
       "status": "active"
     },
     {
@@ -1166,24 +1310,6 @@
       "country": "US",
       "is_remote": false,
       "description": "\ud83d\udccd Bethesda, MD\n\ud83d\udccc Full Time | On Site\n\nJoin Synertex LLC and bring your expertise to a mission that matters. We're looking for an experienced ServiceNow UX Expert to support our Intelligence Community (IC) customer. The ideal candidate will focus on creating intuitive, user-centered experiences that improve usability and efficiency across ServiceNow applications and workflows.\n\nGiven the nature of this role, the selected candidate will regularly interface with very senior IC staff and cross-functional contractors supporting separate contracts. This requires a calm, confident communication style to engage effectively with diverse stakeholders and enable mission success.\n\nAs a ServiceNow UX Expert, you will play a pivotal role in designing user-centered solutions that improve mission effectiveness, enhance usability, and support the successful delivery of ServiceNow capabilities across the enterprise.\n\nRESPONSIBILITIES:\n\nUser Experience (UX) Professional\n\nPrimary Focus:\n\n\u2022 User-centered design, user experience, and usability.\n\nKey Responsibilities:\n\n\u2022 Understand user needs and behaviors through research.\n\n\u2022 Develop user personas and user journeys.\n\n\u2022 Design intuitive and user-friendly products and services.\n\n\u2022 Create wireframes, prototypes, and high-fidelity mockups.\n\n\u2022 Conduct usability testing and iterate on designs\n\nCollaboration with Stakeholders:\n\n\u2022 Work closely with IC staff, developers, and other contractors to clarify requirements and address gaps in design and implementation.\n\n\u2022 Facilitate discussions and coordination between teams to ensure that requirements are clearly communicated and understood across contracts and workstreams.\n\n\u2022 Participate in technical exchange meetings and workshops to refine requirements in alignment with SNOW platform capabilities and best practices.\n\nDocumentation and Communication:\n\n\u2022 Document user research findings, user journeys, wireframes, prototypes, and usability recommendations.\n\n\u2022 Present UX concepts, design recommendations, and usability findings to both technical and non-technical audiences.\n\n\u2022 Provide regular updates to IC leadership regarding UX initiatives, design improvements, and user feedback.\n\nCross-Functional Leadership:\n\n\u2022 Interface confidently with senior IC officials, ensuring requirements workflows are driven by strategic priorities and communicated in a professional, poised manner.\n\n\u2022 Collaborate across multiple contractor teams, building relationships that foster open communication and alignment toward shared mission goals.\n\nWork Environment:\n\n\u2022 Collaboration: The role requires daily interaction with senior IC staff and integration with cross-functional contractor teams, where clear communication and strong interpersonal skills are essential.\n\nREQUIREMENTS:\n\n\u2022 Active TS/SCI with Poly is REQUIRED\n\nExperience & Skills:\n\n\u2022 Minimum of 8 years of relevant experience, with proven expertise in collecting and refining technical requirements for SNOW applications and workflows.\n\n\u2022 14+ years of professional experience\n\n\u2022 Strong understanding of SNOW platform capabilities, including workflows, applications, and integrations.\n\n\u2022 Experience operating in dynamic team environments, collaborating with both technical and non-technical stakeholders.\n\nSkills\n\n\u2022 User research and analysis.\n\n\u2022 Interaction design.\n\n\u2022 Visual design.\n\n\u2022 Prototyping and usability testing.\n\n\u2022 Human-centered design principles.\n\nInterpersonal & Communication Skills:\n\n\u2022 Confidence working with very senior leadership and an ability to communicate clearly, calmly, and effectively across diverse audiences.\n\n\u2022 Demonstrated ability to navigate and collaborate across multiple contractor teams, fostering alignment in cross-functional environments.\n\n\u2022 Strong analytical and interpersonal skills for bridging the gap between technical teams and mission-driven stakeholders.\n\nPreferred Qualifications:\n\n\u2022 Familiarity with Intelligence Community (IC) environments, workflows, and directives.\n\n\u2022 Experience working in agile or hybrid development environments, including collaboration with Scrum teams.\n\n\u2022 Certification in ServiceNow frameworks or business analysis methodologies such as Certified Application Specialist or Certified Business Analyst Professional (CBAP).\n\n\u2022 Capability in creating visual requirements documentation (e.g., process models, data flow diagrams) using tools like Microsoft Visio, Lucidchart, or other standard platforms.",
-      "category": "Developer",
-      "role_category": "Developer",
-      "is_agency_lead": true,
-      "agency_badge": "C2C / Agency Contract",
-      "status": "active"
-    },
-    {
-      "id": "afcf1973554d",
-      "title": "ServiceNow SAM Developer-Secret",
-      "company": "Sunayu, LLC",
-      "location": "Suitland-Silver Hill, US",
-      "link": "https://www.career.com/job/sunayu-llc/servicenow-sam-developer-secret/j202610181209245792697",
-      "source": "JSearch",
-      "posted": "2026-11-04T00:00:00.000Z",
-      "salary": 107900,
-      "country": "US",
-      "is_remote": false,
-      "description": "Location: Camp Springs, Maryland\n\nCategory: Software Engineer\nTravel Required: No\nRemote Type: No\nClearance: Secret\n\nAs a ServiceNow Developer, you will be the hands-on engineering force behind the IT Service Management (ITSM) modernization efforts for the Air Force District of Washington (AFDW) and the Department of the Air Force (DAF). Working in close coordination with architects and business stakeholders, you will build, configure, and deploy the automated workflows, custom applications, and system integrations that replace legacy, siloed processes. Your ability to write clean code, establish modern API integrations, and leverage ServiceNow out-of-the-box capabilities is vital to delivering secure, efficient, and user-centric solutions that directly support DAF mission readiness and day-to-day operations.\n\nJob Duties:\n\u2022 SAM & ITAM Module Engineering.\n\u2022 Module Configuration: Build, configure, and maintain ServiceNow SAM Pro, SaaS Management, and related HAM Pro integrations.\n\u2022 License & Compliance Operations: Implement and maintain software entitlement models, license metrics, normalization rules, and automated reconciliation engines.\n\u2022 Lifecycle Automation: Design end-to-end asset lifecycle automations (e.g., software request, allocation, harvesting/reclamation, renewal, and retirement) using Flow Designer, Workflow Editor, and Scoped Applications.\n\u2022 Platform Development & Customization.\n\u2022 Full-Lifecycle Development: Design, code, debug, test, document, and deploy scalable solutions across the ServiceNow platform.\n\u2022 Core Scripting & Logic: Implement clean, maintainable logic using Script Includes, Business Rules, Client Scripts, UI Actions, UI Policies, and Service Portal widgets following strict enterprise coding standards.\n\u2022 Data Architecture: Optimize ServiceNow data models, CMDB relationships, and asset table schemas for performance and integrity.\n\u2022 Integrations, Data Management & Reporting.\n\u2022 Data Ingestion & Mapping: Execute data imports, transform maps, and scheduled jobs to synchronize third-party discovery data, vendor portals, and procurement systems.\n\u2022 Analytics & Visibility: Build and maintain actionable SAM dashboards, executive compliance reports, custom database views, and automated audit reports.\n\u2022 Release, Maintenance & Governance.\n\u2022 Deployment & Change Management: Prepare technical design specifications and migrate update sets/scoped applications across sub-production and production instances.\n\u2022 Upgrades & Testing: Lead unit testing, resolve defects, support platform upgrades, patching, and automated test framework (ATF) validations.\n\u2022 Emerging Platform Capabilities: Explore and integrate ServiceNow AI innovations (e.g., Now Assist and AI agents) to optimize asset operations and user self-service.\n\u2022 Stakeholder Collaboration & Enablement.\n\u2022 Requirements Translation: Partner closely with IT Asset Managers, Procurement, and ITIL process owners to translate business licensing rules into technical platform specifications.\n\u2022 Knowledge Transfer: Author technical architecture documents, administrative runbooks, and user-facing knowledge bases; mentor and onboard fellow team members.\n\nWhat Sets You Apart:\n\u2022 Requires a Bachelors degree computer science, Information Systems, IT, Engineering, or related field and 8 years of prior relevant experience or a Masters degree with 6 years of prior relevant experience additional years of experience will be accepted in lieu of a degree.\n\u2022 At least 4 years of ServiceNow development and scripting experience (JavaScript, Glide APIs, HTML, XML), with deep proficiency in Flow Designer, IntegrationHub, and API integrations.\n\u2022 ServiceNow Certified System Administrator or ServiceNow Certified Application Developer, required.\n\u2022 Advanced ServiceNow Certifications: Certified Implementation Specialist (CIS) in ITSM, preferred.\n\u2022 Strong expertise in ITAM (SAM/HAM) and ITOM (CMDB, Discovery, Service Mapping) modules.\n\u2022 Proven experience in large-scale ServiceNow implementations and platform governance.\n\nYou Might Also Have:\n\u2022 Master's degree in IT or a related field.\n\u2022 Certified Application Developer.\n\u2022 ITIL v4 Foundations Certification, a plus.\n\u2022 BMC Helix or BMC Remedy experience.\n\nWho We Are\n\nSunayu, LLC serves as a premier technology partner to the Defense and Intelligence communities, delivering mission-critical engineering solutions across the nation. Our operations are anchored in a commitment to trust, accountability, and ethical transparency, ensuring the high-performance outcomes necessary to protect our country's most vital interests.\n\nCulture\n\nOur strength lies in our community: Our team prioritizes collaboration, professional growth, and encourages open communication. At Sunayu, we don't just secure the mission-we grow together.\n\nCareer Development\n\nWe support and encourage our team members to continue their professional growth by providing company-reimbursed training and continuing education of up to $5,000 per year. We also participate in many industry conferences and events where we share our expertise and experiences.\n\nPay Rate\n\nSalary range considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills, as well as market and business considerations when extending an offer.\n\nBenefits\n\u2022 3 Medical Plan Options\n\u2022 Dental and Vision\n\u2022 FSA, DCFSA, HSA\n\u2022 Life/AD&D Insurance\n\u2022 Short-Term & Long-Term Disability\n\u2022 Employee Assistance Program (EAP)\n\u2022 Training and Educational Assistance\n\u2022 Paid Time Off (PTO)\n\u2022 11 Federal holidays\n\u2022 401k plan with up to a 6% match (100% immediate vesting)\n\nEqual Opportunity Employer\n\nSunayu, LLC is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, age, protected veteran status, disability status, marital status, genetic information, medical condition, or any other characteristic protected by law.",
       "category": "Developer",
       "role_category": "Developer",
       "is_agency_lead": true,
@@ -3708,7 +3834,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "42d54af5caa5",
@@ -3726,7 +3852,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "618dbb7af5d7",
@@ -3744,7 +3870,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "d73e7c1a087b",
@@ -3762,7 +3888,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "dc2e33818460",
@@ -3780,7 +3906,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "044055cabec6",
@@ -3798,7 +3924,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2f59f4c652db",
@@ -3816,7 +3942,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "40ad5964c027",
@@ -3834,7 +3960,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "ec2df68741b7",
