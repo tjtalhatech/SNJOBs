@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-16T17:58:14.119840Z",
-  "count": 1617,
+  "updated_at": "2026-11-17T02:45:06.044660Z",
+  "count": 1618,
   "jobs": [
+    {
+      "id": "d80505d86d24",
+      "title": "ServiceNow Engineer",
+      "company": "Uni Systems",
+      "location": "Strasbourg, France",
+      "link": "https://www.arbeitnow.fr/jobs/companies/uni-systems/servicenow-engineer-strasbourg-194511",
+      "source": "Arbeitnow",
+      "posted": "2026-11-16T20:20:20Z",
+      "salary": null,
+      "country": "",
+      "is_remote": false,
+      "description": "<p>At Uni Systems, we are working towards turning digital visions into reality. We are continuously growing and we are looking for a professional ServiceNow Engineer to join our UniQue Brussels team.</p><p><strong>What will you be bringing to the team?</strong></p><ul><li>Design, develop, customize, configure, administer, and maintain ServiceNow solutions, ensuring alignment with business and operational requirements.</li><li>Develop, maintain, and optimize ServiceNow integrations with internal and external systems using REST, SOAP, JDBC, and other integration protocols.</li><li>Develop and maintain custom ServiceNow scripts and applications using JavaScript and platform APIs, including GlideRecord, GlideAjax, Script Includes, and related scripting capabilities.</li><li>Configure, customize, and integrate ServiceNow modules, including IT Service Management (ITSM), IT Operations Management (ITOM), IT Asset Management (ITAM), and Configuration Management Database (CMDB).</li><li>Design, implement, and maintain ServiceNow workflows, Flow Designer subflows, UI Policies, reusable components, and automated processes.</li><li>Configure and manage data imports, exports, transformations, and integrations, ensuring data accuracy, integrity, security, and compliance.</li><li>Implement and maintain authentication and authorization mechanisms for ServiceNow integrations, including OAuth and Basic Authentication.</li><li>Develop and maintain integrations between ServiceNow and external enterprise platforms, operational tools, and third-party systems.</li><li>Conduct functional, integration, and regression testing using the ServiceNow Automated Test Framework (ATF).</li><li>Monitor and maintain ServiceNow platform health, performance, usage, and compliance, identifying and resolving technical issues.</li><li>Support ServiceNow platform upgrades, enhancements, customizations, and continuous development.</li><li>Administer and maintain enterprise IT infrastructure, including physical and virtual servers, storage systems, and integrated technology platforms.</li><li>Configure, administer, and troubleshoot VMware environments, including vSphere, vSAN, and Horizon.</li><li>Administer Windows, Linux, and UNIX operating systems in large-scale enterprise environments.</li><li>Design, implement, and administer backup and recovery solutions, including Veeam and HPE StoreOnce.</li><li>Administer enterprise storage technologies, including traditional SAN, NAS, Ceph, vSAN, and distributed file systems.</li><li>Administer server infrastructure, including blade systems, composable infrastructure, and Oracle platforms such as Exadata and Zero Data Loss Recovery Appliance (ZDLRA).</li><li>Administer OpenShift Container Platform (OCP) and supporting technologies, including Red Hat Service Mesh, GitHub, Helm, GitOps, Ansible Automation Platform, and Kafka.</li><li>Develop, execute, maintain, and troubleshoot automation scripts using Ansible and PowerShell.</li><li>Administer Active Directory, LDAP, Keycloak, Public Key Infrastructure (PKI), and digital certificate lifecycle processes.</li><li>Administer and maintain monitoring and observability platforms, including Nagios, Splunk, Prometheus, Grafana, Elasticsearch, Fluentd, Kibana, and Jaeger.</li><li>Administer mail servers and mail relays, including Postfix, antivirus, and anti-spam solutions.</li><li>Support database environments, including Microsoft SQL Server, Oracle, and Elasticsearch.</li><li>Manage centralized software deployment, patching, updates, hardware and software inventories, and configuration management.</li><li>Ensure the effective development, administration, maintenance, and continuous improvement of the ServiceNow platform and its associated services.</li><li>Translate business and operational requirements into scalable, secure, and maintainable ServiceNow solutions in collaboration with stakeholders and technical teams.</li><li>Ensure the reliability, performance, security, and interoperability of ServiceNow integrations with internal and external systems.</li><li>Maintain the accuracy, integrity, security, and compliance of data exchanged between ServiceNow and connected systems.</li><li>Monitor ServiceNow platform health, performance, usage, and compliance, proactively identifying risks and implementing corrective measures.</li><li>Ensure the quality, reliability, and scalability of ServiceNow configurations, customizations, integrations, and workflows through appropriate testing procedures.</li><li>Identify opportunities to optimize ServiceNow processes, automate workflows, improve platform functionality, and enhance operational efficiency.</li><li>Provide technical support and troubleshoot complex ServiceNow development, integration, configuration, and platform-related issues.</li><li>Ensure the availability, reliability, security, performance, and operational continuity of enterprise IT infrastructure and business-critical systems.</li><li>Provide advanced technical support and troubleshoot complex hardware, software, operating system, virtualization, storage, and infrastructure-related issues.</li><li>Monitor infrastructure capacity, performance, and availability, identifying potential problems and implementing corrective measures.</li><li>Ensure compliance with established IT security policies, technical standards, configuration requirements, and software licensing obligations.</li><li>Support highly available and geographically distributed IT environments, ensuring operational resilience and service continuity across multiple sites.</li><li>Participate in incident, problem, change, capacity, and configuration management processes in accordance with ITIL practices.</li><li>Maintain accurate technical documentation, system configurations, operational procedures, and infrastructure records.</li><li>Coordinate with internal technical teams, stakeholders, and external service providers to ensure effective service delivery and resolution of technical issues.</li><li>Identify and propose opportunities for infrastructure modernization, automation, standardization, and technology improvements.</li><li>Contribute to the continuous improvement of IT services and ensure that technology solutions meet the operational requirements of the European Institution.</li></ul><p><strong>Requirements</strong></p><p><strong>What do you need to succeed in this position?</strong></p><ul><li>Master Degree + minimum nine years of relevant professional experience in IT systems engineering, enterprise platforms, ServiceNow development, administration, implementation, or related technical domains.</li></ul><ul><li>Strong proficiency in ServiceNow platform development, administration, configuration, and customization.</li><li>Advanced JavaScript programming skills and practical experience with ServiceNow APIs, including GlideRecord, GlideAjax, and Script Includes.</li><li>Proven experience developing and maintaining REST and SOAP integrations, including authentication mechanisms such as OAuth and Basic Authentication.</li><li>Experience with data imports, exports, transformation processes, and integration troubleshooting.</li><li>Practical knowledge of ServiceNow modules, including ITSM, ITOM, ITAM, and CMDB.</li><li>Experience with Flow Designer, subflows, UI Policies, workflow automation, and reusable components.</li><li>Knowledge of ServiceNow Automated Test Framework (ATF) and functional and integration testing.</li><li>Advanced knowledge of VMware technologies, particularly vSphere, vSAN, and Horizon.</li><li>Experience administering Red Hat Linux and Windows Server environments at enterprise scale.</li><li>Knowledge of server hardware management, including blade systems, composable infrastructure, racking, cabling, hardware replacement, firmware upgrades, and inventory management.</li><li>Experience with Oracle infrastructure, particularly Exadata and ZDLRA.</li><li>Advanced knowledge of SAN, NAS, Ceph, vSAN, and distributed file systems.</li><li>Experience administering backup and recovery solutions, particularly Veeam and HPE StoreOnce.</li><li>Knowledge of Active Directory, LDAP, Keycloak, PKI, digital certificates, and centralized IT security policies.</li><li>Experience with software deployment, patch management, configuration management, and software compliance.</li><li>Advanced knowledge of OpenShift Container Platform (OCP) administration and supporting technologies, including Red Hat Service Mesh, GitHub, Helm, GitOps, Ansible Automation Platform, and Kafka.</li><li>Advanced scripting and automation skills using Ansible and PowerShell.</li><li>Experience with monitoring and observability platforms, including Prometheus, Grafana, Elasticsearch, Fluentd, Kibana, Jaeger, Nagios, and Splunk.</li><li>Knowledge of mail servers and mail relays, particularly Postfix, antivirus, and anti-spam solutions.</li><li>Basic knowledge of database technologies, including Microsoft SQL Server, Oracle, and Elasticsearch.</li><li>Familiarity with ITIL/ITIL V3 processes, particularly incident, problem, change, capacity, and configuration management.</li><li>Experience with on-premises implementations and integrations would be considered an advantage.</li><li>ServiceNow Administrator, Implementer, or Developer certifications would be considered an advantage.</li><li>Good knowledge of English</li></ul><p>At Uni Systems, we are providing equal employment opportunities and banning any form of discrimination on grounds of gender, religion, race, color, nationality, disability, social class, political beliefs, age, marital status, sexual orientation or any other characteristics. Take a look at our&nbsp;<a href=\"https://www.unisystems.com/sites/default/files/2023-05/Diversity%2C%20Equality%20and%20Inclusion%20Policy.pdf\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Diversity, Equality &amp; Inclusion Policy</a>&nbsp;for more information.</p><p>Find <a href=\"https://www.arbeitnow.fr\">Jobs in France</a> on Arbeitnow</a>",
+      "category": "Developer",
+      "role_category": "Developer",
+      "is_agency_lead": false,
+      "agency_badge": "",
+      "status": "active"
+    },
     {
       "id": "8b16d06628ab",
       "title": "Senior ServiceNow Developer \u2014 ITSM & Service Portal Specialist",
@@ -3744,7 +3762,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "b522c45205a3",
@@ -3762,7 +3780,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "3f17f7340408",
@@ -3780,7 +3798,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2c74eb3e7809",
@@ -3798,7 +3816,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "05f10fe250b4",
@@ -3816,7 +3834,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bc4f463f5e0d",
