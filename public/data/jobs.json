@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T18:26:02.896624Z",
+  "updated_at": "2026-11-26T02:36:55.435659Z",
   "count": 1682,
   "jobs": [
     {
@@ -3708,7 +3708,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6da7c403322c",
@@ -3726,7 +3726,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "c6e29c70c631",
@@ -3744,7 +3744,7 @@
       "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "522a4186e77f",
@@ -3762,7 +3762,7 @@
       "role_category": "Other",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "22c399aaa085",
@@ -3780,7 +3780,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "6b9793e49419",
