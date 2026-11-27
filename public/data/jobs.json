@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T02:36:55.435659Z",
+  "updated_at": "2026-11-27T02:38:03.688977Z",
   "count": 1682,
   "jobs": [
     {
@@ -3546,7 +3546,7 @@
       "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "4e7c41fe00ba",
@@ -3564,7 +3564,7 @@
       "role_category": "Administrator",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a4e696a35edd",
@@ -3582,7 +3582,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a311bdb32cb2",
@@ -3600,7 +3600,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "a5e8f44ec915",
@@ -3618,7 +3618,7 @@
       "role_category": "Consultant",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "cde58bc2f8c1",
@@ -3636,7 +3636,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "2b28df7831ff",
@@ -3654,7 +3654,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "1463c221600c",
@@ -3672,7 +3672,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "701a5de77910",
@@ -3690,7 +3690,7 @@
       "role_category": "Other",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "0d7934243233",
