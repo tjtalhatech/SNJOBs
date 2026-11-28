@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T17:51:06.197860Z",
+  "updated_at": "2026-11-28T02:27:41.171316Z",
   "count": 1692,
   "jobs": [
     {
@@ -3654,7 +3654,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "bbea2abc1451",
@@ -3672,7 +3672,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "e1ddc7622a86",
@@ -3690,7 +3690,7 @@
       "role_category": "Developer",
       "is_agency_lead": false,
       "agency_badge": "",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "f62cb9336901",
@@ -3708,7 +3708,7 @@
       "role_category": "Developer",
       "is_agency_lead": true,
       "agency_badge": "C2C / Agency Contract",
-      "status": "active"
+      "status": "archived"
     },
     {
       "id": "06964a293b6c",
